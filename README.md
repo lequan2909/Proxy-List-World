@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4992** proxies at the latest update. Usable proxies are below.
+> Scraper found **4994** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|278|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|280|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|628|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|362|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|3|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|103.133.223.20|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|13|46.99.162.194|8082|Kosovo|Pristina|IPKO Telecommunications LLC|
-|14|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
-|15|125.26.97.221|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|36.89.212.250|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|101.255.148.242|8080|Indonesia|Bekasi|PT Remala Abadi|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|4|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
+|11|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|12|103.122.1.130|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|13|67.43.236.20|18131|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|17891|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.18|5711|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|16785|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|17891|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|17891|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.230|11517|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|17839|Canada|Montreal|GloboTech Communications|
 
 
 
