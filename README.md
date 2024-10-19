@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|45.123.142.4|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|4|116.104.131.63|5012|Vietnam|Hanoi|Viettel Corporation|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|36.37.146.119|32650|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|67.43.227.228|7733|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|18287|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|5573|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|18287|Canada|Montreal|GloboTech Communications|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|10|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
+|13|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|14|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|15|170.239.205.73|8080|Colombia|Bogotá|FIBERNET|
+|16|72.10.164.178|4405|Canada|Montreal|GloboTech Communications|
 |17|67.43.227.226|18287|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|2437|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|22763|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|30749|Canada|Montreal|GloboTech Communications|
+|18|189.204.244.178|999|Mexico|Mexico City|Operbes, S.A. de C.V.|
+|19|103.167.170.171|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|20|67.43.227.226|18287|Canada|Montreal|GloboTech Communications|
 
 
 
