@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|4|171.227.85.157|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|89.46.249.253|53018|United Kingdom|London|Hydra Communications Ltd|
-|9|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|180.180.92.22|8080|Thailand|Rayong|TOT Public Company Limited|
 |10|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|11|115.178.49.195|1080|Indonesia|Bandung|NOC SIMAYA|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|18|67.43.236.18|8297|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|21451|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|20933|Canada|Montreal|GloboTech Communications|
+|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|171.7.43.254|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
