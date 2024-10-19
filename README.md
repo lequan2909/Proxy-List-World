@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5556** proxies at the latest update. Usable proxies are below.
+> Scraper found **5108** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|271|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|756|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|719|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|394|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3209|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2798|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|4|171.227.85.157|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|103.67.237.211|3128|India|Hyderabad|OASISGSSERVICES|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|11|185.64.208.226|53281|Russia|Kstovo|Svyazist LLC|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|14|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|15|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|20|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|89.46.249.253|53018|United Kingdom|London|Hydra Communications Ltd|
+|9|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|10|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|11|115.178.49.195|1080|Indonesia|Bandung|NOC SIMAYA|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|18|67.43.236.18|8297|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.21|21451|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.19|20933|Canada|Montreal|GloboTech Communications|
 
 
 
