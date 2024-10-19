@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|4|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|5|116.104.131.57|5020|Vietnam|Hanoi|Viettel Corporation|
-|6|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|3|147.28.155.20|55555|United States|Dallas|Packet Host, Inc.|
+|4|18.228.238.162|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|5|186.227.221.85|18181|Brazil|Palmeiras|Wznet Telecom Ltda|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |9|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
 |11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|35.91.207.96|3128|United States|Portland|Amazon.com, Inc.|
-|17|116.105.79.46|14880|Vietnam|Da Nang|Viettel Corporation|
-|18|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|19|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|20|67.43.236.20|21551|Canada|Montreal|GloboTech Communications|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|14|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|15|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|16|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|17|43.156.64.100|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|67.43.236.20|29663|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|29663|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|20671|Canada|Montreal|GloboTech Communications|
 
 
 
