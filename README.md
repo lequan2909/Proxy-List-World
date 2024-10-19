@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|103.217.216.183|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|114.23.104.110|3128|New Zealand|Christchurch|Voyager Internet Ltd.|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|72.10.164.178|15429|Canada|Montreal|GloboTech Communications|
-|12|167.71.110.174|8118|United States|Clifton|DigitalOcean, LLC|
-|13|67.43.227.227|28121|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|30557|Canada|Montreal|GloboTech Communications|
-|15|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
-|16|116.104.131.63|5012|Vietnam|Hanoi|Viettel Corporation|
-|17|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
-|18|67.43.236.20|33271|Canada|Montreal|GloboTech Communications|
-|19|58.147.186.214|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
+|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
