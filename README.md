@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
 |3|150.230.211.74|8080|Japan|Tokyo|Oracle Corporation|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|6|144.86.187.51|3129|United States|Malden|Charles River Operation|
-|7|144.86.187.45|3129|United States|Malden|Charles River Operation|
-|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|9|144.86.187.39|3129|United States|Malden|Charles River Operation|
-|10|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|125.209.110.83|39617|Pakistan|Islamabad|Multinet 125-110/24|
-|18|67.43.227.227|9327|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|4|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|50.204.36.138|60808|United States|Sacramento|Comcast Cable Communications, LLC|
+|11|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|12|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|72.10.164.178|2421|Canada|Montreal|GloboTech Communications|
+|20|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
 
 
 
