@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|2|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |4|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|36.50.11.198|8080|Bangladesh|Dhaka|Stardust Telecom Ltd|
-|7|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|7|210.5.104.126|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
 |9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|11|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|190.61.40.190|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 
 
 
