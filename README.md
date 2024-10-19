@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.137.111.231|8080|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
+|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
 |3|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|101.51.107.96|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|115.79.226.76|5106|Vietnam|Ho Chi Minh City|VIETELftth|
-|10|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|171.4.124.139|8081|Thailand|Hua Hin|Triple T Broadband Public Company Limited|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|17|5.143.79.169|8181|Russia|Vladivostok|Rostelecom networks|
-|18|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|19|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
-|20|72.10.164.178|14641|Canada|Montreal|GloboTech Communications|
+|4|171.227.73.62|5102|Vietnam|Hanoi|Viettel Corporation|
+|5|178.124.71.73|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|11|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|12|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|72.10.164.178|14641|Canada|Montreal|GloboTech Communications|
+|15|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|16|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|17|72.10.160.90|21605|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|14641|Canada|Montreal|GloboTech Communications|
+|19|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|20|49.84.172.225|8081|China|Nanjing|Chinanet|
 
 
 
