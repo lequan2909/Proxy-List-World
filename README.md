@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4974** proxies at the latest update. Usable proxies are below.
+> Scraper found **4980** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|286|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|292|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|638|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|326|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|36.73.129.162|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|6|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|9|157.20.146.76|3127|Pakistan|Lahore|Z COM NETWORKS|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|4|119.47.90.241|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|86.109.3.28|10080|United States|Chicago|Packet Host, Inc.|
+|13|41.65.160.174|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|162.240.154.26|3128|United States|Provo|Unified Layer|
-|20|101.51.107.96|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|27.75.70.42|4004|Vietnam|Ho Chi Minh City|Viettel Group|
+|17|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|18|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|19|72.10.160.170|31539|Canada|Montreal|GloboTech Communications|
+|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
