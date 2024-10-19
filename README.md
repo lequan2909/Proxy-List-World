@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|110.78.149.185|8080|Thailand|Bang Rak|CAT-BB|
-|4|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|223.205.184.84|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
-|9|51.159.159.73|80|France|Paris|SCALEWAY|
-|10|103.146.185.143|2022|Indonesia|Wonogiri|YAMNET|
-|11|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|12|187.63.156.92|999|Dominican Republic|Santo Domingo Este|Derivalnet Y Comunicaciones SRL|
-|13|1.10.227.16|8080|Thailand|Damnoen Saduak|TOT Public Company Limited|
-|14|182.253.158.32|8080|Indonesia|Bandung|BIZNET|
-|15|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|67.43.236.18|18815|Canada|Montreal|GloboTech Communications|
-|18|171.252.128.52|19012|Vietnam|Da Nang|Viettel Corporation|
-|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|20|72.10.160.90|15837|Canada|Montreal|GloboTech Communications|
+|2|51.159.159.73|80|France|Paris|SCALEWAY|
+|3|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
+|6|86.109.3.20|10089|United States|Chicago|Packet Host, Inc.|
+|7|51.159.159.73|80|France|Paris|SCALEWAY|
+|8|72.10.160.90|26505|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.18|19341|Canada|Montreal|GloboTech Communications|
+|10|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|11|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
+|12|72.10.160.173|13649|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|67.43.227.226|3001|Canada|Montreal|GloboTech Communications|
+|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|19|67.43.228.254|10069|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|26505|Canada|Montreal|GloboTech Communications|
 
 
 
