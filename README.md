@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|181.192.24.174|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
-|6|49.84.172.225|8081|China|Nanjing|Chinanet|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|67.43.227.226|3001|Canada|Montreal|GloboTech Communications|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|49.84.172.225|8081|China|Nanjing|Chinanet|
+|5|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|8|72.10.160.174|20675|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.226|11849|Canada|Montreal|GloboTech Communications|
 |10|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|11|67.43.236.21|13243|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.174|4831|Canada|Montreal|GloboTech Communications|
-|13|144.86.187.34|3129|United States|Malden|Charles River Operation|
-|14|67.43.228.253|16327|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|23591|Canada|Montreal|GloboTech Communications|
-|16|144.86.187.53|3129|United States|Malden|Charles River Operation|
-|17|67.43.227.226|3001|Canada|Montreal|GloboTech Communications|
-|18|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|19|144.86.187.49|3129|United States|Malden|Charles River Operation|
-|20|72.10.160.93|8759|Canada|Montreal|GloboTech Communications|
+|11|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|72.10.160.93|8759|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|12243|Canada|Montreal|GloboTech Communications|
+|17|51.159.159.73|80|France|Paris|SCALEWAY|
+|18|203.142.69.69|8080|Indonesia|Jakarta|BIZNET|
+|19|72.10.164.178|27711|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|11849|Canada|Montreal|GloboTech Communications|
 
 
 
