@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|185.32.124.132|35408|Switzerland|Dietikon|FSIT AG - Hosted Services|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|51.159.75.249|3128|France|Paris|SCALEWAY|
-|10|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|11|149.34.210.58|9090|Türkiye|Konya|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|12|67.43.236.19|11349|Canada|Montreal|GloboTech Communications|
-|13|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|72.10.160.170|7925|Canada|Montreal|GloboTech Communications|
-|18|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|3|91.107.152.157|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|185.32.124.132|35408|Switzerland|Dietikon|FSIT AG - Hosted Services|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|205.164.84.247|8591|Brazil|Buritis|AGIS|
+|9|103.180.123.219|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|12|103.155.198.93|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|16|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|19|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
+|20|72.10.160.170|21721|Canada|Montreal|GloboTech Communications|
 
 
 
