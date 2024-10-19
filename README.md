@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|8|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.172.116.201|8888|Singapore|Singapore|Melbikomas UAB|
-|10|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|11|172.233.131.233|10001|United States|Los Angeles|Akamai Technologies, Inc.|
-|12|103.211.200.202|3128|Vietnam|Quận Hải Châu|Viet Digital Technology Liability Company|
-|13|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|14|180.56.154.198|8080|Japan|Roppongi|NTT Communications Corporation|
-|15|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|211.222.177.119|3128|South Korea|Goyang-si|Korea Telecom|
-|18|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
+|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|7|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|10|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|158.140.172.246|8080|Indonesia|Palembang|MYREPUBLIC|
+|14|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|15|178.124.232.203|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|16|186.50.111.46|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|17|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|18|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
+|19|43.156.64.100|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
