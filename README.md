@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|3|203.150.128.118|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|36.73.129.162|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|213.199.44.90|8000|Germany|Düsseldorf|Contabo GmbH|
-|6|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|7|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|41.65.160.174|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|13|202.56.166.157|8080|Indonesia|Yogyakarta|PT Lintas Data Prima|
-|14|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|15|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|45.224.151.250|999|Ecuador|Latacunga|Ufinet Panama S.A.|
-|18|147.28.155.20|55555|United States|Dallas|Packet Host, Inc.|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|2|203.150.128.118|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|36.73.129.162|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|7|213.199.44.90|8000|Germany|Düsseldorf|Contabo GmbH|
+|8|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|9|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|10|162.240.154.26|3128|United States|Provo|Unified Layer|
+|11|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|19|181.10.200.154|3128|Argentina|Los Hornillos|Telecom Argentina S.A.|
+|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 
 
 
