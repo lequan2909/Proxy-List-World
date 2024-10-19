@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|103.144.181.74|80|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|9|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|10|170.83.170.2|9191|Brazil|Macaíba|MT INTERNET COMERCIO & SERVICO LTDA|
-|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|61.129.2.212|8080|China|Beijing|CHINANET|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|157.15.166.46|7777|Indonesia|Metro|PT Kartika Siger Network|
-|15|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|72.10.164.178|17185|Canada|Montreal|GloboTech Communications|
-|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|19|164.70.66.125|3128|Japan|Chiyoda|InfoSphere|
-|20|72.10.160.171|23153|Canada|Montreal|GloboTech Communications|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|6|114.9.28.114|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|7|124.158.153.218|8180|Indonesia|Pulo Gebang|PT iForte Global Internet|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|203.150.113.55|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|17|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|18|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
 
 
 
