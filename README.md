@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|31.56.78.215|8080|Indonesia|Purbalingga|PT Perwira Media Solusi|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|10|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
-|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|72.10.164.178|24437|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|24437|Canada|Montreal|GloboTech Communications|
-|15|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|164.70.66.125|3128|Japan|Chiyoda|InfoSphere|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|67.43.227.228|27447|Canada|Montreal|GloboTech Communications|
-|19|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|20|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|2|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|3|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|9|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
+|10|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
+|12|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|164.70.66.125|3128|Japan|Chiyoda|InfoSphere|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|72.10.164.178|10923|Canada|Montreal|GloboTech Communications|
+|17|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
+|18|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
