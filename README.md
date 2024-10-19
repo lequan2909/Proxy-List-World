@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|2|147.28.155.20|55555|United States|Dallas|Packet Host, Inc.|
-|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|4|200.125.168.218|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|5|147.28.155.20|55555|United States|Dallas|Packet Host, Inc.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|12|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|14|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|15|67.43.227.227|4365|Canada|Montreal|GloboTech Communications|
-|16|116.105.79.46|1644|Vietnam|Da Nang|Viettel Corporation|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|67.43.227.227|4365|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|27741|Canada|Montreal|GloboTech Communications|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|3|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|6|147.28.155.20|10002|United States|Dallas|Packet Host, Inc.|
+|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|8|147.28.155.20|10002|United States|Dallas|Packet Host, Inc.|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
+|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|16|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|18|147.28.155.20|10002|United States|Dallas|Packet Host, Inc.|
+|19|147.28.155.20|10002|United States|Dallas|Packet Host, Inc.|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
