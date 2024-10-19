@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|36.73.129.162|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|4|124.106.173.56|8082|Philippines|Calaocan District|Philippine Long Distance Telephone Co.|
-|5|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|49.48.94.98|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|13|203.150.128.118|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|202.57.26.58|8080|Indonesia|Semarang|WANET|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|177.124.115.235|3131|Brazil|Mandaguaçu|MMER Provedor de Internet Ltda - ME|
-|19|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|4|36.73.129.162|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
+|10|103.30.115.154|8080|Timor-Leste|Dili|Telin Telkomcel TimorLeste|
+|11|103.46.8.11|8088|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|12|202.57.26.58|8080|Indonesia|Semarang|WANET|
+|13|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|14|157.20.146.76|3127|Pakistan|Lahore|Z COM NETWORKS|
+|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
+|19|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|20|72.10.164.178|32829|Canada|Montreal|GloboTech Communications|
 
 
 
