@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|3|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|4|36.73.129.162|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|2|36.73.129.162|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|178.124.232.203|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|4|171.6.75.142|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
 |5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|7|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|103.163.231.142|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|45.76.126.190|80|Australia|Sydney|The Constant Company|
-|16|20.13.34.208|8118|Netherlands|Amsterdam|Microsoft Corporation|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|103.156.233.157|3456|Indonesia|Bogor|MULTIMEDIALINKTECH|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|172.233.131.233|10001|United States|Los Angeles|Akamai Technologies, Inc.|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|157.20.146.76|3127|Pakistan|Lahore|Z COM NETWORKS|
+|14|164.70.66.125|3128|Japan|Chiyoda|InfoSphere|
+|15|38.183.146.77|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|16|186.225.108.43|3128|Brazil|São Paulo|America-NET Ltda|
+|17|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|18|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|19|72.10.164.178|24851|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|14527|Canada|Montreal|GloboTech Communications|
 
 
 
