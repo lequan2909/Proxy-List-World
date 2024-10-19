@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|4|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|5|223.25.110.88|1080|Indonesia|Surabaya|SinergiNet|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|2|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
+|5|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|6|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|7|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|8|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
 |9|67.43.227.226|11493|Canada|Montreal|GloboTech Communications|
-|10|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|67.43.228.253|5481|Canada|Montreal|GloboTech Communications|
-|13|180.88.111.187|3128|China|Beijing|GXBLnet|
-|14|72.10.160.90|13735|Canada|Montreal|GloboTech Communications|
-|15|51.159.75.249|3128|France|Paris|SCALEWAY|
-|16|157.230.89.122|18107|United States|North Bergen|DigitalOcean, LLC|
-|17|103.19.58.179|8082|Indonesia|Ngawi|BITSNET|
-|18|67.43.227.227|22077|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|13735|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|10055|Canada|Montreal|GloboTech Communications|
+|10|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|11|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|72.10.160.90|27323|Canada|Montreal|GloboTech Communications|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|72.10.160.90|27323|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|27305|Canada|Montreal|GloboTech Communications|
+|16|179.125.125.243|3128|Brazil|Teresina|Virtex Telecom|
+|17|67.43.228.254|5209|Canada|Montreal|GloboTech Communications|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|20|72.10.160.90|27323|Canada|Montreal|GloboTech Communications|
 
 
 
