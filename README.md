@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.128.140|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|4|49.48.55.232|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|5|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|6|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|7|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|8|180.56.154.198|8080|Japan|Roppongi|NTT Communications Corporation|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|103.170.97.209|7777|Indonesia|Pasuruan|PT Global Data Akses Persada|
-|15|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|172.233.131.233|10001|United States|Los Angeles|Akamai Technologies, Inc.|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|20|124.6.165.155|8082|Philippines|Lahug|INNOVE|
+|1|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|203.150.128.140|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|6|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|7|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|8|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
+|15|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|16|180.56.154.198|8080|Japan|Roppongi|NTT Communications Corporation|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|103.170.97.209|7777|Indonesia|Pasuruan|PT Global Data Akses Persada|
+|20|103.54.43.131|8080|Bangladesh|Dhaka|THE NET HEADS|
 
 
 
