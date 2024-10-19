@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|203.150.113.64|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |3|36.73.129.162|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|203.150.128.118|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|6|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|7|185.64.208.116|53281|Russia|Kstovo|Svyazist LLC|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|10|45.76.126.190|80|Australia|Sydney|The Constant Company|
-|11|41.65.160.174|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|27.72.141.201|10075|Vietnam|Hanoi|Newass2011xDSLHN|
+|4|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|5|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|6|185.64.208.116|53281|Russia|Kstovo|Svyazist LLC|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|203.150.128.118|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|16|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|17|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|18|120.28.139.12|8082|Philippines|Caloocan City|Globe Telecom|
-|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
