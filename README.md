@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.128.118|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|103.156.15.39|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|4|36.73.129.162|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|10|177.124.115.235|3131|Brazil|Mandaguaçu|MMER Provedor de Internet Ltda - ME|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|162.240.154.26|3128|United States|Provo|Unified Layer|
-|15|120.28.139.12|8082|Philippines|Caloocan City|Globe Telecom|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|203.192.199.158|8080|India|Ponda|Entire In2Cable|
+|2|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|3|36.73.129.162|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|4|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|5|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|163.172.33.137|4346|France|Vitry-sur-Seine|Online S.A.S.|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|181.10.200.154|3128|Argentina|Los Hornillos|Telecom Argentina S.A.|
+|14|172.233.131.233|10001|United States|Los Angeles|Akamai Technologies, Inc.|
+|15|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|16|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
