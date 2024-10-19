@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|203.150.128.239|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|185.64.208.226|53281|Russia|Kstovo|Svyazist LLC|
+|3|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
 |4|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|8|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|103.165.155.105|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|11|157.66.16.48|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
-|12|103.155.197.238|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|223.206.51.204|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|15|103.133.27.237|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|45.76.126.190|80|Australia|Sydney|The Constant Company|
-|20|67.43.236.20|18067|Canada|Montreal|GloboTech Communications|
+|5|185.64.208.226|53281|Russia|Kstovo|Svyazist LLC|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|223.206.51.204|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|8|103.155.197.238|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|103.68.214.22|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|12|103.211.107.110|7777|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|13|103.83.18.149|8080|Australia|South Brisbane|Asia Pacific Network Information Center|
+|14|143.255.85.180|999|Venezuela|Mérida|Viginet C.A|
+|15|186.125.218.147|999|Argentina|Molinos|Telecom Argentina S.A.|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|18|187.102.36.15|3128|Brazil|Braço do Norte|MKM Internet Solution Provider Ltda|
+|19|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|20|45.76.126.190|80|Australia|Sydney|The Constant Company|
 
 
 
