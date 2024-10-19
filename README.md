@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|36.73.129.162|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|185.64.208.116|53281|Russia|Kstovo|Svyazist LLC|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|36.73.129.162|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |5|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|6|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|223.205.97.218|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|203.150.128.118|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 |10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|185.32.124.132|35408|Switzerland|Dietikon|FSIT AG - Hosted Services|
-|14|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|11|185.64.208.116|53281|Russia|Kstovo|Svyazist LLC|
+|12|185.32.124.132|35408|Switzerland|Dietikon|FSIT AG - Hosted Services|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|18|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|19|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|20|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 
 
 
