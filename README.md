@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5331** proxies at the latest update. Usable proxies are below.
+> Scraper found **5310** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|267|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|572|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|551|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|389|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3177|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
-|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|5|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|38.51.206.146|999|Venezuela|Maracaibo|Tecnoven Services CA|
-|9|181.39.48.120|999|Ecuador|Quito|Telconet S.A|
-|10|101.255.167.174|8080|Indonesia|Bekasi|PT Remala Abadi|
-|11|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|12|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|67.43.227.227|15773|Canada|Montreal|GloboTech Communications|
-|17|202.52.12.86|8080|Indonesia|Bandung|PT SKYLINE SEMESTA|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|20|67.43.236.20|19251|Canada|Montreal|GloboTech Communications|
+|2|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|13|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|16|45.191.47.1|999|Colombia|Orito|TV AZTECA SUCURSAL COLOMBIA|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|20|203.150.128.120|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 
 
 
