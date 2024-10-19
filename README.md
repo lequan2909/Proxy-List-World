@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5271** proxies at the latest update. Usable proxies are below.
+> Scraper found **5318** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|263|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|617|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|664|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|339|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3126|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
-|7|209.146.20.228|8082|Philippines|Manila|Cogent Communications|
-|8|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
-|9|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|67.43.227.230|1113|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.19|25107|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|1113|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.94|20057|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|15035|Canada|Montreal|GloboTech Communications|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|72.10.160.173|13649|Canada|Montreal|GloboTech Communications|
+|3|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|181.192.24.174|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|6|49.84.172.225|8081|China|Nanjing|Chinanet|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|67.43.227.226|3001|Canada|Montreal|GloboTech Communications|
+|10|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|11|67.43.236.21|13243|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.174|4831|Canada|Montreal|GloboTech Communications|
+|13|144.86.187.34|3129|United States|Malden|Charles River Operation|
+|14|67.43.228.253|16327|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.18|23591|Canada|Montreal|GloboTech Communications|
+|16|144.86.187.53|3129|United States|Malden|Charles River Operation|
+|17|67.43.227.226|3001|Canada|Montreal|GloboTech Communications|
+|18|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|19|144.86.187.49|3129|United States|Malden|Charles River Operation|
+|20|72.10.160.93|8759|Canada|Montreal|GloboTech Communications|
 
 
 
