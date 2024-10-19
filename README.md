@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|3|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|4|41.65.160.174|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|5|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|2|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|3|143.255.85.180|999|Venezuela|Mérida|Viginet C.A|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|103.169.131.50|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
 |6|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|88.198.39.240|10013|Germany|Nuremberg|Hetzner Online GmbH|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|165.255.57.84|8080|South Africa|Johannesburg|Afrihost (Pty) Ltd|
-|13|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|72.10.164.178|17065|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|27863|Canada|Montreal|GloboTech Communications|
-|17|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
-|18|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|19|165.154.134.114|3128|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|10|204.48.31.203|80|United States|North Bergen|DigitalOcean, LLC|
+|11|101.255.148.242|8080|Indonesia|Bekasi|PT Remala Abadi|
+|12|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|18|165.255.57.84|8080|South Africa|Johannesburg|Afrihost (Pty) Ltd|
+|19|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|20|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
 
 
 
