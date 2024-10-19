@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|72.10.164.178|2993|Canada|Montreal|GloboTech Communications|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|67.43.227.230|1583|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|2993|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.250|7073|Canada|Montreal|GloboTech Communications|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|67.43.227.226|18287|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|30749|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.93|27181|Canada|Montreal|GloboTech Communications|
-|13|187.94.220.85|8080|Brazil|Guaçuí|Acesse Comunicação Ltda|
-|14|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|15|116.104.133.0|5008|Vietnam|Hanoi|Viettel Corporation|
-|16|67.43.227.226|18287|Canada|Montreal|GloboTech Communications|
-|17|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|18|67.43.236.20|30749|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|2993|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|2437|Canada|Montreal|GloboTech Communications|
+|2|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|8|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|67.43.236.20|10225|Canada|Montreal|GloboTech Communications|
+|12|185.19.4.22|3128|Ukraine|Kyiv|Triolan|
+|13|72.10.160.93|27181|Canada|Montreal|GloboTech Communications|
+|14|59.38.63.163|9797|China|Zhuhai|Chinanet|
+|15|200.24.157.122|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|16|183.247.152.98|53281|China|Hangzhou|China Mobile Communications Corporation|
+|17|72.10.164.178|8779|Canada|Montreal|GloboTech Communications|
+|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|19|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|20|67.43.227.227|29355|Canada|Montreal|GloboTech Communications|
 
 
 
