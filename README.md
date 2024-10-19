@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4944** proxies at the latest update. Usable proxies are below.
+> Scraper found **4942** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|295|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|293|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|600|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|405|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|1|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|2|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|103.172.116.201|8888|Singapore|Singapore|Melbikomas UAB|
-|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |5|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|6|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
-|7|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|8|31.128.42.169|3128|Russia|St Petersburg|Beget LLC|
-|9|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|12|173.45.117.254|8888|United States|Columbus|eNET Inc|
-|13|116.104.133.0|5008|Vietnam|Hanoi|Viettel Corporation|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|192.145.205.97|8080|Brazil|Francisco Sá|Vianet Guaraciama Eireli ME|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|119.76.142.204|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|8|122.2.79.174|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|27.75.70.42|4004|Vietnam|Ho Chi Minh City|Viettel Group|
+|12|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|13|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
+|14|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|16|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|157.20.253.43|8989|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|18|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|19|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|20|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
 
 
 
