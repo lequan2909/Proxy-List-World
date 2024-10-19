@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|4|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|4|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
 |5|178.48.68.61|18080|Hungary|Budapest|UPC|
 |6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|10|187.32.246.84|3128|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
-|11|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|12|203.150.128.115|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|103.155.198.166|8082|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|148.153.56.51|80|United States|Los Angeles|CDS Global Cloud Co., Ltd|
-|19|187.103.105.22|8999|Brazil|Blumenau|BR.Digital Provider|
-|20|86.109.3.28|10080|United States|Chicago|Packet Host, Inc.|
+|7|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|8|103.75.53.235|7788|Indonesia|Jakarta|PT Quantum Tera Network|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|38.7.0.40|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|11|103.67.237.212|3128|India|Hyderabad|OASISGSSERVICES|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|15|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
