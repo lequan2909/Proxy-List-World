@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|140.245.103.159|3128|Singapore|Singapore|Oracle Corporation|
-|5|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
-|6|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|7|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|98.122.139.1|8118|United States|Cary|Charter Communications|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|11|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|13|173.45.117.254|8888|United States|Columbus|eNET Inc|
-|14|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
-|15|98.122.139.1|8118|United States|Cary|Charter Communications|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|8|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|9|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|10|103.211.200.202|3128|Vietnam|Quận Hải Châu|Viet Digital Technology Liability Company|
+|11|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|15|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|16|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|19|98.122.139.1|8118|United States|Cary|Charter Communications|
 |20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
