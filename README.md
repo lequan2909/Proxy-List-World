@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|4|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
-|10|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|11|101.255.167.174|8080|Indonesia|Bekasi|PT Remala Abadi|
-|12|186.96.96.134|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|116.104.131.63|5012|Vietnam|Hanoi|Viettel Corporation|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|94.231.192.212|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|8|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|144.86.187.50|3129|United States|Malden|Charles River Operation|
+|10|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|11|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|12|103.105.81.38|8082|Indonesia|Karanggan|Biznet Networks|
+|13|157.20.253.85|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|14|144.86.187.46|3129|United States|Malden|Charles River Operation|
+|15|114.23.104.110|3128|New Zealand|Christchurch|Voyager Internet Ltd.|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|18|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|19|190.52.104.214|999|Venezuela|Caracas|Gold Data USA Inc|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
