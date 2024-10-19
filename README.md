@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
 |3|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|4|150.230.211.74|8080|Japan|Tokyo|Oracle Corporation|
-|5|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|10|103.171.156.218|8080|Indonesia|Jakarta|MYREPUBLIC|
+|4|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|171.228.116.114|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|8|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
+|9|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|10|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
 |11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|13|200.215.229.3|999|Peru|Cusco|Gpon Networks S.A.C.|
-|14|103.76.149.67|8080|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|15|103.67.237.214|3128|India|Hyderabad|OASISGSSERVICES|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|182.253.158.32|8080|Indonesia|Bandung|BIZNET|
-|18|171.240.119.87|5101|Vietnam|Hanoi|Viettel Corporation|
-|19|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|150.230.211.74|8080|Japan|Tokyo|Oracle Corporation|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|103.83.97.46|7777|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|16|192.145.228.212|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|17|103.67.237.214|3128|India|Hyderabad|OASISGSSERVICES|
+|18|126.209.16.215|8082|Philippines|Koronadal|Infinivan Incorporated|
+|19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|20|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
