@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|3|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|4|203.150.128.115|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|7|103.156.15.106|1111|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|91.107.152.157|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|143.0.243.80|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|2|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|3|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|4|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|203.150.128.115|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|10|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|45.235.128.239|999|Mexico|Monterrey|Sierra Madre Internet SA de CV|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|16|190.8.164.64|999|Venezuela|Maiquetía|CORPORACION FIBEX TELECOM, C.A.|
-|17|45.235.128.239|999|Mexico|Monterrey|Sierra Madre Internet SA de CV|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|20|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|16|181.119.67.134|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|103.80.110.14|8080|Bhutan|Lungtenzampa|Tshering NORBU t/a NANO|
 
 
 
