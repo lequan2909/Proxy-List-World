@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|144.86.187.38|3129|United States|Malden|Charles River Operation|
-|4|103.191.58.14|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
-|5|200.10.30.217|8083|Colombia|La Virginia|Super Redes S.A.S|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|144.86.187.44|3129|United States|Malden|Charles River Operation|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|144.86.187.58|3129|United States|Malden|Charles River Operation|
-|14|138.94.236.165|8080|Brazil|Altamira|Nettcon Provedor De Internet Eireli EPP|
-|15|144.86.187.49|3129|United States|Malden|Charles River Operation|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|18|72.10.164.178|9461|Canada|Montreal|GloboTech Communications|
-|19|46.209.15.187|8080|Iran|Tehran|ADSL Service in Kermanshah|
-|20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|144.86.187.56|3129|United States|Malden|Charles River Operation|
+|4|38.183.209.33|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|103.124.139.212|1080|Indonesia|Kartasura|Global Media Data Prima|
+|7|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|8|177.37.217.45|8080|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|165.154.134.114|3128|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|12|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
+|13|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|14|72.10.160.90|25285|Canada|Montreal|GloboTech Communications|
+|15|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|16|72.10.160.90|25285|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.173|28695|Canada|Montreal|GloboTech Communications|
+|18|179.125.125.243|3128|Brazil|Teresina|Virtex Telecom|
+|19|72.10.164.178|31621|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|31621|Canada|Montreal|GloboTech Communications|
 
 
 
