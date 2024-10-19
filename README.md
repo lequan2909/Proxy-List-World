@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|1|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |3|171.6.75.142|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|4|36.73.129.162|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|8|223.205.97.218|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|5|36.73.129.162|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|8|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|27.75.70.42|4004|Vietnam|Ho Chi Minh City|Viettel Group|
 |11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|210.79.146.162|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|16|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
-|17|38.9.48.213|8080|Dominican Republic|Santiago de los Caballeros|INVERSIONES BONAFER, SRL|
-|18|124.106.173.56|8082|Philippines|Calaocan District|Philippine Long Distance Telephone Co.|
-|19|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|186.225.108.43|3128|Brazil|São Paulo|America-NET Ltda|
+|13|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|14|185.64.208.116|53281|Russia|Kstovo|Svyazist LLC|
+|15|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|172.233.131.233|10001|United States|Los Angeles|Akamai Technologies, Inc.|
+|18|45.76.126.190|80|Australia|Sydney|The Constant Company|
+|19|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|20|72.10.164.178|12567|Canada|Montreal|GloboTech Communications|
 
 
 
