@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5354** proxies at the latest update. Usable proxies are below.
+> Scraper found **5330** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|267|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|595|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|389|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|365|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3177|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|7|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|8|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|72.10.160.90|7527|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|103.137.67.177|8080|Bangladesh|Binodpur|SK Traders|
-|17|190.111.209.207|3128|Argentina|Buenos Aires|CPS|
-|18|67.43.227.227|18617|Canada|Montreal|GloboTech Communications|
-|19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|162.240.154.26|3128|United States|Provo|Unified Layer|
+|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
