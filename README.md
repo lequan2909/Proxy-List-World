@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|119.76.142.204|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|3|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |5|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|171.6.75.142|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|8|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|74.78.98.156|8888|United States|Bethlehem|Charter Communications|
-|16|75.128.125.149|8080|United States|Portage|Charter Communications|
-|17|74.78.98.156|8888|United States|Bethlehem|Charter Communications|
-|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|171.6.75.142|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|178.124.232.203|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|203.190.46.159|3127|Indonesia|Sleman|PT Jaring Lintas Utara|
+|12|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|172.233.131.233|10001|United States|Los Angeles|Akamai Technologies, Inc.|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|175.106.10.227|7878|Indonesia|Jakarta|Quantum Dist POP GC|
+|18|74.78.98.156|8888|United States|Bethlehem|Charter Communications|
+|19|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|20|74.78.98.156|8888|United States|Bethlehem|Charter Communications|
 
 
 
