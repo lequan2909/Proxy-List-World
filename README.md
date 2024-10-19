@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|83.54.13.108|3128|Spain|León|Telefonica de Espana SAU|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|9|41.65.160.174|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|10|103.165.155.107|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|45.5.118.138|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|8|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|11|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|16|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|17|67.43.236.18|14621|Canada|Montreal|GloboTech Communications|
+|18|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|19|67.43.227.230|20941|Canada|Montreal|GloboTech Communications|
 |20|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
 
 
