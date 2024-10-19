@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|2|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
 |3|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|4|125.25.79.31|8080|Thailand|Ban Chang|TOT Public Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|115.79.226.76|5106|Vietnam|Ho Chi Minh City|VIETELftth|
+|4|101.51.107.96|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
 |7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|103.167.171.153|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|103.166.32.46|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|5.143.79.169|8181|Russia|Vladivostok|Rostelecom networks|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|20|117.6.104.235|5102|Vietnam|Hanoi|Viettel Corporation|
+|8|31.29.249.179|8424|Russia|Saratov|CMST-BLKV|
+|9|178.167.56.0|8080|Russia|Elektrostal|for Flex Ltd|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|103.170.131.42|8080|Thailand|Taling Chan|Triple T Broadband Public Company Limited|
+|13|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|16|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|17|72.10.164.178|10221|Canada|Montreal|GloboTech Communications|
+|18|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|19|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|20|106.110.182.151|1080|China|Shanghai|Chinanet|
 
 
 
