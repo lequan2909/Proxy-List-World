@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|79.175.176.254|3128|Iran|Abadan|AFranet Co|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|103.151.247.235|7777|Indonesia|Bogor|MANAKARRANET|
-|9|147.28.155.20|55555|United States|Dallas|Packet Host, Inc.|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|72.10.160.94|29429|Canada|Montreal|GloboTech Communications|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|67.43.227.227|17227|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|17227|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|28837|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|28867|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|30211|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|28867|Canada|Montreal|GloboTech Communications|
+|7|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|72.10.160.94|29429|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|27609|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|29415|Canada|Montreal|GloboTech Communications|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|15|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|16|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|17|72.10.160.171|11071|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.172|30211|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.173|24855|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
