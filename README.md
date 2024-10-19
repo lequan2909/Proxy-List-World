@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|117.1.251.212|1001|Vietnam|Hanoi|Viettel Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|3|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|4|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|5|91.107.152.157|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|103.137.67.134|8080|Bangladesh|Khanbaniara|SK Traders|
 |9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|38.159.227.179|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|15|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|18|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|19|103.180.123.93|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|20|200.35.50.89|3028|Colombia|Medellín|Edatel S.a. E.S.P|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|202.162.195.54|80|Indonesia|Medan|PT. Media Antar Nusa|
+|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|13|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|17|103.180.123.93|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|18|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|19|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
