@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|2|171.229.243.110|12052|Vietnam|Hanoi|Viettel Corporation|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|171.229.243.110|12052|Vietnam|Hanoi|Viettel Corporation|
-|7|72.10.160.91|9561|Canada|Montreal|GloboTech Communications|
-|8|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|9|67.43.236.19|24285|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|1589|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.250|24119|Canada|Montreal|GloboTech Communications|
-|12|18.228.238.162|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|13|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|14|67.43.236.20|17951|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.254|21781|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|1589|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|25109|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|15423|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|1589|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|1589|Canada|Montreal|GloboTech Communications|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|188.125.169.67|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|171.229.243.110|12052|Vietnam|Hanoi|Viettel Corporation|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|11|67.43.236.19|24285|Canada|Montreal|GloboTech Communications|
+|12|124.6.165.155|8082|Philippines|Lahug|INNOVE|
+|13|67.43.236.20|17951|Canada|Montreal|GloboTech Communications|
+|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|15|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|67.43.227.227|3567|Canada|Montreal|GloboTech Communications|
+|17|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|18|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|19|72.10.160.91|3185|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|28273|Canada|Montreal|GloboTech Communications|
 
 
 
