@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|147.28.155.20|10002|United States|Dallas|Packet Host, Inc.|
-|5|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|18.228.238.162|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|147.28.155.20|10002|United States|Dallas|Packet Host, Inc.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|16|180.211.161.110|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|119.95.182.57|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|19|200.125.168.222|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|20|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|7|147.28.155.20|55555|United States|Dallas|Packet Host, Inc.|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|12|200.125.168.218|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|13|103.151.247.235|7777|Indonesia|Bogor|MANAKARRANET|
+|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|15|202.52.12.86|8080|Indonesia|Bandung|PT SKYLINE SEMESTA|
+|16|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|201.77.108.160|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|19|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|20|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
 
 
 
