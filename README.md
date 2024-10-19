@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
 |4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|103.85.114.249|8080|Bangladesh|Dhaka|FiSSA communication|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
-|13|72.10.164.178|18579|Canada|Montreal|GloboTech Communications|
-|14|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|15|67.43.227.226|32997|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|16527|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|14079|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|1313|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|18579|Canada|Montreal|GloboTech Communications|
-|20|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|12|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|43.252.107.252|7777|Indonesia|Gamping Lor|PT Lintas Data Prima|
+|15|123.112.210.180|9000|China|Beijing|China Unicom Beijing Province Network|
+|16|35.180.58.76|8090|France|Paris|Amazon Technologies Inc.|
+|17|180.88.111.187|3128|China|Beijing|GXBLnet|
+|18|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
+|19|72.10.164.178|18909|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|18909|Canada|Montreal|GloboTech Communications|
 
 
 
