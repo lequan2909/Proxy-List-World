@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|202.47.188.133|8090|Indonesia|Kediri|PT.CITRA BERDIKARI NUSANTARA|
-|6|103.76.151.90|8090|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|18|72.10.160.170|2545|Canada|Montreal|GloboTech Communications|
-|19|116.104.133.0|5008|Vietnam|Hanoi|Viettel Corporation|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|2|171.229.243.110|12052|Vietnam|Hanoi|Viettel Corporation|
+|3|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|14|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|15|72.10.160.172|15049|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.94|24151|Canada|Montreal|GloboTech Communications|
+|17|49.84.172.225|8081|China|Nanjing|Chinanet|
+|18|112.198.150.11|8082|Philippines|Carmona|Globe Telecom|
+|19|72.10.164.178|13465|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|11461|Canada|Montreal|GloboTech Communications|
 
 
 
