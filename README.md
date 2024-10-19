@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.165.155.27|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|101.109.102.12|8080|Thailand|Pattaya|TOT Public Company Limited|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|1.2.213.197|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|2|1.2.213.197|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|147.28.155.20|55555|United States|Dallas|Packet Host, Inc.|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|101.109.102.12|8080|Thailand|Pattaya|TOT Public Company Limited|
+|7|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|8|58.64.12.11|8081|Thailand|Bangkok|Advanced Wireless Network Company Limited|
 |9|79.175.176.254|3128|Iran|Abadan|AFranet Co|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|194.163.149.159|9022|Germany|Düsseldorf|Contabo GmbH|
-|13|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|122.54.165.123|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|17|188.125.169.237|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|103.167.171.153|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|19|67.43.227.227|9975|Canada|Montreal|GloboTech Communications|
-|20|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|157.66.85.32|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|12|103.53.28.53|8080|Indonesia|Majalengka|PT. ANUGERAH RIZKI HEMAT BAROKAH|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|41.65.71.135|1976|Egypt|Kirdāsah|Etisalat Misr|
+|15|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|16|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|38.7.0.40|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|19|105.113.2.82|8080|Nigeria|Okrika|Airtel Networks Limited|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
