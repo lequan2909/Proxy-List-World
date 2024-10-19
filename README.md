@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|188.125.169.100|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|49.84.172.225|8081|China|Nanjing|Chinanet|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|178.130.88.16|8080|Yemen|Dhamār|Yemen-net-bb-pool 178|
-|10|144.86.187.39|3129|United States|Malden|Charles River Operation|
-|11|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|13|138.94.236.165|8080|Brazil|Altamira|Nettcon Provedor De Internet Eireli EPP|
-|14|67.43.227.226|31191|Canada|Montreal|GloboTech Communications|
-|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|16|72.10.164.178|2023|Canada|Montreal|GloboTech Communications|
-|17|49.84.172.225|8081|China|Nanjing|Chinanet|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|67.43.228.252|26403|Canada|Montreal|GloboTech Communications|
-|20|131.196.219.128|8080|Brazil|Vila Velha|Giganetlink Telecomunicacoes Ltda ME - ME|
+|6|103.155.197.209|8090|Indonesia|Sukabumi|JEMBATANDATA|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|49.84.172.225|8081|China|Nanjing|Chinanet|
+|9|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|10|112.198.150.11|8082|Philippines|Carmona|Globe Telecom|
+|11|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|12|72.10.164.178|26759|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.226|31191|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.91|12633|Canada|Montreal|GloboTech Communications|
+|15|49.84.172.225|8081|China|Nanjing|Chinanet|
+|16|72.10.164.178|26759|Canada|Montreal|GloboTech Communications|
+|17|178.130.88.16|8080|Yemen|Dhamār|Yemen-net-bb-pool 178|
+|18|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|20|72.10.164.178|26759|Canada|Montreal|GloboTech Communications|
 
 
 
