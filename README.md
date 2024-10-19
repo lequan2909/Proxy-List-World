@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.229.243.110|12052|Vietnam|Hanoi|Viettel Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|117.1.251.212|1001|Vietnam|Hanoi|Viettel Corporation|
+|3|91.107.152.157|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|38.159.227.179|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
 |6|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|154.66.159.34|800|South Africa|Johannesburg|Wirulink Pty Ltd|
-|11|116.104.133.0|5008|Vietnam|Hanoi|Viettel Corporation|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|171.229.243.110|12052|Vietnam|Hanoi|Viettel Corporation|
-|14|51.159.159.73|80|France|Paris|SCALEWAY|
-|15|209.146.20.228|8082|Philippines|Manila|Cogent Communications|
-|16|89.46.249.252|5080|United Kingdom|London|Hydra Communications Ltd|
-|17|72.10.160.171|3847|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|4749|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|24461|Canada|Montreal|GloboTech Communications|
-|20|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|72.10.164.178|10543|Canada|Montreal|GloboTech Communications|
+|14|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|15|72.10.160.93|22991|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|15033|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|10543|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|15033|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|15033|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|10543|Canada|Montreal|GloboTech Communications|
 
 
 
