@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|103.156.15.247|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|4|117.1.251.212|1001|Vietnam|Hanoi|Viettel Corporation|
-|5|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|185.57.237.32|4411|Russia|Yablonitsy|LTD AtelRybinsk|
+|3|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|103.76.151.90|8090|Indonesia|Cibinong|PT. Java Digital Nusantara|
 |9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|96.9.74.91|8080|Cambodia|Phnom Penh|S.I Group|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|67.43.236.20|5053|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|19109|Canada|Montreal|GloboTech Communications|
+|10|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|213.97.158.42|3128|Spain|Palma|Telefonica de Espana SAU|
+|12|38.52.220.171|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|15|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|24.172.82.94|53281|United States|Gastonia|Spectrum|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|139.59.147.47|3128|Germany|Frankfurt am Main|DIGITALOCEAN|
+|18|43.252.237.70|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|19|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
