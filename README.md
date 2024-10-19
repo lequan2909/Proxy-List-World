@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|5|124.158.186.254|8080|Indonesia|Bogor|PT Jala Lintas Media|
-|6|179.125.125.243|3128|Brazil|Teresina|Virtex Telecom|
+|2|202.154.36.103|8080|Indonesia|Surabaya|RADNET-BDG|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
 |7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|157.100.60.170|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|10|72.10.160.90|25105|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|4897|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|30625|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|11063|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|12587|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|17|67.43.236.20|12587|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.94|23063|Canada|Montreal|GloboTech Communications|
-|19|41.65.71.135|1976|Egypt|Kirdāsah|Etisalat Misr|
-|20|67.43.228.253|25735|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|12|155.138.218.57|8118|United States|Atlanta|The Constant Company|
+|13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|14|72.10.160.90|29669|Canada|Montreal|GloboTech Communications|
+|15|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|16|67.43.227.226|29201|Canada|Montreal|GloboTech Communications|
+|17|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|18|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|19|72.10.164.178|32313|Canada|Montreal|GloboTech Communications|
+|20|27.123.221.198|8080|Indonesia|Jakarta|FIBERNET|
 
 
 
