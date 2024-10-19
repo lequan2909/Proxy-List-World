@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.229.243.110|12052|Vietnam|Hanoi|Viettel Corporation|
-|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|67.43.227.227|14023|Canada|Montreal|GloboTech Communications|
-|10|131.153.187.5|25437|United States|Ashburn|Secured Servers LLC|
-|11|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|72.10.160.90|12865|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.173|5901|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|4675|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|19517|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|14023|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|5901|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|14023|Canada|Montreal|GloboTech Communications|
-|20|114.9.28.114|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|1|91.107.152.157|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|113.192.48.8|8080|Indonesia|Batu|PT.Global Media Data Prima|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|118.179.151.57|5020|Bangladesh|Dhaka|Dhakacom Limited|
+|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|67.43.227.227|3707|Canada|Montreal|GloboTech Communications|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|11|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|12|67.43.227.226|9223|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.173|2305|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|18279|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.174|15825|Canada|Montreal|GloboTech Communications|
+|16|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|17|72.10.160.173|2305|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.173|2305|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|14393|Canada|Montreal|GloboTech Communications|
+|20|51.158.173.222|3128|France|Paris|Online S.A.S.|
 
 
 
