@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|4|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|6|103.211.200.202|3128|Vietnam|Quận Hải Châu|Viet Digital Technology Liability Company|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|6|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
 |7|103.172.116.201|8888|Singapore|Singapore|Melbikomas UAB|
-|8|125.25.1.47|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|10|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|103.156.233.165|8080|Indonesia|Bogor|MULTIMEDIALINKTECH|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|8|203.150.113.51|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|9|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|10|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|103.211.200.202|3128|Vietnam|Quận Hải Châu|Viet Digital Technology Liability Company|
+|12|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|13|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|16|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|49.84.172.225|8081|China|Nanjing|Chinanet|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 
 
 
