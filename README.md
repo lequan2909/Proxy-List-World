@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|6|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|11|180.88.111.187|3128|China|Beijing|GXBLnet|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|16|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|18|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|20|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|2|103.106.195.41|32650|India|New Delhi|Elyzium Consulting|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|8|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|9|185.233.184.39|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|11|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|12|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|14|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|186.65.106.90|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
+|16|186.250.29.225|8080|Brazil|Santa Helena|KDM INTERNET TELECOMUNICACOES LTDA|
+|17|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|18|67.43.236.20|20293|Canada|Montreal|GloboTech Communications|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
 
 
 
