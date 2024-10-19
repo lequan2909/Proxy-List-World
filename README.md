@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5395** proxies at the latest update. Usable proxies are below.
+> Scraper found **5380** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|265|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|647|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|632|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|385|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3172|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|203.150.113.110|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|114.9.28.114|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|8|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|9|36.90.50.199|8080|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
-|10|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|11|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|12|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|16|72.10.164.178|5473|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|20667|Canada|Montreal|GloboTech Communications|
-|18|182.253.158.32|8080|Indonesia|Bandung|BIZNET|
-|19|67.43.228.253|6985|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|20397|Canada|Montreal|GloboTech Communications|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|6|15.228.237.5|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|101.108.194.180|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|203.150.113.55|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|19|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|20|115.72.171.65|10013|Vietnam|Vũng Tàu|VIETELmetro|
 
 
 
