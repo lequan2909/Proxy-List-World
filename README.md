@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|3|18.229.155.106|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|4|171.7.104.63|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|5|223.204.115.58|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|6|103.157.79.18|8080|Indonesia|Jakarta|EASTMEDIA|
-|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|79.175.176.254|3128|Iran|Abadan|AFranet Co|
-|12|103.176.116.34|83|India|Baharampur|Gbpl Global Broadband Private Limited|
-|13|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|14|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|171.4.124.139|8081|Thailand|Hua Hin|Triple T Broadband Public Company Limited|
-|17|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|18|18.229.155.106|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|19|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|20|67.43.227.227|32911|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|223.204.115.58|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|4|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|5|18.229.155.106|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|7|103.165.155.27|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|79.175.176.254|3128|Iran|Abadan|AFranet Co|
+|11|223.205.22.254|8080|Thailand|Sam Phran|Triple T Broadband Public Company Limited|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|103.176.116.34|83|India|Baharampur|Gbpl Global Broadband Private Limited|
+|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|16|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|18|41.65.71.135|1976|Egypt|Kirdāsah|Etisalat Misr|
+|19|18.229.155.106|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|20|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
 
 
 
