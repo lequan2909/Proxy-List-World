@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|9|124.121.177.184|8080|Thailand|Bangkok|TRUE|
+|2|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|3|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
-|16|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|17|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|18|187.102.36.15|3128|Brazil|Braço do Norte|MKM Internet Solution Provider Ltda|
-|19|67.43.228.253|19885|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|7435|Canada|Montreal|GloboTech Communications|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|103.133.223.20|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|13|46.99.162.194|8082|Kosovo|Pristina|IPKO Telecommunications LLC|
+|14|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
+|15|125.26.97.221|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|36.89.212.250|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|101.255.148.242|8080|Indonesia|Bekasi|PT Remala Abadi|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
