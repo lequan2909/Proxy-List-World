@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|5|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|202.154.36.103|8080|Indonesia|Surabaya|RADNET-BDG|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|15|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
-|16|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|20|147.28.155.20|10011|United States|Dallas|Packet Host, Inc.|
+|2|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|3|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|4|38.156.72.40|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|7|200.125.168.218|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|32.142.206.26|9081|United States|Brandon|AT&T Services, Inc.|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|12|157.245.201.79|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|147.28.155.20|10100|United States|Dallas|Packet Host, Inc.|
+|14|72.10.160.92|26759|Canada|Montreal|GloboTech Communications|
+|15|147.28.155.20|10100|United States|Dallas|Packet Host, Inc.|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|18|72.10.160.90|27451|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.91|26991|Canada|Montreal|GloboTech Communications|
+|20|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
 
 
 
