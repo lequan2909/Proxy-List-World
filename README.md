@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
 |3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|103.166.8.238|1080|Indonesia|Jakarta|PT Akses Bersama Sedaya|
-|14|103.105.81.38|8082|Indonesia|Karanggan|Biznet Networks|
-|15|103.125.174.29|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|18|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|171.224.78.114|10089|Vietnam|Hanoi|Viettel Corporation|
+|17|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|18|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|19|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|20|180.88.111.187|3128|China|Beijing|GXBLnet|
 
 
 
