@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|103.180.123.93|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
 |6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|103.162.141.146|3128|Indonesia|Batam|PT Filltech Antar Nusa|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|103.180.118.138|1111|Indonesia|Gresik|PT Persada Data Multimedia|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|103.145.149.36|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
-|17|36.50.92.120|8080|Indonesia|Sukamulya|PT Ring Media Nusantara|
-|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|20|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|7|103.172.42.187|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|12|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|13|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|14|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|15|186.232.59.146|54443|Brazil|Conceição do Jacuípe|Geeknet Provedor De Internet Ltda ME|
+|16|38.183.146.77|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|17|67.43.227.227|30465|Canada|Montreal|GloboTech Communications|
+|18|124.6.165.155|8082|Philippines|Lahug|INNOVE|
+|19|72.10.160.170|31165|Canada|Montreal|GloboTech Communications|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
