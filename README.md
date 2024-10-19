@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|13|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|16|45.191.47.1|999|Colombia|Orito|TV AZTECA SUCURSAL COLOMBIA|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|144.86.187.49|3129|United States|Malden|Charles River Operation|
+|4|134.209.113.148|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|6|103.164.117.186|3128|Indonesia|Jakarta|SOLUSINET|
+|7|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|8|134.209.113.148|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|11|114.129.19.139|8080|Indonesia|Banjar Medura|PT Hipernet Indodata|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|144.86.187.38|3129|United States|Malden|Charles River Operation|
+|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
 |17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|20|203.150.128.120|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|20|204.199.174.74|999|Peru|Lima region|Fiberred Sociedad Anonima Cerrada|
 
 
 
