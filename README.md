@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|3|117.5.249.201|5106|Vietnam|Hanoi|VIETTEL|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|10|172.233.131.233|10001|United States|Los Angeles|Akamai Technologies, Inc.|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|103.172.35.47|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|13|171.7.43.254|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|18|147.28.155.20|9401|United States|Dallas|Packet Host, Inc.|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|87.242.9.167|53281|Hungary|Sárospatak|PR-TELECOM ZRt.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|7|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|171.7.43.254|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|13|88.198.39.240|10005|Germany|Nuremberg|Hetzner Online GmbH|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|116.68.170.115|8019|Indonesia|Jakarta|Asia Pacific Network Information Center|
+|16|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|17|193.19.255.21|8080|Ukraine|Drohobych|Limited Liability Company Radio Network|
+|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|19|46.161.196.222|9812|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
+|20|171.5.118.58|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 
 
 
