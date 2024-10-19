@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|51.159.75.249|3128|France|Paris|SCALEWAY|
-|8|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|51.159.159.73|80|France|Paris|SCALEWAY|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|51.159.159.73|80|France|Paris|SCALEWAY|
+|7|213.199.44.90|8000|Germany|Düsseldorf|Contabo GmbH|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|171.240.119.87|5101|Vietnam|Hanoi|Viettel Corporation|
-|13|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|14|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|15|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|67.43.227.227|17773|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|10789|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|13193|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|10789|Canada|Montreal|GloboTech Communications|
+|10|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|124.121.177.184|8080|Thailand|Bangkok|TRUE|
+|12|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|49.84.172.225|8081|China|Nanjing|Chinanet|
+|15|223.25.110.104|8090|Indonesia|Surabaya|SinergiNet|
+|16|72.10.164.178|12425|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|14071|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|14071|Canada|Montreal|GloboTech Communications|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|72.10.160.90|28273|Canada|Montreal|GloboTech Communications|
 
 
 
