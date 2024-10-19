@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|86.109.3.28|10080|United States|Chicago|Packet Host, Inc.|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
 |5|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
-|6|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|45.173.231.166|999|Ecuador|Quito|Jyxcem Cia.ltda|
-|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|7|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|10|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |11|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |13|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
 |14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|131.153.187.5|20355|United States|Ashburn|Secured Servers LLC|
-|16|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|17|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
-|18|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|19|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|20|72.10.160.94|1315|Canada|Montreal|GloboTech Communications|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|72.10.160.94|1315|Canada|Montreal|GloboTech Communications|
+|17|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|18|72.10.164.178|4405|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|4405|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|7769|Canada|Montreal|GloboTech Communications|
 
 
 
