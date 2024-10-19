@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|6|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|7|115.72.171.65|10013|Vietnam|Vũng Tàu|VIETELmetro|
-|8|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|103.166.159.163|8080|Indonesia|Serang|PT Timor Lintas Nusantara|
-|11|103.69.60.10|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
-|12|191.102.107.238|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|16|162.240.154.26|3128|United States|Provo|Unified Layer|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|19|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|5|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|13|181.209.82.154|23500|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|46.161.195.133|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|16|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|20|200.10.28.217|8083|Colombia|Manizales|Super Redes S.A.S|
 
 
 
