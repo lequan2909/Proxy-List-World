@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.190.46.159|3127|Indonesia|Sleman|PT Jaring Lintas Utara|
-|3|119.76.142.204|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|4|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|2|103.172.116.201|8888|Singapore|Singapore|Melbikomas UAB|
+|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |5|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|6|103.159.194.121|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|103.80.237.65|8181|Indonesia|Bogor|PT MITRA VISIONER PRATAMA|
-|9|202.57.26.58|8080|Indonesia|Semarang|WANET|
-|10|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|171.6.75.142|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|13|172.233.131.233|10001|United States|Los Angeles|Akamai Technologies, Inc.|
-|14|202.56.166.157|8080|Indonesia|Yogyakarta|PT Lintas Data Prima|
-|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|7|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|8|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|9|119.76.142.204|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|122.2.79.174|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|66.206.15.148|8139|United States|Los Angeles|Primary|
+|19|92.246.136.39|18392|Germany|Frankfurt am Main|Aeza International LTD|
+|20|103.156.15.106|1111|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
 
 
 
