@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
+|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|103.76.109.96|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|10|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|116.107.217.134|10011|Vietnam|Hải Dương|Viettel Corporation|
-|14|67.43.236.19|12855|Canada|Montreal|GloboTech Communications|
-|15|115.72.171.65|10013|Vietnam|Vũng Tàu|VIETELmetro|
-|16|67.43.227.230|17261|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|21713|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|28061|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|19401|Canada|Montreal|GloboTech Communications|
-|20|116.105.79.46|14880|Vietnam|Da Nang|Viettel Corporation|
+|6|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|202.154.18.12|8080|Indonesia|Jombang|DIGITNET|
+|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|12|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|223.25.110.88|1080|Indonesia|Surabaya|SinergiNet|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|179.125.125.243|3128|Brazil|Teresina|Virtex Telecom|
+|17|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|67.43.227.227|4199|Canada|Montreal|GloboTech Communications|
+|20|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
