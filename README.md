@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|3|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
 |4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|6|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|7|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|8|121.130.172.18|3128|South Korea|Seoul|Korea Telecom|
-|9|180.56.154.198|8080|Japan|Roppongi|NTT Communications Corporation|
-|10|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|11|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|12|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|13|172.233.131.233|10001|United States|Los Angeles|Akamai Technologies, Inc.|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
-|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|6|103.172.116.201|8888|Singapore|Singapore|Melbikomas UAB|
+|7|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|103.211.200.202|3128|Vietnam|Quận Hải Châu|Viet Digital Technology Liability Company|
+|10|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|118.99.119.228|8080|Indonesia|Bandar Lampung|BIZNET|
+|15|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|16|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|17|49.48.55.232|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|23.251.5.175|8888|United States|Waynesboro|CABLE ONE, INC.|
+|20|23.251.5.175|8888|United States|Waynesboro|CABLE ONE, INC.|
 
 
 
