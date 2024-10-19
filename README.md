@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|103.245.17.75|8080|Indonesia|Depok|PT Quantum Tera Network|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|101.108.194.180|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|114.9.28.114|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|103.217.216.65|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|15|168.243.89.65|999|El Salvador|Santa Elena|Telenetwork de El Salvador|
-|16|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|17|101.108.194.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|19|164.70.66.125|3128|Japan|Chiyoda|InfoSphere|
-|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|103.157.117.116|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|12|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|103.76.151.93|8090|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|103.247.23.72|7777|Indonesia|Cileungsir|PT wifian Solution|
+|20|164.70.66.125|3128|Japan|Chiyoda|InfoSphere|
 
 
 
