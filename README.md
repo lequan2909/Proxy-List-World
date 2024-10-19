@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|112.78.161.68|8080|Indonesia|Jakarta|Biznet Networks|
-|3|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|4|202.93.244.54|8085|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|116.97.9.74|5101|Vietnam|Hanoi|Viettel Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|171.228.113.67|10089|Vietnam|Yên Lạc|Viettel Corporation|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|200.24.132.172|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|13|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|38.183.146.77|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|16|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|17|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
-|18|131.196.42.95|667|Brazil|Candeias|Voafibra Comunicacao|
-|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|103.178.42.3|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|3|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|6|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|12|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|124.158.186.254|8080|Indonesia|Bogor|PT Jala Lintas Media|
+|14|36.93.140.183|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|15|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|16|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|17|181.174.225.202|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
+|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|19|72.10.160.170|4783|Canada|Montreal|GloboTech Communications|
+|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 
 
 
