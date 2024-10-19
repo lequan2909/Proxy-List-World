@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|6|51.159.75.249|3128|France|Paris|SCALEWAY|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|72.10.164.178|9535|Canada|Montreal|GloboTech Communications|
-|15|51.159.75.249|3128|France|Paris|SCALEWAY|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
-|19|67.43.228.250|30557|Canada|Montreal|GloboTech Communications|
-|20|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|124.6.168.26|80|Philippines|Lahug|INNOVE|
+|8|171.224.78.114|10089|Vietnam|Hanoi|Viettel Corporation|
+|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|10|51.159.75.249|3128|France|Paris|SCALEWAY|
+|11|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|72.10.164.178|9535|Canada|Montreal|GloboTech Communications|
+|19|51.159.75.249|3128|France|Paris|SCALEWAY|
+|20|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
 
 
 
