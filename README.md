@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|4|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|7|202.154.18.12|8080|Indonesia|Jombang|DIGITNET|
-|8|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|11|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|15|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
-|16|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|17|103.85.114.249|8080|Bangladesh|Dhaka|FiSSA communication|
-|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|202.154.18.12|8080|Indonesia|Jombang|DIGITNET|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|7|186.227.221.85|18181|Brazil|Palmeiras|Wznet Telecom Ltda|
+|8|203.150.113.55|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|9|223.25.110.88|1080|Indonesia|Surabaya|SinergiNet|
+|10|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|16|147.28.155.20|10082|United States|Dallas|Packet Host, Inc.|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|147.28.155.20|10082|United States|Dallas|Packet Host, Inc.|
 |19|72.10.164.178|32035|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|67.43.236.20|20553|Canada|Montreal|GloboTech Communications|
 
 
 
