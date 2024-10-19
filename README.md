@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|117.1.251.212|1001|Vietnam|Hanoi|Viettel Corporation|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|7|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
-|12|72.10.160.90|5781|Canada|Montreal|GloboTech Communications|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|72.10.164.178|30407|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|5781|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|28043|Canada|Montreal|GloboTech Communications|
-|17|181.209.82.202|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|18|67.43.227.230|10465|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|4675|Canada|Montreal|GloboTech Communications|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|1|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|8|91.107.152.157|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|67.43.227.228|28043|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.226|4675|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|5781|Canada|Montreal|GloboTech Communications|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|67.43.236.20|4361|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|5781|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|4653|Canada|Montreal|GloboTech Communications|
+|16|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|17|72.10.160.90|5781|Canada|Montreal|GloboTech Communications|
+|18|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|182.253.158.32|8080|Indonesia|Bandung|BIZNET|
 
 
 
