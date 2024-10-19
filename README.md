@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|83.54.13.108|3128|Spain|León|Telefonica de Espana SAU|
-|3|41.65.160.174|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|6|116.105.79.46|1587|Vietnam|Da Nang|Viettel Corporation|
-|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|12|201.151.252.120|80|Mexico|Santa Rosa|Alestra, S. de R.L. de C.V.|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|19|67.43.228.253|23289|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|12899|Canada|Montreal|GloboTech Communications|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|5|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
+|6|185.64.208.226|53281|Russia|Kstovo|Svyazist LLC|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|187.102.36.15|3128|Brazil|Braço do Norte|MKM Internet Solution Provider Ltda|
+|14|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|17|72.10.164.178|19887|Canada|Montreal|GloboTech Communications|
+|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|157.100.60.170|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|49.84.172.225|8081|China|Nanjing|Chinanet|
 
 
 
