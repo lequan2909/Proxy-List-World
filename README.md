@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|103.105.81.38|8082|Indonesia|Karanggan|Biznet Networks|
-|4|101.255.167.174|8080|Indonesia|Bekasi|PT Remala Abadi|
-|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|160.154.163.18|8080|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
-|8|170.83.82.10|3128|Brazil|Marabá|IBL Banda Larga Internet Informatica LTDA|
-|9|94.231.192.212|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|67.43.236.20|15033|Canada|Montreal|GloboTech Communications|
-|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|12|188.125.169.100|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|14|67.43.227.227|3545|Canada|Montreal|GloboTech Communications|
-|15|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|16|67.43.236.18|14299|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|2127|Canada|Montreal|GloboTech Communications|
-|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|19|67.43.236.18|14299|Canada|Montreal|GloboTech Communications|
-|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|38.183.209.33|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
+|10|45.70.202.71|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|67.43.227.229|32677|Canada|Montreal|GloboTech Communications|
+|16|124.105.99.230|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|18|72.10.160.90|22039|Canada|Montreal|GloboTech Communications|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|67.43.227.227|13047|Canada|Montreal|GloboTech Communications|
 
 
 
