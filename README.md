@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |3|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|6|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|7|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|10|51.159.159.73|80|France|Paris|SCALEWAY|
-|11|67.43.236.18|11221|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.171|11977|Canada|Montreal|GloboTech Communications|
-|13|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|14|72.10.160.90|27323|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|1663|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|25321|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|1663|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|10629|Canada|Montreal|GloboTech Communications|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|116.105.79.46|14880|Vietnam|Da Nang|Viettel Corporation|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|144.86.187.57|3129|United States|Malden|Charles River Operation|
+|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|12|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|51.159.159.73|80|France|Paris|SCALEWAY|
+|16|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|17|72.10.164.178|11591|Canada|Montreal|GloboTech Communications|
+|18|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
+|19|67.43.227.227|3307|Canada|Montreal|GloboTech Communications|
+|20|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
 
 
 
