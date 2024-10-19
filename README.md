@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
-|5|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|11|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|15|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
-|16|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|17|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|72.10.160.90|23505|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|147.75.122.245|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|9|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
+|10|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|14|119.82.240.61|6060|Indonesia|Surabaya|Indonesia Network Information Center|
+|15|72.10.164.178|18697|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|103.78.75.91|8080|Indonesia|Gandul|ICONPLN|
+|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|20|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
