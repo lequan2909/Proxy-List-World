@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.57.237.32|4411|Russia|Yablonitsy|LTD AtelRybinsk|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
-|9|96.9.74.91|8080|Cambodia|Phnom Penh|S.I Group|
-|10|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|11|51.159.159.73|80|France|Paris|SCALEWAY|
-|12|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|13|67.43.227.227|5619|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|25665|Canada|Montreal|GloboTech Communications|
-|15|103.82.246.5|8080|Indonesia|Klatak|PT Master Star Network|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|67.43.236.18|11147|Canada|Montreal|GloboTech Communications|
-|18|129.146.198.205|3129|United States|Phoenix|Oracle Corporation|
-|19|67.43.227.228|8063|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|26975|Canada|Montreal|GloboTech Communications|
+|2|103.137.67.134|8080|Bangladesh|Khanbaniara|SK Traders|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|45.70.201.186|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
+|7|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|51.159.159.73|80|France|Paris|SCALEWAY|
+|13|67.43.227.227|2653|Canada|Montreal|GloboTech Communications|
+|14|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
+|15|72.10.164.178|10543|Canada|Montreal|GloboTech Communications|
+|16|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
+|20|67.43.228.253|24761|Canada|Montreal|GloboTech Communications|
 
 
 
