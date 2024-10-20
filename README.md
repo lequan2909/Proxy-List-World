@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|3.112.66.93|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |3|54.219.208.3|3128|United States|San Jose|Amazon.com, Inc.|
-|4|43.200.244.165|3128|South Korea|Seoul|Amazon.com, Inc.|
-|5|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
-|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|6|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
 |7|54.169.98.199|3128|Singapore|Singapore|Amazon.com, Inc.|
-|8|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|18.144.72.78|3128|United States|San Jose|Amazon.com, Inc.|
 |9|54.183.60.168|3128|United States|San Jose|Amazon.com, Inc.|
-|10|18.144.72.78|3128|United States|San Jose|Amazon.com, Inc.|
-|11|101.108.131.68|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|13|202.212.79.47|3128|Japan|Katsushika|SIMPLEIA|
-|14|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
-|15|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|18|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
-|19|54.162.226.140|3128|United States|Ashburn|Amazon.com, Inc.|
-|20|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|10|202.212.79.47|3128|Japan|Katsushika|SIMPLEIA|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
+|13|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|14|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
+|18|54.219.208.3|3128|United States|San Jose|Amazon.com, Inc.|
+|19|54.183.60.168|3128|United States|San Jose|Amazon.com, Inc.|
+|20|18.144.72.78|3128|United States|San Jose|Amazon.com, Inc.|
 
 
 
