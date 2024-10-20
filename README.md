@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|4|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|4|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|12|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
 |13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|67.43.227.227|20827|Canada|Montreal|GloboTech Communications|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|18|172.233.131.233|10001|United States|Los Angeles|Akamai Technologies, Inc.|
 |19|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|148.72.165.7|10605|United States|St Louis|GoDaddy.com|
 
 
 
