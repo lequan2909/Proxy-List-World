@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|140.227.121.228|3128|Japan|Tokyo|InfoSphere|
-|4|140.227.121.230|3128|Japan|Tokyo|InfoSphere|
-|5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|6|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|7|140.227.121.229|3128|Japan|Tokyo|InfoSphere|
-|8|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|10|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|54.234.229.70|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|5.234.165.55|8080|Iran|Piranshahr|Iran Telecommunication Company PJS|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|54.234.229.70|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|19|103.102.12.89|8081|Indonesia|Rembangan|FISNET|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|140.227.121.228|3128|Japan|Tokyo|InfoSphere|
+|3|140.227.121.230|3128|Japan|Tokyo|InfoSphere|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|6|140.227.121.229|3128|Japan|Tokyo|InfoSphere|
+|7|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|9|52.78.42.58|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|10|54.162.226.140|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|5.234.165.55|8080|Iran|Piranshahr|Iran Telecommunication Company PJS|
+|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
