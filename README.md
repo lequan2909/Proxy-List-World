@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|9|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
-|10|38.183.210.4|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
-|11|38.156.72.77|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|181.225.224.251|3128|Cuba|Havana|Empresa de Telecomunicaciones de Cuba|
-|13|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|67.43.228.252|30667|Canada|Montreal|GloboTech Communications|
-|15|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
-|16|67.43.228.253|30469|Canada|Montreal|GloboTech Communications|
-|17|162.240.154.26|3128|United States|Provo|Unified Layer|
-|18|67.43.228.253|30469|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|21333|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.167.5.14|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|4|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|5|38.183.210.4|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|6|191.6.112.5|8086|Brazil|Macapá|Voce Telecomunicacoes Ltda|
+|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|213.199.44.86|8000|Germany|Düsseldorf|Contabo GmbH|
+|10|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
+|11|72.10.160.170|6547|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|26315|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.91|2077|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|26315|Canada|Montreal|GloboTech Communications|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|67.43.236.20|21333|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|26315|Canada|Montreal|GloboTech Communications|
+|18|192.99.169.19|8453|Canada|Beauharnois|OVH SAS|
+|19|67.43.236.18|20589|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|26315|Canada|Montreal|GloboTech Communications|
 
 
 
