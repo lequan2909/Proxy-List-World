@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |2|116.107.102.12|5002|Vietnam|Hanoi|Viettel Corporation|
-|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|9|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|10|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|11|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|12|103.228.246.151|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|13|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
-|14|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|15|67.43.227.227|25181|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|10145|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|6273|Canada|Montreal|GloboTech Communications|
-|18|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|19|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|20|72.10.164.178|22775|Canada|Montreal|GloboTech Communications|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|8|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|12|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|15|157.15.63.230|8090|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|103.51.21.165|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|18|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|20|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
 
 
 
