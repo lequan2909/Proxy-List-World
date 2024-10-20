@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|4|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
-|5|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|8|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|148.72.165.7|10510|United States|St Louis|GoDaddy.com|
-|12|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|13|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
-|14|72.10.164.178|1613|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|54.94.222.142|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|17|72.10.164.178|1613|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|30791|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|3203|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|1613|Canada|Montreal|GloboTech Communications|
+|2|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|4|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|5|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
+|6|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|8|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|9|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|148.72.165.7|10622|United States|St Louis|GoDaddy.com|
+|14|72.10.160.171|28997|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|6337|Canada|Montreal|GloboTech Communications|
+|16|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|17|103.164.223.54|80|Indonesia|Jakarta|PT iForte Global Internet|
+|18|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|19|72.10.164.178|12279|Canada|Montreal|GloboTech Communications|
+|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
