@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|202.212.79.47|3128|Japan|Katsushika|SIMPLEIA|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|10|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|202.212.79.47|3128|Japan|Katsushika|SIMPLEIA|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
+|6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|7|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|9|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|10|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
 |13|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|16|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|19|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|15|103.159.92.30|8080|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
+|16|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|17|3.91.103.140|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 
 
 
