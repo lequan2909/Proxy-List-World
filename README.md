@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|202.212.79.47|3128|Japan|Katsushika|SIMPLEIA|
 |5|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
-|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|8|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
 |9|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|159.223.52.118|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|12|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|13|49.13.1.139|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
-|18|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|19|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|11|103.143.196.67|8080|Indonesia|Sragen|JERNIHNETWORK|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|14|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|18|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
+|19|140.186.151.104|8888|United States|Bismarck|Midcontinent Communications|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
