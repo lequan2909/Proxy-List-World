@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|173.45.117.254|8888|United States|Columbus|eNET Inc|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|9|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|10|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|15|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|16|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|17|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|5|94.23.84.25|8118|Spain|Madrid|OVH ISP|
+|6|103.203.232.101|1080|Indonesia|Kedok|INDANA|
+|7|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|103.133.26.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|14|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.160.170|31947|Canada|Montreal|GloboTech Communications|
+|17|38.183.210.4|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|18|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|19|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
