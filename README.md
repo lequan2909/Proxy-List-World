@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
 |4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|37.112.57.124|3128|Russia|Bryansk|CJSC "ER-Telecom Holding" Bryansk branch|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|11|13.233.90.182|3128|India|Mumbai|Amazon Technologies Inc.|
-|12|1.54.69.117|8080|Vietnam|Hanoi|FPT Telecom Company|
-|13|72.10.160.170|18231|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.18|2101|Canada|Montreal|GloboTech Communications|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|17|67.43.227.227|1651|Canada|Montreal|GloboTech Communications|
-|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|19|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
-|20|72.10.164.178|3935|Canada|Montreal|GloboTech Communications|
+|5|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|72.10.160.170|10823|Canada|Montreal|GloboTech Communications|
+|10|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|11|67.43.227.227|26287|Canada|Montreal|GloboTech Communications|
+|12|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|16|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|67.43.236.18|2101|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|9215|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.93|25717|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|18309|Canada|Montreal|GloboTech Communications|
 
 
 
