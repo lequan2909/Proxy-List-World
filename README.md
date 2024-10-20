@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
-|6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|7|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|8|171.240.117.26|5101|Vietnam|Hanoi|Viettel Corporation|
-|9|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
-|10|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|49.48.68.135|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
-|20|103.118.175.229|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|3|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|4|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|7|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|8|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|9|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|10|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|11|180.180.109.120|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|12|200.46.204.187|8080|Panama|Panama City|Cable Onda|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|131.196.42.95|667|Brazil|Candeias|Voafibra Comunicacao|
+|15|1.4.144.233|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|190.119.76.150|8080|Peru|Lima|America Movil Peru S.A.C.|
+|17|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|143.208.84.2|8589|Brazil|Ubiratã|V. GRAZIOLI & CIA. LTDA. - ME|
 
 
 
