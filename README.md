@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|4|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|10|49.48.89.155|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|11|102.164.252.154|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|12|172.233.131.233|10001|United States|Los Angeles|Akamai Technologies, Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
-|15|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|2|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|172.233.131.233|10001|United States|Los Angeles|Akamai Technologies, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
+|11|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|12|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
+|13|67.43.228.253|30197|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|31275|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.252|15237|Canada|Montreal|GloboTech Communications|
 |16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|19|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.164.178|22681|Canada|Montreal|GloboTech Communications|
+|19|94.231.192.212|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
 
 
 
