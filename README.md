@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|4|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|1|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|6|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|146.12.5.237|8888|United States|Duncannon|PenTeleData Inc.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
-|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|14|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|15|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|20|54.234.229.70|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|146.12.5.237|8888|United States|Duncannon|PenTeleData Inc.|
+|13|103.174.236.96|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|19|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
 
 
 
