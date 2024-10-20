@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|54.94.222.142|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|83.171.111.142|8080|Russia|Murmansk|Rostelecom networks|
-|7|171.245.117.176|5016|Vietnam|Thái Bình|Viettel Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|11|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|72.10.160.91|22599|Canada|Montreal|GloboTech Communications|
-|18|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
-|19|162.240.154.26|3128|United States|Provo|Unified Layer|
-|20|72.10.164.178|21839|Canada|Montreal|GloboTech Communications|
+|3|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|41.254.48.190|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|7|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|103.101.216.2|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
+|9|67.43.227.227|27571|Canada|Montreal|GloboTech Communications|
+|10|185.122.165.187|3128|United States|New York|Massivegrid LTD|
+|11|162.240.154.26|3128|United States|Provo|Unified Layer|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|103.154.91.250|8081|Indonesia|Jakarta|MORATELINDONAP|
+|18|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|19|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
+|20|67.43.228.252|27887|Canada|Montreal|GloboTech Communications|
 
 
 
