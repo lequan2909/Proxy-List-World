@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|5|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
-|6|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|7|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|103.174.122.203|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|13|116.102.104.66|10001|Vietnam|Bà Rịa|Viettel Corporation|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|103.67.237.219|3128|India|Hyderabad|OASISGSSERVICES|
-|20|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|123.16.19.163|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|9|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|10|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|17|18.144.72.78|3128|United States|San Jose|Amazon.com, Inc.|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
 
 
 
