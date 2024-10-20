@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|4|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|122.52.109.184|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|9|194.140.198.23|80|United States|Orangeburg|Nubes, LLC|
-|10|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|12|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|203.190.44.81|1111|Indonesia|Jogonalan|PT Jaring Lintas Utara|
+|8|27.75.70.42|4004|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |13|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|103.1.50.17|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
 |16|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|17|209.146.20.228|8082|Philippines|Manila|Cogent Communications|
-|18|67.43.236.20|33161|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|8881|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|22335|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|22173|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|27355|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.254|5395|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.93|15995|Canada|Montreal|GloboTech Communications|
 
 
 
