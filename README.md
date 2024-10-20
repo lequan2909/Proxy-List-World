@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|11|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|14|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|39.62.3.7|3127|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|18|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|11|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|1.2.209.68|8080|Thailand|Bangkok|TOT Public Company Limited|
+|15|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|16|103.189.250.69|7777|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|17|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
 
 
 
