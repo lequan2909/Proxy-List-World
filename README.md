@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|110.78.186.41|8080|Thailand|Pattaya|CAT-BB|
-|4|113.53.60.124|8080|Thailand|Phanom Sarakham|TOT Public Company Limited|
-|5|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|6|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|7|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|8|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|15|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
-|16|121.130.172.18|3128|South Korea|Seoul|Korea Telecom|
-|17|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|164.70.119.232|3128|Japan|Chiyoda|InfoSphere|
-|19|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|211.222.177.119|3128|South Korea|Goyang-si|Korea Telecom|
+|4|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|110.78.186.41|8080|Thailand|Pattaya|CAT-BB|
+|8|113.53.60.124|8080|Thailand|Phanom Sarakham|TOT Public Company Limited|
+|9|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|10|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|220.118.210.102|3128|South Korea|Gwanak-gu|Korea Telecom|
+|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|16|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|17|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|126.209.3.250|8082|Philippines|Manila|Infinivan Incorporated|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
