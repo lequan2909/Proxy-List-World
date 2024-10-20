@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|2|164.70.66.136|3128|Japan|Chiyoda|InfoSphere|
+|3|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
 |6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|180.180.109.120|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|10|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|11|103.173.138.171|8080|Indonesia|Banjarnegara|PT Serayu Multi Connection|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|103.179.84.50|8080|Indonesia|Boyolali|PT CYB Media Group|
-|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|16|54.183.60.168|3128|United States|San Jose|Amazon.com, Inc.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|19|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|7|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
+|8|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|13|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
+|18|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|19|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|20|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 
 
 
