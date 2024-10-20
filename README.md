@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
-|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|4|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|5|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
+|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|5|157.66.50.96|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
 |6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
-|8|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|11|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|18|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|20|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
+|18|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|19|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
 
 
 
