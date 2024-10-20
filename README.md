@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,22 +41,22 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|7|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|74.78.98.156|8888|United States|Bethlehem|Charter Communications|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|103.118.175.200|3127|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|18|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|74.78.98.156|8888|United States|Bethlehem|Charter Communications|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|103.160.184.155|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|17|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 |19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
 
