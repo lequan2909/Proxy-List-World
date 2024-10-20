@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|13.113.128.93|3128|Japan|Tokyo|Amazon Technologies Inc|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|140.227.121.228|3128|Japan|Tokyo|InfoSphere|
-|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|13|140.227.121.230|3128|Japan|Tokyo|InfoSphere|
-|14|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|15|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|16|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|17|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|18|140.227.121.229|3128|Japan|Tokyo|InfoSphere|
-|19|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|20|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|140.227.121.228|3128|Japan|Tokyo|InfoSphere|
+|8|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|9|140.227.121.230|3128|Japan|Tokyo|InfoSphere|
+|10|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|11|140.227.121.229|3128|Japan|Tokyo|InfoSphere|
+|12|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|14|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|54.162.226.140|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|19|54.234.229.70|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
