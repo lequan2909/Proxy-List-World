@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|6|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|42.115.17.180|3629|Vietnam|Hanoi|FPT Telecom Company|
-|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|16|67.43.236.20|6291|Canada|Montreal|GloboTech Communications|
-|17|149.28.101.222|9000|United States|Miami|The Constant Company|
-|18|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|54.183.60.168|3128|United States|San Jose|Amazon.com, Inc.|
-|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|10|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|11|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|139.180.105.99|9002|New Zealand|Auckland|TRUTPOWERLTD|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|102.164.252.154|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|20|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
 
 
 
