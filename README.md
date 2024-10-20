@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|5|103.158.121.66|1080|Indonesia|Indramayu|CDN|
+|6|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|58.137.174.101|8080|Thailand|Bangkok|AGC|
+|9|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
 |10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|181.225.224.251|3128|Cuba|Havana|Empresa de Telecomunicaciones de Cuba|
-|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.236.20|6589|Canada|Montreal|GloboTech Communications|
-|16|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|17|67.43.228.252|25651|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|19541|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|19541|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|18829|Canada|Montreal|GloboTech Communications|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|15|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|16|103.231.239.137|58080|Bangladesh|Dhaka|Carnival Internet|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
 
 
 
