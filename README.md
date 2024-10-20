@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|18.144.72.78|3128|United States|San Jose|Amazon.com, Inc.|
-|4|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|12|18.144.72.78|3128|United States|San Jose|Amazon.com, Inc.|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|16|129.205.127.30|8080|Nigeria|Lagos|Globacom Limited|
-|17|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|103.168.149.3|8181|Indonesia|Samosir|TORSADA|
-|20|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|5|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
+|8|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|11|13.39.39.80|3128|France|Paris|Amazon Technologies Inc.|
+|12|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|15|182.253.243.137|3128|Indonesia|Batam|BIZNET|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|20|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
 
 
 
