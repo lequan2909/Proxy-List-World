@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|5|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|6|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|9|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|10|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|15|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|16|72.10.164.178|12551|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|16173|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|12551|Canada|Montreal|GloboTech Communications|
-|19|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|202.154.36.231|8080|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
+|5|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|9|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|10|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|11|103.123.168.202|3932|Bangladesh|Comilla|Sajid Trading Ltd.|
+|12|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
