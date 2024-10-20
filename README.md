@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|3|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |4|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|5|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|6|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|7|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|16|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|17|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
-|18|72.10.164.178|27951|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|16307|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|22001|Canada|Montreal|GloboTech Communications|
+|5|157.20.100.26|1111|Indonesia|Jekulo|PT Muria Global Network|
+|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|192.203.0.78|999|Puerto Rico|Fajardo|Boom NET|
 
 
 
