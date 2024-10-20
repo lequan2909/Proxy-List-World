@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.167.170.196|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|8|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|9|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|10|67.43.227.228|30711|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.250|3973|Canada|Montreal|GloboTech Communications|
+|4|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|5|103.67.237.214|3128|India|Hyderabad|OASISGSSERVICES|
+|6|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|67.43.227.228|30711|Canada|Montreal|GloboTech Communications|
 |12|72.10.164.178|26133|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|23205|Canada|Montreal|GloboTech Communications|
-|14|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
+|13|67.43.227.228|30711|Canada|Montreal|GloboTech Communications|
+|14|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
 |15|72.10.164.178|26133|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|32037|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|30711|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|82.18.249.208|8118|United Kingdom|Southampton|Virgin Media Limited|
-|20|72.10.164.178|26133|Canada|Montreal|GloboTech Communications|
+|16|124.105.99.230|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|67.43.227.227|27209|Canada|Montreal|GloboTech Communications|
+|18|103.36.10.223|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
 
 
 
