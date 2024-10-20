@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|7|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|11|103.211.200.202|3128|Vietnam|Quận Hải Châu|Viet Digital Technology Liability Company|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|103.156.233.165|8080|Indonesia|Bogor|MULTIMEDIALINKTECH|
-|14|203.150.113.51|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|16|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|17|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|3|164.70.66.148|3128|Japan|Chiyoda|InfoSphere|
+|4|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|6|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|10|122.152.4.135|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
+|11|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|12|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|103.211.200.202|3128|Vietnam|Quận Hải Châu|Viet Digital Technology Liability Company|
+|15|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|20|118.99.119.228|8080|Indonesia|Bandar Lampung|BIZNET|
 
 
 
