@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|3|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|6|88.198.201.2|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|8|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|1|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|159.69.8.205|19201|Germany|Nuremberg|Hetzner Online GmbH|
+|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
 |11|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|13|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|14|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|103.188.175.35|80|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|17|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|18|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
-|19|54.183.60.168|3128|United States|San Jose|Amazon.com, Inc.|
-|20|49.0.3.130|8090|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|12|187.216.229.150|8080|Mexico|Escárcega|Uninet S.A. de C.V.|
+|13|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
+|14|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.160.170|10917|Canada|Montreal|GloboTech Communications|
+|17|103.211.107.230|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|203.207.56.58|8085|Indonesia|Bandung|STARNET|
+|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 
 
 
