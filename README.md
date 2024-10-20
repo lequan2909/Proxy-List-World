@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|10|181.78.95.217|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|181.225.224.251|3128|Cuba|Havana|Empresa de Telecomunicaciones de Cuba|
-|13|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|14|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|72.10.164.178|20013|Canada|Montreal|GloboTech Communications|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|2|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|36.92.28.34|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|14|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|15|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|139.255.94.122|39635|Indonesia|Jakarta|PT. LINKNET|
+|19|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
+|20|209.146.20.228|8082|Philippines|Manila|Cogent Communications|
 
 
 
