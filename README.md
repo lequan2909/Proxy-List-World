@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|3|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|4|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|6|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|11|67.43.227.226|3093|Canada|Montreal|GloboTech Communications|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|67.43.228.252|7725|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|23595|Canada|Montreal|GloboTech Communications|
-|15|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|16|72.10.160.173|19851|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|2307|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|23595|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|2307|Canada|Montreal|GloboTech Communications|
-|20|181.174.225.202|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
+|2|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|9|203.110.145.82|63128|Australia|Sydney|Macquarie Technology Operations Pty Limited|
+|10|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|11|87.97.60.4|18080|Hungary|Budapest|INVITEL Zrt|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|180.56.154.198|8080|Japan|Roppongi|NTT Communications Corporation|
+|14|116.102.104.66|10001|Vietnam|Bà Rịa|Viettel Corporation|
+|15|45.5.118.177|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|17|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.126.86.200|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
