@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|2|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|10|103.186.97.18|8008|Indonesia|Kurintji|PT Jaringan Datamedia Nusantara|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
+|6|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|9|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
 |11|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
-|12|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
-|13|18.144.72.78|3128|United States|San Jose|Amazon.com, Inc.|
-|14|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|15|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
-|16|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|17|67.43.228.253|30279|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|23429|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|8431|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|88.255.185.254|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|13|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|18.144.72.78|3128|United States|San Jose|Amazon.com, Inc.|
+|15|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|16|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
+|18|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.227.228|11867|Canada|Montreal|GloboTech Communications|
 
 
 
