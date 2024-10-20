@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|54.169.98.199|3128|Singapore|Singapore|Amazon.com, Inc.|
-|10|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|202.212.79.47|3128|Japan|Katsushika|SIMPLEIA|
-|14|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|67.43.236.20|5965|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|11061|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|19987|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|51.20.53.149|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|20|67.43.227.227|6749|Canada|Montreal|GloboTech Communications|
+|2|52.78.42.58|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|5|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|6|54.162.226.140|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|54.169.98.199|3128|Singapore|Singapore|Amazon.com, Inc.|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|14|202.212.79.47|3128|Japan|Katsushika|SIMPLEIA|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|17|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|18|72.10.164.178|19987|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.236.20|22729|Canada|Montreal|GloboTech Communications|
 
 
 
