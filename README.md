@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|7|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|80.240.55.242|3128|Russia|Yeysk|inetnum UGTEL|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|103.67.237.219|3128|India|Hyderabad|OASISGSSERVICES|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|118.68.212.156|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|17|148.101.179.182|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
 
 
 
