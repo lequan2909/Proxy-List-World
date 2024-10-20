@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|49.147.50.90|8080|Philippines|Lucena City|Philippine Long Distance Telephone Co.|
+|1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
 |6|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|110.78.186.41|8080|Thailand|Pattaya|CAT-BB|
-|8|113.53.60.124|8080|Thailand|Phanom Sarakham|TOT Public Company Limited|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |11|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|12|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|171.240.119.87|5101|Vietnam|Hanoi|Viettel Corporation|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|13|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|17|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|18|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|19|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|20|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
 
 
 
