@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
 |10|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|11|72.10.160.170|10885|Canada|Montreal|GloboTech Communications|
-|12|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|13|72.10.160.173|23047|Canada|Montreal|GloboTech Communications|
-|14|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|67.43.227.227|8865|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|8865|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|18693|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|31871|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|10885|Canada|Montreal|GloboTech Communications|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|14|146.12.5.237|8888|United States|Duncannon|PenTeleData Inc.|
+|15|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|154.12.18.155|8080|United States|Pasadena|High Family Technology Co., Limited|
+|18|72.10.160.170|17219|Canada|Montreal|GloboTech Communications|
+|19|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|20|72.10.160.173|15147|Canada|Montreal|GloboTech Communications|
 
 
 
