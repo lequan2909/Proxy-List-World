@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|8|200.229.228.108|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|9|119.252.167.130|41890|Indonesia|Bekasi|PT Indonesia Comnets Plus|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|67.43.236.20|31629|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|15465|Canada|Montreal|GloboTech Communications|
-|13|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|15|72.10.164.178|31001|Canada|Montreal|GloboTech Communications|
-|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
+|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|10|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|14|72.10.160.170|30705|Canada|Montreal|GloboTech Communications|
+|15|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|67.43.236.20|31697|Canada|Montreal|GloboTech Communications|
 |17|67.43.228.253|11827|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|9131|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|4017|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|11827|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|72.10.164.178|22745|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|30705|Canada|Montreal|GloboTech Communications|
 
 
 
