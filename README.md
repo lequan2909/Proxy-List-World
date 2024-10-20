@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|154.0.154.69|8080|Tanzania|Arusha|Habari Node Public Limited|
-|7|112.198.179.42|8082|Philippines|Carmona|Globe Telecom|
-|8|103.187.114.100|8082|Indonesia|Teluknaga|PT Victory Network Indonesia|
-|9|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|103.176.96.245|8088|Indonesia|Karawang|PT Global Sarana Elektronika|
+|8|38.156.75.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|10|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|11|131.241.33.214|8888|United States|Franklin|Cincinnati Bell Telephone Company LLC|
+|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|72.10.164.178|18177|Canada|Montreal|GloboTech Communications|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|67.43.228.253|14179|Canada|Montreal|GloboTech Communications|
-|19|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|20|72.10.160.90|28269|Canada|Montreal|GloboTech Communications|
+|14|101.109.143.181|8080|Thailand|Bangkok|TOT Public Company Limited|
+|15|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|72.10.164.178|24461|Canada|Montreal|GloboTech Communications|
+|19|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|20|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
 
 
 
