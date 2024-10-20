@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
 |4|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|7|46.250.252.11|8000|Japan|Tokyo|Contabo Asia Private Limited|
-|8|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|9|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|10|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|11|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|12|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|8|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|9|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|10|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|103.109.59.179|9080|Bangladesh|Feni|HelloTech Limited|
+|17|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |19|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|20|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
