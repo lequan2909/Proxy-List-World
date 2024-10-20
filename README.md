@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
 |3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|47.90.95.31|8118|Hong Kong|Hong Kong|Alibaba.com LLC|
-|7|58.137.174.101|8080|Thailand|Bangkok|AGC|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|11|72.10.160.170|28989|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|26315|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.251|1643|Canada|Montreal|GloboTech Communications|
-|14|103.231.239.137|58080|Bangladesh|Dhaka|Carnival Internet|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|67.43.227.227|20103|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|7297|Canada|Montreal|GloboTech Communications|
-|18|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|72.10.164.178|26315|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|6583|Canada|Montreal|GloboTech Communications|
+|4|103.184.56.122|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|5|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|103.171.244.47|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|10|196.250.239.229|8787|South Africa|Thohoyandou|West Indian Ocean Cable Company|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 
 
 
