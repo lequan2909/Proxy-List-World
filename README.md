@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.212.79.47|3128|Japan|Katsushika|SIMPLEIA|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|5|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|6|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|10|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|13|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|202.212.79.47|3128|Japan|Katsushika|SIMPLEIA|
+|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|4|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
+|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|3.91.103.140|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|15|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
 |16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|159.223.52.118|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|45.70.236.195|999|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
-|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|17|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|18|88.137.105.89|8080|France|Friaize|Societe Francaise Du Radiotelephone - SFR SA|
+|19|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|20|74.78.98.156|8888|United States|Bethlehem|Charter Communications|
 
 
 
