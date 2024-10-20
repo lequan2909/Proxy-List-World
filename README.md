@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|6|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|11|54.162.226.140|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|3|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|4|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|5|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|10|184.82.43.14|8080|Thailand|Khon Kaen|AIS-Fibre|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|13|184.82.241.180|8080|Thailand|Phuket|AIS-Fibre|
+|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |16|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|17|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|140.227.121.230|3128|Japan|Tokyo|InfoSphere|
-|20|126.209.3.250|8082|Philippines|Manila|Infinivan Incorporated|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
