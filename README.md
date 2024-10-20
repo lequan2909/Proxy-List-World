@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|202.212.123.142|3128|Japan|Chiyoda|SIMPLEIA|
-|5|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|128.199.246.100|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|164.70.66.148|3128|Japan|Chiyoda|InfoSphere|
-|10|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|20|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|2|194.233.89.106|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|3|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|4|110.78.186.41|8080|Thailand|Pattaya|CAT-BB|
+|5|113.53.60.124|8080|Thailand|Phanom Sarakham|TOT Public Company Limited|
+|6|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|13|164.70.66.147|3128|Japan|Chiyoda|InfoSphere|
+|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|19|72.10.160.170|10245|Canada|Montreal|GloboTech Communications|
+|20|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
