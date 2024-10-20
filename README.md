@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
-|7|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
+|4|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
+|5|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|6|88.255.185.254|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|7|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
 |8|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
-|9|103.70.93.77|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|12|67.43.228.250|29009|Canada|Montreal|GloboTech Communications|
 |13|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|188.132.221.22|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
-|17|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
-|18|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|18.144.72.78|3128|United States|San Jose|Amazon.com, Inc.|
-|20|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|14|185.122.165.187|3128|United States|New York|Massivegrid LTD|
+|15|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.236.20|25991|Canada|Montreal|GloboTech Communications|
+|18|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|19|72.10.160.90|1243|Canada|Montreal|GloboTech Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
