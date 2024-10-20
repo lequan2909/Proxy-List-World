@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|4|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|5|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|12|180.180.109.120|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|5|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|12|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|17|103.36.10.223|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|18|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|19|103.102.12.56|8080|Indonesia|Rembangan|FISNET|
-|20|202.212.123.142|3128|Japan|Chiyoda|SIMPLEIA|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
