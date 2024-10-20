@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|103.171.244.47|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|7|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|8|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|103.42.228.56|8080|Bangladesh|Lākshām|Skynet Chowmuhani|
-|11|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|177.70.174.103|8080|Brazil|Entre Rios|infotec- serviços de provedor da internet ltda|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|17|72.10.164.178|2533|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|8935|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|10349|Canada|Montreal|GloboTech Communications|
-|20|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|6|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|16|177.70.174.103|8080|Brazil|Entre Rios|infotec- serviços de provedor da internet ltda|
+|17|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|18|182.253.158.32|8080|Indonesia|Bandung|BIZNET|
+|19|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
