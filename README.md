@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|2|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|10|103.76.149.102|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|11|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|18|36.73.129.162|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|19|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
-|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
+|8|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|15|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
+|16|36.73.129.162|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.236.20|19851|Canada|Montreal|GloboTech Communications|
+|20|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
 
 
 
