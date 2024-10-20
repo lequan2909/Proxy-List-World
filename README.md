@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|38.183.210.4|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|203.150.166.174|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|38.156.75.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|4|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|5|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|6|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|193.233.84.95|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
 |15|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|16|103.171.244.47|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|17|193.233.84.128|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|18|131.241.33.214|8888|United States|Franklin|Cincinnati Bell Telephone Company LLC|
-|19|113.23.38.76|8080|Vietnam|Hanoi|FPT Telecom Company|
-|20|67.43.236.19|31877|Canada|Montreal|GloboTech Communications|
+|16|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|17|13.233.90.182|3128|India|Mumbai|Amazon Technologies Inc.|
+|18|67.43.236.19|31877|Canada|Montreal|GloboTech Communications|
+|19|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|20|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
 
 
 
