@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|164.70.66.147|3128|Japan|Chiyoda|InfoSphere|
-|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|15.235.12.19|3128|Canada|Montreal|OVH SAS|
-|12|27.120.97.133|8880|Japan|Shibuya|FreeBit Co., Ltd.|
-|13|67.43.236.20|26291|Canada|Montreal|GloboTech Communications|
-|14|140.227.121.228|3128|Japan|Tokyo|InfoSphere|
-|15|164.70.66.125|3128|Japan|Chiyoda|InfoSphere|
-|16|72.10.160.93|13147|Canada|Montreal|GloboTech Communications|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
-|19|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
-|20|72.10.164.178|21777|Canada|Montreal|GloboTech Communications|
+|1|54.219.208.3|3128|United States|San Jose|Amazon.com, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|4|54.219.208.3|3128|United States|San Jose|Amazon.com, Inc.|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|143.110.179.19|3128|India|Bengaluru|DigitalOcean, LLC|
+|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|10|49.48.95.22|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|11|54.162.226.140|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|164.70.66.147|3128|Japan|Chiyoda|InfoSphere|
+|13|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|67.43.236.20|26291|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|11991|Canada|Montreal|GloboTech Communications|
+|17|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|18|140.227.121.228|3128|Japan|Tokyo|InfoSphere|
+|19|164.70.66.125|3128|Japan|Chiyoda|InfoSphere|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
