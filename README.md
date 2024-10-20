@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
-|8|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|15|18.144.72.78|3128|United States|San Jose|Amazon.com, Inc.|
-|16|54.193.17.222|3128|United States|San Jose|Amazon.com, Inc.|
-|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|18|164.70.66.136|3128|Japan|Chiyoda|InfoSphere|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|2|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|3|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|4|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|103.168.149.3|8181|Indonesia|Samosir|TORSADA|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|16|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|19|98.147.60.146|48678|United States|Honolulu|Spectrum|
+|20|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
 
 
 
