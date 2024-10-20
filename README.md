@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|140.227.121.228|3128|Japan|Tokyo|InfoSphere|
-|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|140.227.121.230|3128|Japan|Tokyo|InfoSphere|
-|9|140.227.121.229|3128|Japan|Tokyo|InfoSphere|
-|10|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|13|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|5.234.165.55|8080|Iran|Piranshahr|Iran Telecommunication Company PJS|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|20|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|140.227.121.230|3128|Japan|Tokyo|InfoSphere|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|140.227.121.228|3128|Japan|Tokyo|InfoSphere|
+|6|140.227.121.229|3128|Japan|Tokyo|InfoSphere|
+|7|54.162.226.140|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|9|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|10|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|16|5.234.165.55|8080|Iran|Piranshahr|Iran Telecommunication Company PJS|
+|17|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|18|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|19|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
