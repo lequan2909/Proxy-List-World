@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|202.212.79.47|3128|Japan|Katsushika|SIMPLEIA|
-|4|101.108.131.68|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|7|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|10|171.228.130.161|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|11|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|3.91.103.140|3128|United States|Ashburn|Amazon Technologies Inc.|
-|14|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|17|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|18|3.91.103.140|3128|United States|Ashburn|Amazon Technologies Inc.|
-|19|203.190.44.251|8080|Indonesia|Jogonalan|PT Jaring Lintas Utara|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|2|18.144.72.78|3128|United States|San Jose|Amazon.com, Inc.|
+|3|54.169.98.199|3128|Singapore|Singapore|Amazon.com, Inc.|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|54.183.60.168|3128|United States|San Jose|Amazon.com, Inc.|
+|6|202.212.79.47|3128|Japan|Katsushika|SIMPLEIA|
+|7|101.108.131.68|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|12|171.228.130.161|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|13|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|14|18.144.72.78|3128|United States|San Jose|Amazon.com, Inc.|
+|15|54.183.60.168|3128|United States|San Jose|Amazon.com, Inc.|
+|16|54.219.8.14|3128|United States|San Jose|Amazon.com, Inc.|
+|17|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|18|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|185.122.165.187|3128|United States|New York|Massivegrid LTD|
 
 
 
