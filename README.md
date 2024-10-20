@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
 |6|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|9|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|16|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|17|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|108.181.167.208|4145|United States|Dallas|TELUS Communications Inc.|
-|20|108.181.167.208|4145|United States|Dallas|TELUS Communications Inc.|
+|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|139.255.89.82|8080|Indonesia|Jakarta|PT. LINKNET|
+|13|103.148.25.201|8080|Indonesia|Trenggalek|Menaksopal Link Nusantara|
+|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|15|103.124.136.207|8080|Indonesia|Kartasura|Global Media Data Prima|
+|16|182.253.243.137|3128|Indonesia|Batam|BIZNET|
+|17|67.43.227.230|17707|Canada|Montreal|GloboTech Communications|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|72.10.164.178|6023|Canada|Montreal|GloboTech Communications|
+|20|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
