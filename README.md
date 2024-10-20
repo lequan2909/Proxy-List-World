@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|3|116.107.102.12|5002|Vietnam|Hanoi|Viettel Corporation|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|88.198.201.2|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|7|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|9|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|13|181.78.105.152|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|14|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|17|103.65.238.225|8181|Indonesia|Medan|PT Media Alvina Sejati|
-|18|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|19|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|20|72.10.160.90|17223|Canada|Montreal|GloboTech Communications|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|88.198.201.2|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|7|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|10|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|11|171.5.19.146|8081|Thailand|Phuket|Triple T Broadband Public Company Limited|
+|12|103.69.20.41|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|13|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|14|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|15|72.10.160.90|17223|Canada|Montreal|GloboTech Communications|
+|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|19|72.10.160.94|20619|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|7825|Canada|Montreal|GloboTech Communications|
 
 
 
