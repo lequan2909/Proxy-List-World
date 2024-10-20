@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|4|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|202.93.244.54|8085|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
-|14|202.57.25.62|1111|Indonesia|Semarang|announced of WINET|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|16|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|17|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|6|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|9|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|10|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|11|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|12|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|20|103.147.118.142|7777|Indonesia|Semarang|PT.Bestcamp Prima Data|
 
 
 
