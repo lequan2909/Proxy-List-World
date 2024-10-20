@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|7|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|8|136.243.125.22|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|202.154.19.197|8080|Indonesia|Jombang|DIGITNET|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|116.212.110.18|58080|Bangladesh|Kāfrul|TelNET Communication Ltd|
-|15|103.189.250.69|7777|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|16|103.247.21.44|1111|Indonesia|Bekasi|PT wifian Solution|
-|17|66.206.15.148|8139|United States|Los Angeles|Primary|
-|18|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
-|19|66.206.15.147|8134|United States|Los Angeles|Primary|
-|20|27.75.70.42|4004|Vietnam|Ho Chi Minh City|Viettel Group|
+|1|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|4|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|5|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|6|103.156.248.27|8085|Indonesia|Pinrang|Trans Media Telekomunikasi|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|12|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|15|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|16|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|72.10.164.178|28495|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.174|28779|Canada|Montreal|GloboTech Communications|
+|20|140.227.121.230|3128|Japan|Tokyo|InfoSphere|
 
 
 
