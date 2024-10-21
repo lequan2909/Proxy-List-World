@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|72.10.160.91|19433|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.170|3151|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|7773|Canada|Montreal|GloboTech Communications|
-|9|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|12|72.10.160.90|29315|Canada|Montreal|GloboTech Communications|
+|1|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|2|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
+|7|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|72.10.160.91|19433|Canada|Montreal|GloboTech Communications|
+|11|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|67.43.227.227|7773|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|8027|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|29315|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|12113|Canada|Montreal|GloboTech Communications|
-|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|18|67.43.228.253|8027|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|31631|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|9643|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|67.43.227.227|7773|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|8027|Canada|Montreal|GloboTech Communications|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|72.10.160.90|29493|Canada|Montreal|GloboTech Communications|
+|19|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|20|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
 
 
 
