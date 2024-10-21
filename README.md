@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|113.23.38.76|8080|Vietnam|Hanoi|FPT Telecom Company|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|223.204.11.254|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|103.247.14.37|8080|Indonesia|Klaten|TERABIT|
-|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|12|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|72.10.160.91|4507|Canada|Montreal|GloboTech Communications|
-|15|113.23.38.76|8080|Vietnam|Hanoi|FPT Telecom Company|
-|16|116.107.217.134|10075|Vietnam|Hải Dương|Viettel Corporation|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|72.10.164.178|18639|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|17257|Canada|Montreal|GloboTech Communications|
-|20|103.84.177.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|3|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|62.103.66.18|3128|Greece|Athens|OTEnet|
+|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|9|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|190.61.40.190|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|72.10.160.91|9515|Canada|Montreal|GloboTech Communications|
+|13|45.70.202.161|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|72.10.164.178|28907|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|28907|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|24783|Canada|Montreal|GloboTech Communications|
+|19|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
+|20|67.43.236.20|2123|Canada|Montreal|GloboTech Communications|
 
 
 
