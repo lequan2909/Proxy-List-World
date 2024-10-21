@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|6|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|7|168.243.89.65|999|El Salvador|Santa Elena|Telenetwork de El Salvador|
-|8|74.48.65.103|3128|United States|Los Angeles|Multacom Corporation|
-|9|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
-|10|212.110.188.193|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.88.90.117|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|171.228.179.173|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|8|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
+|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |12|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
-|13|212.110.188.195|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|14|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|15|147.28.155.20|10001|United States|Dallas|Packet Host, Inc.|
-|16|114.33.18.16|3128|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|18|147.28.155.20|10001|United States|Dallas|Packet Host, Inc.|
-|19|67.43.236.20|8053|Canada|Montreal|GloboTech Communications|
-|20|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|147.28.155.20|10001|United States|Dallas|Packet Host, Inc.|
+|14|103.153.135.58|8083|Indonesia|Tangerang|WMINET|
+|15|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|16|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
+|17|67.43.236.20|3023|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|20|72.10.160.90|8667|Canada|Montreal|GloboTech Communications|
 
 
 
