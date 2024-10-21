@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.191.200.50|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|2|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|3|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|113.23.38.76|8080|Vietnam|Hanoi|FPT Telecom Company|
-|8|103.155.246.180|8081|Indonesia|Sukoharjo|AMANNA|
-|9|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
-|10|67.43.228.253|25113|Canada|Montreal|GloboTech Communications|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|7|38.191.200.50|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|185.82.96.50|8092|Lebanon|Tripoli|NET 360 S.A.R.L|
 |13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|15|67.43.227.226|7337|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|22395|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|20675|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|31891|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|4007|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|15799|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|16|67.43.227.227|24921|Canada|Montreal|GloboTech Communications|
+|17|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|18|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
+|19|190.94.213.80|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|67.43.227.226|19611|Canada|Montreal|GloboTech Communications|
 
 
 
