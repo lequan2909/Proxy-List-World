@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|4|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|5|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|6|38.191.200.50|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|178.48.68.61|18080|Hungary|Budapest|UPC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|6|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|7|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|11|103.105.81.38|8082|Indonesia|Karanggan|Biznet Networks|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|15|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|16|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|17|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|20|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|10|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|12|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|27.76.202.224|8000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|16|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|17|72.10.160.90|31901|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|12733|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|29891|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|9389|Canada|Montreal|GloboTech Communications|
 
 
 
