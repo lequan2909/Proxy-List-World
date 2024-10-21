@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|110.171.40.132|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|3|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
-|9|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|103.156.15.107|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|5|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|178.178.112.91|8080|Russia|Sochi|MegaFon|
-|14|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|10349|Canada|Montreal|GloboTech Communications|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|72.10.160.90|27403|Canada|Montreal|GloboTech Communications|
-|19|91.121.106.55|4444|France|Roubaix|OVH SAS|
-|20|67.43.227.226|23259|Canada|Montreal|GloboTech Communications|
+|13|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|17|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|67.43.227.226|27277|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|27403|Canada|Montreal|GloboTech Communications|
 
 
 
