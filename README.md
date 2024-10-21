@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5077** proxies at the latest update. Usable proxies are below.
+> Scraper found **5063** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|84|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|614|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|600|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|482|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2971|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|110.77.171.120|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|110.77.171.120|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |6|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|7|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|8|210.79.146.162|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|13|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|7|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|8|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|15|177.93.48.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|16|190.119.90.114|8080|Peru|La Victoria|America Movil Peru S.A.C.|
+|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
 |18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
