@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|49.51.244.112|8888|United States|Phoenix|OPHL|
-|6|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|103.247.23.72|7777|Indonesia|Cileungsir|PT wifian Solution|
-|8|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
-|9|116.104.128.43|5000|Vietnam|Hanoi|Viettel Corporation|
-|10|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|72.10.160.90|17647|Canada|Montreal|GloboTech Communications|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.10.160.170|24111|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|29331|Canada|Montreal|GloboTech Communications|
-|16|49.13.1.139|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|72.10.164.178|19767|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|19767|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|11745|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|14|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
+|15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.164.178|1801|Canada|Montreal|GloboTech Communications|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
 
 
