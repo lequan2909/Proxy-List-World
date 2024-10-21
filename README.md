@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|5|103.138.185.1|83|India|Rāwatbhāta|Mahrth Internet Service Private Limited|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|103.160.182.77|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|91.214.31.234|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 |9|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|10|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|72.10.160.90|27441|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.92|26791|Canada|Montreal|GloboTech Communications|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|72.10.160.91|28507|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|7769|Canada|Montreal|GloboTech Communications|
-|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|18|72.10.164.178|4733|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|13303|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|5959|Canada|Montreal|GloboTech Communications|
+|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|61.129.2.212|8080|China|Beijing|CHINANET|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|72.10.164.178|19399|Canada|Montreal|GloboTech Communications|
+|14|103.78.158.6|3125|Indonesia|Banjarmasin|PT Global Jaringan Borneo|
+|15|51.159.159.73|80|France|Paris|SCALEWAY|
+|16|72.10.160.93|19003|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|3313|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|3313|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|3313|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|19399|Canada|Montreal|GloboTech Communications|
 
 
 
