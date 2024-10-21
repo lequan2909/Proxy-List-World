@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|5|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|190.119.90.114|8080|Peru|La Victoria|America Movil Peru S.A.C.|
-|14|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|15|67.43.228.253|9325|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.21|22129|Canada|Montreal|GloboTech Communications|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|72.10.164.178|20235|Canada|Montreal|GloboTech Communications|
-|19|61.129.2.212|8080|China|Beijing|CHINANET|
-|20|67.43.228.253|9325|Canada|Montreal|GloboTech Communications|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|4|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|5|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|6|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|7|113.192.48.8|8080|Indonesia|Batu|PT.Global Media Data Prima|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|10|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|173.45.117.254|8888|United States|Columbus|eNET Inc|
+|17|67.43.228.253|28725|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.21|18061|Canada|Montreal|GloboTech Communications|
+|19|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
