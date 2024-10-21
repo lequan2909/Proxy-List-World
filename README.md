@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|8|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|67.43.227.227|12297|Canada|Montreal|GloboTech Communications|
-|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|15|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|16|67.43.227.226|1779|Canada|Montreal|GloboTech Communications|
+|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|67.43.227.227|1491|Canada|Montreal|GloboTech Communications|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |17|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|61.129.2.212|8080|China|Beijing|CHINANET|
-|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|18|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|20|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
 
 
 
