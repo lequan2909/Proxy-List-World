@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|5|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|6|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
 |8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|10|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|18|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
-|19|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|103.160.182.137|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|19|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
 
 
 
