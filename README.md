@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|110.77.171.120|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|7|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|8|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|3|110.77.171.120|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |11|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|15|177.93.48.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|16|190.119.90.114|8080|Peru|La Victoria|America Movil Peru S.A.C.|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|1.1.226.191|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|173.45.117.254|8888|United States|Columbus|eNET Inc|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|103.124.139.212|1080|Indonesia|Kartasura|Global Media Data Prima|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|88.198.39.240|10002|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
