@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|1|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|2|190.2.212.94|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|3|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|6|190.61.90.117|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|7|187.1.181.124|23500|Brazil|Belo Horizonte|Century Telecom Ltda|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|72.10.164.178|18665|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|1551|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|21791|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|23505|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|32769|Canada|Montreal|GloboTech Communications|
-|18|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|19|72.10.160.91|32769|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|23505|Canada|Montreal|GloboTech Communications|
+|6|72.10.160.90|23819|Canada|Montreal|GloboTech Communications|
+|7|67.43.228.253|12057|Canada|Montreal|GloboTech Communications|
+|8|144.91.81.25|3128|Germany|Nuremberg|Contabo GmbH|
+|9|67.43.236.18|14317|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.19|26735|Canada|Montreal|GloboTech Communications|
+|11|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|12|72.10.160.173|21791|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|12631|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|18665|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|18277|Canada|Montreal|GloboTech Communications|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|72.10.160.173|21791|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|18665|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|29027|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.18|14317|Canada|Montreal|GloboTech Communications|
 
 
 
