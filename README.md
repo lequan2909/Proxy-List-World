@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
 |3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|103.158.162.18|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|9|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|10|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|4|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
+|5|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|154.12.18.155|8080|United States|Pasadena|High Family Technology Co., Limited|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |11|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|13|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
-|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|16|167.86.99.29|3128|Germany|Nuremberg|Contabo GmbH|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|79.175.176.254|3128|Iran|Abadan|AFranet Co|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|15|154.73.87.241|8080|Botswana|Kanye|STATURE (PTY) LTD|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
