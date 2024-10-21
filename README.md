@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|16|67.43.227.227|16613|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|23995|Canada|Montreal|GloboTech Communications|
-|18|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|19|72.10.164.178|7439|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.229|15161|Canada|Montreal|GloboTech Communications|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|10|72.10.160.90|30525|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.170|7961|Canada|Montreal|GloboTech Communications|
+|12|38.252.223.114|999|Peru|Huaura|Forza Bussines S.A.C.|
+|13|103.164.223.54|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|67.43.227.229|15161|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.252|6719|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|7439|Canada|Montreal|GloboTech Communications|
+|18|103.166.158.33|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|19|67.43.236.20|6007|Canada|Montreal|GloboTech Communications|
+|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
