@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|2|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|14|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|16|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|17|67.43.228.250|27443|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|5463|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|134.35.186.116|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|14|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|17|72.10.160.172|19541|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|23963|Canada|Montreal|GloboTech Communications|
 |19|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|20|72.10.164.178|2065|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
