@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|9|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|16|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|17|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|172.104.135.162|3128|Germany|Frankfurt am Main|Akamai Technologies|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|12|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|185.122.165.187|3128|United States|New York|Massivegrid LTD|
+|16|103.147.134.238|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|19|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|20|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 
 
 
