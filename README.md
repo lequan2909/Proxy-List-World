@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|5|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|6|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|7|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|14|103.172.197.163|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|39.62.4.164|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|17|122.54.105.109|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|18|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|45.133.107.238|81|Russia|Tul'skiy|Art-net LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|103.131.18.194|8080|Indonesia|Kudus|PT Global Media Data Prima|
+|5|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|165.154.224.110|8888|Hong Kong|Hong Kong|Scloud Pte Ltd|
+|8|185.122.165.187|3128|United States|New York|Massivegrid LTD|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|126.209.9.30|8080|Philippines|Manila|Infinivan Incorporated|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|103.151.246.54|7777|Indonesia|Bogor|MANAKARRANET|
+|16|86.109.3.27|9401|United States|Chicago|Packet Host, Inc.|
+|17|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|142.215.53.8|8118|United States|Ashburn|Equinix (EMEA) Acquisition Enterprises B.V.|
 
 
 
