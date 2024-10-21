@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
 |3|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|4|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|5|20.13.34.208|8118|Netherlands|Amsterdam|Microsoft Corporation|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|9|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|13|165.16.31.18|8080|Libya|Benghazi|Aljeel Aljadeed For Technology|
-|14|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|20|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|9|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|181.209.116.190|9080|Argentina|San Miguel de Tucumán|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|16|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|17|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|18|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|72.10.164.178|7513|Canada|Montreal|GloboTech Communications|
 
 
 
