@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|5.252.22.34|3128|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|4|103.105.54.99|7777|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|171.228.148.173|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|36.93.214.253|8080|Indonesia|Bogor|Telekomunikasi Indonesia|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|8|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 |9|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|38.191.200.50|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|106.110.182.165|1080|China|Shanghai|Chinanet|
-|17|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|19|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|20|72.10.164.178|14205|Canada|Montreal|GloboTech Communications|
+|14|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|17|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|18|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|103.169.254.155|3127|Indonesia|Curahjati|PT Master Star Network|
 
 
 
