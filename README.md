@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|4|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|5|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|67.43.236.19|9643|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|3655|Canada|Montreal|GloboTech Communications|
-|11|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|12|67.43.227.227|18277|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|9963|Canada|Montreal|GloboTech Communications|
-|14|116.107.217.134|10003|Vietnam|Hải Dương|Viettel Corporation|
-|15|72.10.160.173|21791|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|16335|Canada|Montreal|GloboTech Communications|
-|17|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|67.43.236.20|9963|Canada|Montreal|GloboTech Communications|
-|19|140.238.243.243|2083|India|Mumbai|Oracle Corporation|
-|20|72.10.160.90|3655|Canada|Montreal|GloboTech Communications|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|5|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|157.10.97.11|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
+|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|67.43.228.253|12057|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.19|30271|Canada|Montreal|GloboTech Communications|
+|15|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|67.43.227.226|3811|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|17697|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|72.10.164.178|24795|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
