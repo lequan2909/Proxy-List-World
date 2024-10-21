@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|171.228.135.164|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|8|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|9|162.240.154.26|3128|United States|Provo|Unified Layer|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|213.199.44.90|8000|Germany|Düsseldorf|Contabo GmbH|
-|17|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|18|103.76.109.96|8080|Indonesia|Krajan Kulon|PT Mahawira Nusantara Grup|
-|19|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|20|103.175.46.31|8080|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
+|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|6|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|49.146.220.233|8082|Philippines|Candelaria|Philippine Long Distance Telephone Co.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|185.122.165.187|3128|United States|New York|Massivegrid LTD|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|16|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|17|162.240.154.26|3128|United States|Provo|Unified Layer|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|20|43.156.64.100|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
