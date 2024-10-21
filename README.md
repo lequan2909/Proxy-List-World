@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|67.43.228.253|3921|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|4385|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|4385|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|18167|Canada|Montreal|GloboTech Communications|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|17|72.10.160.93|16209|Canada|Montreal|GloboTech Communications|
-|18|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|19|72.10.160.90|2815|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|23607|Canada|Montreal|GloboTech Communications|
+|6|103.160.182.159|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|11|103.78.158.6|3125|Indonesia|Banjarmasin|PT Global Jaringan Borneo|
+|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|67.43.236.20|18167|Canada|Montreal|GloboTech Communications|
+|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|15|72.10.164.178|31351|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|31351|Canada|Montreal|GloboTech Communications|
+|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|18|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|19|49.51.244.112|8888|United States|Phoenix|OPHL|
+|20|103.179.84.50|8080|Indonesia|Boyolali|PT CYB Media Group|
 
 
 
