@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|116.104.128.43|5000|Vietnam|Hanoi|Viettel Corporation|
-|4|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|1|122.152.4.135|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|103.160.182.137|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|12|189.124.85.77|33333|Brazil|Presidente Venceslau|FIT Telecom Eireli|
-|13|157.100.9.236|999|Ecuador|Quito|Telconet S.A|
-|14|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|15|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|20|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|103.242.105.3|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|10|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|13|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|14|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|15|189.124.85.77|33333|Brazil|Presidente Venceslau|FIT Telecom Eireli|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|67.43.228.253|20741|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|4813|Canada|Montreal|GloboTech Communications|
 
 
 
