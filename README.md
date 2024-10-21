@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|8|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|9|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|11|38.191.200.50|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|178.158.166.161|3128|Ukraine|Makiivka|EAST-NET Ltd|
-|18|45.189.252.242|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
+|3|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|66.96.238.165|22|Indonesia|Jakarta|MYREPUBLIC|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|103.124.136.59|999|Indonesia|Kartasura|Global Media Data Prima|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|14|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
