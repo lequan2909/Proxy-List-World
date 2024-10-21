@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|5|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|103.199.117.162|771|Indonesia|Ungaran|PT Hepra Teknologi Indonesia|
-|10|103.165.155.107|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|72.10.160.171|21647|Canada|Montreal|GloboTech Communications|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|15|72.10.160.92|31001|Canada|Montreal|GloboTech Communications|
-|16|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|17|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|18|72.10.160.90|15391|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|24141|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|12121|Canada|Montreal|GloboTech Communications|
+|4|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
+|5|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|6|103.105.54.99|7777|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|9|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|72.10.160.171|23743|Canada|Montreal|GloboTech Communications|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|118.68.181.5|8080|Vietnam|Hanoi|FPT Telecom Company|
+|16|72.10.160.92|31001|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|19|72.10.164.178|26453|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|26453|Canada|Montreal|GloboTech Communications|
 
 
 
