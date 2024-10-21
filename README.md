@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5082** proxies at the latest update. Usable proxies are below.
+> Scraper found **5029** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|116|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|639|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|586|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|306|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3095|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|2|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|3|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|4|38.191.200.50|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|5|103.160.41.54|1080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|186.96.101.75|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|8|223.204.11.254|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
-|12|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|13|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|118.68.212.156|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|67.43.228.253|9389|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|16501|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|12733|Canada|Montreal|GloboTech Communications|
-|19|171.228.179.173|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|20|72.10.160.170|15159|Canada|Montreal|GloboTech Communications|
+|1|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|4|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|5|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|38.191.200.50|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|11|103.105.81.38|8082|Indonesia|Karanggan|Biznet Networks|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|15|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|16|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|17|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|20|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
 
 
 
