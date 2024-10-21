@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|2|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|38.51.206.146|999|Venezuela|Maracaibo|Tecnoven Services CA|
-|7|103.247.23.57|8081|Indonesia|Cileungsir|PT wifian Solution|
-|8|103.193.144.5|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|9|103.139.98.175|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|10|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|11|103.162.63.101|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|12|45.173.7.10|999|Colombia|Zipaquirá|Columbus Networks Colombia|
-|13|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|72.10.164.178|32199|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.93|19573|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.93|19573|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|12999|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.19|10397|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|23497|Canada|Montreal|GloboTech Communications|
-|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|1|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|2|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|3|103.191.250.130|8083|Indonesia|Batam|PT Mulia Batam Net|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|6|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|7|186.225.108.43|3128|Brazil|São Paulo|America-NET Ltda|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|13|103.172.17.51|8080|Indonesia|Ciamis|PT Media Access Telematika|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|38.7.3.13|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|16|45.173.7.10|999|Colombia|Zipaquirá|Columbus Networks Colombia|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|20|72.10.164.178|31633|Canada|Montreal|GloboTech Communications|
 
 
 
