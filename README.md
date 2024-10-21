@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|12|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|14|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
-|15|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|2|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|12|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 |16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|113.192.48.8|8080|Indonesia|Batu|PT.Global Media Data Prima|
+|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
