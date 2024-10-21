@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5145** proxies at the latest update. Usable proxies are below.
+> Scraper found **5146** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|85|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|86|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|527|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|453|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|9|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|10|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|11|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|12|45.173.231.166|999|Ecuador|Quito|Jyxcem Cia.ltda|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|72.10.160.90|3215|Canada|Montreal|GloboTech Communications|
-|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|67.43.228.250|8545|Canada|Montreal|GloboTech Communications|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|92.246.136.39|18392|Germany|Frankfurt am Main|Aeza International LTD|
+|10|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|13|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|14|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|15|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|16|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|17|72.10.160.90|3215|Canada|Montreal|GloboTech Communications|
 |18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|19|67.43.228.253|8539|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|8353|Canada|Montreal|GloboTech Communications|
+|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
