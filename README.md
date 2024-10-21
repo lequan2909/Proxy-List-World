@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|4|171.228.135.164|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|27.76.201.251|5101|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|8|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|13|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
-|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|17|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|190.52.104.214|999|Venezuela|Caracas|Gold Data USA Inc|
-|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|7|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
+|8|49.146.220.233|8082|Philippines|Candelaria|Philippine Long Distance Telephone Co.|
+|9|162.240.154.26|3128|United States|Provo|Unified Layer|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|43.156.64.100|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|17|154.12.18.155|8080|United States|Pasadena|High Family Technology Co., Limited|
+|18|162.240.154.26|3128|United States|Provo|Unified Layer|
+|19|171.228.135.164|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
 
 
 
