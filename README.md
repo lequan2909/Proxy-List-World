@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|201.47.88.19|3128|Brazil|São Paulo|Vivo|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |8|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|72.10.160.90|7007|Canada|Montreal|GloboTech Communications|
-|10|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|11|27.76.202.224|8000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.227.227|19901|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.229|25845|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|22623|Canada|Montreal|GloboTech Communications|
-|16|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|17|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|38.191.200.50|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|19|67.43.227.227|19901|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|28387|Canada|Montreal|GloboTech Communications|
+|9|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|15|111.1.61.52|3128|China|Wenzhou|China Mobile communications corporation|
+|16|72.10.164.178|26279|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|6363|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|18913|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.93|25067|Canada|Montreal|GloboTech Communications|
+|20|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
 
 
 
