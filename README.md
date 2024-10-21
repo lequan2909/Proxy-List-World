@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.155.196.105|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|103.191.58.14|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|67.43.228.251|3021|Canada|Montreal|GloboTech Communications|
-|16|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|17|67.43.236.19|30271|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|8327|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.230|10235|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|3637|Canada|Montreal|GloboTech Communications|
+|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|122.152.4.135|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
+|6|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|49.48.72.204|8081|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|9|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|13|103.167.170.98|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|14|103.41.35.153|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|15|103.178.194.226|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|1.4.198.85|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 
