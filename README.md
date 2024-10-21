@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|180.56.154.198|8080|Japan|Roppongi|NTT Communications Corporation|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
 |4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|8|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|9|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|10|124.83.51.94|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
-|12|79.175.176.254|3128|Iran|Abadan|AFranet Co|
-|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|74.62.179.122|8080|United States|San Bernardino|Charter Communications Inc|
-|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|15.235.12.19|3128|Canada|Montreal|OVH SAS|
-|18|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|19|180.56.154.198|8080|Japan|Roppongi|NTT Communications Corporation|
-|20|72.10.160.90|32953|Canada|Montreal|GloboTech Communications|
+|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|7|185.122.165.187|3128|United States|New York|Massivegrid LTD|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|45.5.118.138|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|10|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|13|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|198.167.212.232|8118|Sweden|Malmo|ab stract|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|180.56.154.198|8080|Japan|Roppongi|NTT Communications Corporation|
 
 
 
