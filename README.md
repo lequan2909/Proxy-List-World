@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|77.41.146.21|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|13|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|14|114.190.104.179|3128|Japan|Arato|NTT Communications Corporation|
-|15|67.43.236.20|30637|Canada|Montreal|GloboTech Communications|
-|16|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|18|72.10.164.178|27405|Canada|Montreal|GloboTech Communications|
-|19|116.107.217.134|10069|Vietnam|Hải Dương|Viettel Corporation|
+|5|77.41.146.21|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|193.233.84.88|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|15|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|17|67.43.236.20|30637|Canada|Montreal|GloboTech Communications|
+|18|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |20|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 
 
