@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5088** proxies at the latest update. Usable proxies are below.
+> Scraper found **5089** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|82|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|83|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|627|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|482|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|3|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|10|72.10.164.178|26841|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.91|19433|Canada|Montreal|GloboTech Communications|
-|12|223.205.123.110|8888|Thailand|Nakhon Phanom|Triple T Broadband Public Company Limited|
-|13|67.43.236.20|18961|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.228|16495|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.174|24873|Canada|Montreal|GloboTech Communications|
-|16|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|67.43.227.227|6265|Canada|Montreal|GloboTech Communications|
-|18|154.12.18.155|8080|United States|Pasadena|High Family Technology Co., Limited|
-|19|67.43.228.253|18755|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|15421|Canada|Montreal|GloboTech Communications|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|6|88.198.39.240|10002|Germany|Nuremberg|Hetzner Online GmbH|
+|7|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|210.79.146.162|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|11|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|14|72.10.164.178|32369|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|29357|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|29357|Canada|Montreal|GloboTech Communications|
+|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|18|72.10.160.174|24873|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.228.254|8485|Canada|Montreal|GloboTech Communications|
 
 
 
