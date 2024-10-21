@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|119.235.209.55|1111|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|5|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|6|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|38.191.200.50|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|1|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
+|4|203.150.128.91|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|9|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|12|38.191.200.50|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 |13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|15|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |17|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|19|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
 
 
 
