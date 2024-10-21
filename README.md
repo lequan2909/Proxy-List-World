@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|36.93.130.218|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|2|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|6|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|103.139.98.175|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|198.52.243.9|7777|Puerto Rico|San Juan|BNET|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|190.94.212.249|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|13|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|15|198.52.243.9|7777|Puerto Rico|San Juan|BNET|
-|16|67.43.236.20|5775|Canada|Montreal|GloboTech Communications|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|67.43.236.20|5775|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|16137|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.227.226|32919|Canada|Montreal|GloboTech Communications|
 |18|67.43.227.226|32919|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.164.178|10739|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|26287|Canada|Montreal|GloboTech Communications|
+|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
