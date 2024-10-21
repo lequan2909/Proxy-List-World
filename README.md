@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|103.141.21.46|8585|Indonesia|Balikpapan|ADIZKA|
-|7|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|158.140.172.246|8080|Indonesia|Palembang|MYREPUBLIC|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|14|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|15|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|203.150.113.209|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|6|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|77.41.146.21|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|103.187.86.3|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|45.189.252.233|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|17|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|19|103.115.227.198|8071|Indonesia|Surakarta|Pemerintah Kota Surakarta|
+|20|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
 
 
 
