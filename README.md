@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|7|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|182.160.124.237|6969|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|212.252.73.29|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|15|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.236.19|17629|Canada|Montreal|GloboTech Communications|
-|19|103.58.95.5|8080|Bangladesh|Kāfrul|Metaphor Digital Media|
-|20|142.215.53.8|8118|United States|Ashburn|Equinix (EMEA) Acquisition Enterprises B.V.|
+|4|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|5|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|6|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|7|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|8|31.128.42.169|3128|Russia|St Petersburg|Beget LLC|
+|9|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|10|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|11|190.119.90.114|8080|Peru|La Victoria|America Movil Peru S.A.C.|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|157.10.97.91|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
+|16|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|36.37.86.26|9812|Indonesia|Jakarta|LINTASARTA|
 
 
 
