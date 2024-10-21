@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|1|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|2|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 |3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|15|67.43.236.19|15993|Canada|Montreal|GloboTech Communications|
-|16|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|17|67.43.228.251|32933|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|9071|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|12|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|67.43.228.250|24699|Canada|Montreal|GloboTech Communications|
+|17|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|18|72.10.160.173|31341|Canada|Montreal|GloboTech Communications|
+|19|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
+|20|72.10.160.170|13449|Canada|Montreal|GloboTech Communications|
 
 
 
