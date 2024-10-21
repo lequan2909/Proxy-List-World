@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|202.93.244.98|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|13|72.10.164.178|20235|Canada|Montreal|GloboTech Communications|
-|14|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|15|67.43.236.20|31751|Canada|Montreal|GloboTech Communications|
-|16|190.119.90.114|8080|Peru|La Victoria|America Movil Peru S.A.C.|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|12|42.200.124.211|8080|Hong Kong|Central|PCCW IMSBiz|
+|13|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|14|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|67.43.227.226|5471|Canada|Montreal|GloboTech Communications|
 |17|72.10.160.170|24847|Canada|Montreal|GloboTech Communications|
-|18|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|19|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|20|67.43.227.226|28667|Canada|Montreal|GloboTech Communications|
+|18|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|19|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
+|20|190.119.90.114|8080|Peru|La Victoria|America Movil Peru S.A.C.|
 
 
 
