@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|3|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|103.191.250.130|8083|Indonesia|Batam|PT Mulia Batam Net|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|198.52.243.9|7777|Puerto Rico|San Juan|BNET|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
 |13|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|10967|Canada|Montreal|GloboTech Communications|
-|17|15.235.12.19|3128|Canada|Montreal|OVH SAS|
-|18|67.43.227.227|10527|Canada|Montreal|GloboTech Communications|
-|19|103.196.152.29|1015|Indonesia|Cileungsir|PT Biznet Gio Nusantara|
-|20|67.43.228.252|19457|Canada|Montreal|GloboTech Communications|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|67.43.227.226|27025|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.173|30077|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|6403|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|2193|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.252|14745|Canada|Montreal|GloboTech Communications|
+|20|103.196.152.29|1015|Indonesia|Cileungsir|PT Biznet Gio Nusantara|
 
 
 
