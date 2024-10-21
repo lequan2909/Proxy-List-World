@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|6|154.12.18.155|8080|United States|Pasadena|High Family Technology Co., Limited|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|9|162.240.154.26|3128|United States|Provo|Unified Layer|
-|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|14|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|15|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.227.227|30431|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|29853|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|6|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|7|67.43.227.227|9337|Canada|Montreal|GloboTech Communications|
+|8|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|10|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|72.10.160.172|27157|Canada|Montreal|GloboTech Communications|
+|13|222.127.242.123|8082|Philippines|Iloilo City|GLBB|
+|14|67.43.227.226|4073|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|8481|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|8481|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|20699|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|29113|Canada|Montreal|GloboTech Communications|
+|19|82.180.145.140|3128|India|Mumbai|Contabo Asia Private Limited|
+|20|67.43.228.250|7047|Canada|Montreal|GloboTech Communications|
 
 
 
