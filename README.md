@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5212** proxies at the latest update. Usable proxies are below.
+> Scraper found **5211** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|85|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|84|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|594|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|453|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|46.250.252.11|8000|Japan|Tokyo|Contabo Asia Private Limited|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|101.255.148.242|8080|Indonesia|Bekasi|PT Remala Abadi|
-|13|103.187.111.81|84|India|Hyderabad|Neolog Broadband Services|
-|14|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|15|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|16|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|17|103.69.20.100|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|19|72.10.164.178|22077|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|1811|Canada|Montreal|GloboTech Communications|
+|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|185.122.165.187|3128|United States|New York|Massivegrid LTD|
+|7|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|8|119.76.142.178|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|9|185.122.165.187|3128|United States|New York|Massivegrid LTD|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|103.142.165.193|58080|India|Bengaluru|All Time Tele Infra Pvt Ltd|
+|12|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|13|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|131.0.207.140|8080|Brazil|Espumoso|CB NET TELECOM LTDA|
+|16|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|19|45.133.107.238|81|Russia|Tul'skiy|Art-net LLC|
+|20|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
 
 
 
