@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|77.41.146.21|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|9|120.28.139.63|8082|Philippines|Caloocan City|Globe Telecom|
-|10|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|67.43.227.226|30225|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|11297|Canada|Montreal|GloboTech Communications|
-|18|116.104.169.158|5020|Vietnam|Hanoi|Viettel Corporation|
-|19|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|20|72.10.160.91|9827|Canada|Montreal|GloboTech Communications|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|8|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|103.248.9.154|8080|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|103.163.175.29|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|116.102.111.238|10001|Vietnam|Bà Rịa|Viettel Corporation|
+|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|16|103.172.70.139|1111|Indonesia|Karawang|AZNET|
+|17|58.9.2.49|5002|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|18|103.125.19.30|8080|Indonesia|Tangerang|JAVAMEDIA|
+|19|193.233.84.116|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|20|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 
 
 
