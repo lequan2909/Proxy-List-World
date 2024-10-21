@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|5|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|203.190.46.143|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|11|79.175.176.254|3128|Iran|Abadan|AFranet Co|
-|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|167.86.99.29|3128|Germany|Nuremberg|Contabo GmbH|
-|19|67.43.228.253|27361|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|14351|Canada|Montreal|GloboTech Communications|
+|2|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|103.31.132.42|9812|Indonesia|Kebon Melati|PT Arthatama Adhiprima Persada|
+|7|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|11|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|67.43.228.253|3925|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|9533|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.229|32677|Canada|Montreal|GloboTech Communications|
+|16|154.12.18.155|8080|United States|Pasadena|High Family Technology Co., Limited|
+|17|67.43.236.18|15965|Canada|Montreal|GloboTech Communications|
+|18|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|67.43.227.227|25235|Canada|Montreal|GloboTech Communications|
 
 
 
