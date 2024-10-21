@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |4|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
 |5|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|11|186.96.50.113|999|Mexico|Aguascalientes|Total Play Telecomunicaciones SA De CV|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
-|14|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|114.9.26.122|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|18|176.88.17.94|3128|Türkiye|Antalya|Superonline Iletisim Hizmetleri A.S.|
-|19|72.10.160.90|32953|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|1737|Canada|Montreal|GloboTech Communications|
+|6|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|7|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|176.88.17.94|3128|Türkiye|Antalya|Superonline Iletisim Hizmetleri A.S.|
+|12|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|14|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|16|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|86.98.20.15|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 
 
 
