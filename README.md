@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|171.228.144.41|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
 |5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|186.225.108.43|3128|Brazil|São Paulo|America-NET Ltda|
-|8|45.9.43.28|8080|Russia|St Petersburg|Beget LLC|
-|9|103.187.86.27|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
-|12|103.139.98.175|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|13|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|14|72.10.160.93|30329|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|15575|Canada|Montreal|GloboTech Communications|
-|16|198.52.243.9|7777|Puerto Rico|San Juan|BNET|
-|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.164.178|13699|Canada|Montreal|GloboTech Communications|
-|19|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|20|72.10.164.178|13699|Canada|Montreal|GloboTech Communications|
+|8|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
+|9|103.191.250.130|8083|Indonesia|Batam|PT Mulia Batam Net|
+|10|198.52.243.9|7777|Puerto Rico|San Juan|BNET|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
+|18|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|19|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|20|67.43.236.20|22097|Canada|Montreal|GloboTech Communications|
 
 
 
