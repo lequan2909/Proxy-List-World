@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|8|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|9|124.120.108.176|8080|Thailand|Bangkok|TRUEBB|
-|10|167.86.99.29|3128|Germany|Nuremberg|Contabo GmbH|
-|11|103.166.32.215|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|122.152.4.135|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
+|4|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|5|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|101.255.117.138|2020|Indonesia|Jakarta|PT Remala Abadi|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|103.160.182.137|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|16|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.164.223.54|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|20|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|15|202.179.184.70|8080|Indonesia|Tangerang|Telemedia Dinamika Sarana, PT|
+|16|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|20|72.10.160.92|30375|Canada|Montreal|GloboTech Communications|
 
 
 
