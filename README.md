@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|3|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|6|177.93.39.146|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|7|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|9|172.104.135.162|3128|Germany|Frankfurt am Main|Akamai Technologies|
-|10|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|11|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|15|173.45.117.254|8888|United States|Columbus|eNET Inc|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|124.217.47.144|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
-|18|177.93.48.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|58.69.137.62|8081|Philippines|Paombong|Philippine Long Distance Telephone Co.|
-|20|72.10.160.90|10455|Canada|Montreal|GloboTech Communications|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|4|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|116.104.130.174|5006|Vietnam|Hanoi|Viettel Corporation|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|10|203.190.46.159|3127|Indonesia|Sleman|PT Jaring Lintas Utara|
+|11|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|12|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|13|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|14|185.122.165.187|3128|United States|New York|Massivegrid LTD|
+|15|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
+|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|46.250.252.11|8000|Japan|Tokyo|Contabo Asia Private Limited|
+|18|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|19|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|20|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
 
 
 
