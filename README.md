@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|9|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|10|162.240.154.26|3128|United States|Provo|Unified Layer|
-|11|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|17|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|18|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|19|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|20|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|185.122.165.187|3128|United States|New York|Massivegrid LTD|
+|6|154.12.18.155|8080|United States|Pasadena|High Family Technology Co., Limited|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|9|162.240.154.26|3128|United States|Provo|Unified Layer|
+|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|14|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|15|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.227.227|30431|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|29853|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
