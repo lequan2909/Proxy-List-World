@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|27.76.201.251|5101|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|5|203.150.128.155|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|8|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|9|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|13|103.83.97.238|3127|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|14|103.166.10.7|8090|Indonesia|Kediri|PT. Yasmin Amanah Media|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|160.22.190.10|8080|Indonesia|Loakulu|PT Aldiyanur Mahakam Telemedia|
-|17|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|20|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|171.224.93.15|1001|Vietnam|Hanoi|Viettel Corporation|
+|4|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|27.76.201.251|5101|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|6|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|7|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|47.247.141.78|8080|India|Chennai|Reliance Jio Infocomm Limited|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
+|16|181.188.238.147|999|Ecuador|Quito|Otecel S.A.|
+|17|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
+|18|187.1.181.124|23500|Brazil|Belo Horizonte|Century Telecom Ltda|
+|19|124.109.62.116|8080|Pakistan|Faisalabad|Nayatel (Pvt) Ltd|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
