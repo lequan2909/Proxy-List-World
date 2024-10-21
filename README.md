@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|6|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|7|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
-|14|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|15|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|16|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
-|17|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|9|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|12|170.239.207.178|999|Colombia|Bogotá|FIBERNET|
+|13|188.132.150.43|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|17|186.180.79.22|999|Colombia|Cúcuta|Colombia Móvil|
+|18|217.251.109.178|8080|Germany|Traunstein|Deutsche Telekom AG|
+|19|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|95.164.89.33|8888|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
 
 
 
