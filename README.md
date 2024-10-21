@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|119.157.83.34|8080|Pakistan|Faisalabad|Pakistan Telecommuication company limited|
-|7|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|7|103.139.98.175|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|67.43.228.253|8483|Canada|Montreal|GloboTech Communications|
-|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|15|27.72.141.201|10089|Vietnam|Hanoi|Newass2011xDSLHN|
-|16|67.43.236.20|21667|Canada|Montreal|GloboTech Communications|
-|17|103.196.152.29|1015|Indonesia|Cileungsir|PT Biznet Gio Nusantara|
-|18|72.10.164.178|21223|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|27893|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|21223|Canada|Montreal|GloboTech Communications|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|103.196.152.29|1015|Indonesia|Cileungsir|PT Biznet Gio Nusantara|
+|14|67.43.228.253|8483|Canada|Montreal|GloboTech Communications|
+|15|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|16|72.10.164.178|12779|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|8067|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|12779|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|12779|Canada|Montreal|GloboTech Communications|
+|20|162.240.154.26|3128|United States|Provo|Unified Layer|
 
 
 
