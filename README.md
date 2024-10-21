@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|15|116.105.79.46|14542|Vietnam|Da Nang|Viettel Corporation|
-|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.160.91|7769|Canada|Montreal|GloboTech Communications|
-|18|116.107.247.154|1001|Vietnam|Văn Giang|Viettel Corporation|
-|19|67.43.227.226|24769|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|32331|Canada|Montreal|GloboTech Communications|
+|1|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|94.72.97.218|8888|United Kingdom|Portsmouth|Contabo GmbH|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|160.22.134.5|1111|Indonesia|Pasarkemis|GSNET|
+|16|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|18|74.78.98.156|8888|United States|Bethlehem|Charter Communications|
+|19|105.100.37.163|3128|Algeria|Algiers|Algerie Telecom|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
