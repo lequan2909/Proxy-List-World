@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|3|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|4|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|10|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|5|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|8|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|15|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |18|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|72.10.164.178|2193|Canada|Montreal|GloboTech Communications|
+|19|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 
 
 
