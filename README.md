@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5844** proxies at the latest update. Usable proxies are below.
+> Scraper found **5721** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|135|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1023|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|900|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|505|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3255|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|103.42.242.45|3125|Indonesia|Tangerang|PT. Jet Cyber Network Nusantara|
-|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|103.242.104.222|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|14|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|15|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|16|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|17|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|19|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|20|200.125.168.56|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|7|134.236.17.27|8080|Thailand|Bang Lamung|CAT-BB|
+|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|9|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|10|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|14|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|16|149.28.101.222|9000|United States|Miami|The Constant Company|
+|17|103.42.242.45|3125|Indonesia|Tangerang|PT. Jet Cyber Network Nusantara|
+|18|149.28.101.222|9000|United States|Miami|The Constant Company|
+|19|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|20|158.140.185.116|8080|Indonesia|South Tangerang|MYREPUBLIC|
 
 
 
