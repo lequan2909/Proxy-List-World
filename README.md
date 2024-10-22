@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|3|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|27.72.141.201|10013|Vietnam|Hanoi|Newass2011xDSLHN|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|19|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|11|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
+|12|144.86.187.51|3129|United States|Malden|Charles River Operation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|103.247.21.234|8080|Indonesia|Bekasi|PT wifian Solution|
+|15|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|27.147.218.162|8080|Bangladesh|Paltan|Link3 Technologies Limited|
+|17|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|18|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|19|72.10.164.178|7087|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|7087|Canada|Montreal|GloboTech Communications|
 
 
 
