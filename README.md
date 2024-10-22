@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|5|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|6|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
-|7|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|61.129.2.212|8080|China|Beijing|CHINANET|
-|10|103.47.113.92|8888|Hong Kong|Causeway Bay|Layerstack Limited|
-|11|72.10.164.178|3625|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|13339|Canada|Montreal|GloboTech Communications|
-|13|193.233.84.114|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|14|67.43.236.18|18517|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|11781|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.19|23179|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|45.123.142.4|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|19|177.93.16.66|8080|Costa Rica|Tres Ríos|Telecable Economico S.A|
-|20|67.43.228.250|11781|Canada|Montreal|GloboTech Communications|
+|1|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|51.159.75.249|3128|France|Paris|SCALEWAY|
+|5|121.37.253.203|3128|China|Guangzhou|Huawei Cloud Service data center|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|8|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|9|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|72.10.160.90|30785|Canada|Montreal|GloboTech Communications|
+|12|51.159.75.249|3128|France|Paris|SCALEWAY|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|177.93.16.66|8080|Costa Rica|Tres Ríos|Telecable Economico S.A|
+|15|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
+|18|72.10.160.172|14225|Canada|Montreal|GloboTech Communications|
+|19|27.147.129.26|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|67.43.228.250|11537|Canada|Montreal|GloboTech Communications|
 
 
 
