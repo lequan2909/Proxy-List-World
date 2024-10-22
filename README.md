@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|6|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|5|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|6|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|10|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|11|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|12|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|13|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
