@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|4|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|5|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|6|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|116.104.169.15|5000|Vietnam|Hanoi|Viettel Corporation|
+|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|5|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
+|6|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
 |7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|103.122.1.113|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|9|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|8|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
 |10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.227.228|30555|Canada|Montreal|GloboTech Communications|
-|14|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|15|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|16|72.10.164.178|1829|Canada|Montreal|GloboTech Communications|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|72.10.160.90|12205|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|20661|Canada|Montreal|GloboTech Communications|
-|20|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|103.122.1.113|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|13|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|17|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|20|45.76.126.190|80|Australia|Sydney|The Constant Company|
 
 
 
