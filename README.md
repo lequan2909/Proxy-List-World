@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|134.122.61.163|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|191.97.96.208|8080|Argentina|General Roca|Vision NET|
-|16|103.124.136.207|8080|Indonesia|Kartasura|Global Media Data Prima|
-|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|18|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|67.43.236.20|6097|Canada|Montreal|GloboTech Communications|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|144.86.187.62|3129|United States|Malden|Charles River Operation|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|15|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|17|134.35.195.235|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|18|144.86.187.60|3129|United States|Malden|Charles River Operation|
+|19|144.86.187.59|3129|United States|Malden|Charles River Operation|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
