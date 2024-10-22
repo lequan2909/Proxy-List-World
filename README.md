@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|41.65.160.174|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|4|103.67.237.214|3128|India|Hyderabad|OASISGSSERVICES|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|80.240.55.242|3128|Russia|Yeysk|inetnum UGTEL|
-|11|116.193.191.25|3128|Indonesia|Cicurug|PT Cloud Hosting Indonesia|
-|12|179.189.236.201|20183|Brazil|São Paulo|America-NET Ltda.|
-|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|15|103.69.20.36|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|139.59.121.57|8888|Singapore|Singapore|DIGITALOCEAN|
-|18|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
-|19|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|20|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|16|51.159.159.73|80|France|Paris|SCALEWAY|
+|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|27.76.202.224|8000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|20|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
