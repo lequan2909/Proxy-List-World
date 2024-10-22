@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|10|27.66.125.169|8000|Vietnam|Hanoi|Viettel Group|
-|11|46.250.252.11|8000|Japan|Tokyo|Contabo Asia Private Limited|
-|12|83.54.13.108|3128|Spain|León|Telefonica de Espana SAU|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
+|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|172.86.75.150|3128|The Netherlands|Amsterdam|BL Networks NL|
+|11|27.66.125.169|8000|Vietnam|Hanoi|Viettel Group|
+|12|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
+|13|202.154.18.141|8088|Indonesia|Jombang|DIGITNET|
 |14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|27.124.83.229|8080|Indonesia|Kebon Gunung|PT.Global Media Data Prima|
-|16|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|15|103.156.224.66|8080|Indonesia|Bogor|PT Lintas Citra Abadi|
+|16|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |17|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|20|67.43.227.227|8695|Canada|Montreal|GloboTech Communications|
+|18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|19|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
