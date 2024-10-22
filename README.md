@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|2|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
 |3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|12|67.43.236.18|2947|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.91|16937|Canada|Montreal|GloboTech Communications|
-|14|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|15|72.10.160.91|16937|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|27689|Canada|Montreal|GloboTech Communications|
-|17|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|18|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|72.10.164.178|6011|Canada|Montreal|GloboTech Communications|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|6|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|7|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|23.147.112.74|8080|United States|Tucson|NGX Networks|
+|15|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|16|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|17|72.10.164.178|10157|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.92|3991|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.91|15719|Canada|Montreal|GloboTech Communications|
+|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
