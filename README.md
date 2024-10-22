@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
 |3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|5|83.54.13.108|3128|Spain|León|Telefonica de Espana SAU|
-|6|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
-|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|13|144.86.187.42|3129|United States|Malden|Charles River Operation|
+|4|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
+|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|13|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 |14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|16|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|18|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
