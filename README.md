@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|3|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|12|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|16|103.191.115.252|83|India|Bānka|Xpress Fiber Private Limited|
-|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|162.229.228.112|8080|United States|Orange Park|AT&T Services, Inc.|
+|9|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|162.229.228.112|8080|United States|Orange Park|AT&T Services, Inc.|
+|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|15|27.72.141.201|10089|Vietnam|Hanoi|Newass2011xDSLHN|
+|16|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|17|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|18|24.152.50.130|8080|Dominican Republic|Jarabacoa|Lightwave S.R.L|
+|19|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
 |20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
