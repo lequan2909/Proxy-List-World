@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
-|6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|43.252.10.210|8080|Indonesia|Jakarta|QUANTUMNET|
-|16|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|17|115.187.30.171|1111|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|203.150.113.81|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|1|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
+|10|42.118.247.18|8080|Vietnam|Hanoi|FPT Telecom Company|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|179.106.18.142|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|18|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|19|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
+|20|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
