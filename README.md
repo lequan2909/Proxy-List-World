@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|489|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|489|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|489|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|6|203.150.113.189|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|9|210.247.253.205|3125|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|10|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|11|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|14|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|163.172.33.137|4176|France|Vitry-sur-Seine|Online S.A.S.|
-|18|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|19|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|20|49.51.244.112|8888|United States|Phoenix|OPHL|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|203.150.113.189|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|7|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|8|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|9|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|10|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|11|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|12|103.22.99.253|8080|Indonesia|Magetan|KHALISTAGROUP|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|16|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|17|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|18|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
