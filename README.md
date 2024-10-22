@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|6|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|12|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.228.253|15729|Canada|Montreal|GloboTech Communications|
-|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|67.43.228.253|15729|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|29731|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.196.152.29|1001|Indonesia|Cileungsir|PT Biznet Gio Nusantara|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|192.248.95.1|3128|Sri Lanka|Kuliyapitiya|Lanka Education and Research Network|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|16|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|17|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
+|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|181.188.236.229|999|Ecuador|Quito|Otecel S.A|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
