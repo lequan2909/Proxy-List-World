@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|83.54.13.108|3128|Spain|León|Telefonica de Espana SAU|
+|6|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|187.251.222.69|8080|Mexico|Zapopan|Total Play Telecomunicaciones SA De CV|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|27.76.202.224|8000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|19|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|20|67.43.228.253|14113|Canada|Montreal|GloboTech Communications|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|15|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|16|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 
 
 
