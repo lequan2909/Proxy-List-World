@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|9|67.43.227.226|2197|Canada|Montreal|GloboTech Communications|
-|10|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
-|11|67.43.236.19|13175|Canada|Montreal|GloboTech Communications|
-|12|103.170.100.96|8080|Indonesia|Jakarta|Subnet Data Nusantara|
-|13|67.43.228.250|9925|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|29107|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|29107|Canada|Montreal|GloboTech Communications|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|18|72.10.160.90|8987|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|19003|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|8987|Canada|Montreal|GloboTech Communications|
+|2|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|12|103.170.22.51|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
+|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|12.146.127.33|9080|United States|Rayville|AT&T Services, Inc.|
+|18|72.10.164.178|29107|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|27563|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|10141|Canada|Montreal|GloboTech Communications|
 
 
 
