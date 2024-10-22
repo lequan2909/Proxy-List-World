@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|116.102.111.238|10001|Vietnam|Bà Rịa|Viettel Corporation|
-|6|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|1|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|103.162.141.146|3128|Indonesia|Batam|PT Filltech Antar Nusa|
+|7|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|177.200.80.6|11221|Brazil|Eusébio|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
 |12|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
-|13|174.138.171.164|8900|United States|Phoenix|Secured Servers LLC|
-|14|72.10.160.90|27589|Canada|Montreal|GloboTech Communications|
-|15|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|16|36.88.140.196|8083|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|17|67.43.228.253|16099|Canada|Montreal|GloboTech Communications|
-|18|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|19|67.43.227.228|16569|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|1395|Canada|Montreal|GloboTech Communications|
+|13|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|16|67.43.227.230|25423|Canada|Montreal|GloboTech Communications|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.236.20|1865|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|7415|Canada|Montreal|GloboTech Communications|
+|20|174.138.171.164|8900|United States|Phoenix|Secured Servers LLC|
 
 
 
