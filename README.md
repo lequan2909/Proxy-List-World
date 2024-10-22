@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|5|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|103.67.237.212|3128|India|Hyderabad|OASISGSSERVICES|
-|10|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|103.177.9.19|8181|Indonesia|Tumpang|PT Helium Sinergi Telekomunikasi|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|112.198.179.42|8082|Philippines|Carmona|Globe Telecom|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|10|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |13|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|14|177.93.33.122|999|Colombia|La Sierra|TV AZTECA SUCURSAL COLOMBIA|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|16|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|20|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|177.93.33.122|999|Colombia|La Sierra|TV AZTECA SUCURSAL COLOMBIA|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
