@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5058** proxies at the latest update. Usable proxies are below.
+> Scraper found **5041** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|133|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|533|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|516|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|306|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3160|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|9|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
 |10|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|13|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|14|182.253.38.179|3128|Indonesia|Jakarta Pusat|BIZNET|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|72.10.164.178|11323|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|3513|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.160.91|31095|Canada|Montreal|GloboTech Communications|
+|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|67.43.227.228|2335|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.230|19723|Canada|Montreal|GloboTech Communications|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|37.210.165.14|8080|Qatar|Doha|Ooredoo-MBB|
+|20|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
 
 
 
