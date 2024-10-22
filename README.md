@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |3|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|144.86.187.52|3129|United States|Malden|Charles River Operation|
-|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|45.88.192.56|18080|United States|Los Angeles|DM-HK|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|20|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|4|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|5|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|16|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|18|72.10.164.178|17075|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|67.43.227.227|2275|Canada|Montreal|GloboTech Communications|
 
 
 
