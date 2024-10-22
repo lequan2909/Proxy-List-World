@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5022** proxies at the latest update. Usable proxies are below.
+> Scraper found **4956** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|133|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|615|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|549|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|311|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3037|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|2|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|45.5.117.168|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|8|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|45.76.126.190|80|Australia|Sydney|The Constant Company|
-|10|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
-|11|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|12|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
-|13|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|72.10.160.91|21885|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|2453|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.92|5127|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|67.43.236.19|17155|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|7957|Canada|Montreal|GloboTech Communications|
-|20|103.211.107.62|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|8|45.5.117.168|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|16|1.2.209.68|8080|Thailand|Bangkok|TOT Public Company Limited|
+|17|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|18|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
