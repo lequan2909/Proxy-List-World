@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
-|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|5|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
 |6|103.67.237.214|3128|India|Hyderabad|OASISGSSERVICES|
-|7|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|8|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
-|9|46.149.251.225|54486|United Kingdom|London|Vaioni Group Ltd|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|186.237.131.122|8080|Brazil|São José do Rio Preto|IFTNET Telecomunicacoes Ltda|
-|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
-|17|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|125.209.110.83|39617|Pakistan|Islamabad|Multinet 125-110/24|
-|19|103.124.198.110|1080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
+|11|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|14|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|15|157.15.44.105|7777|Indonesia|Kalibuntu|PT Sheep Network Teknologi|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|94.103.92.163|3128|Russia|Moscow|Hosting technology LTD|
+|18|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|19|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
+|20|103.211.107.230|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
 
 
 
