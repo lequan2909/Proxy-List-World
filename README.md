@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|121.37.253.203|3128|China|Guangzhou|Huawei Cloud Service data center|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|152.32.68.171|65535|Philippines|Quezon City|Converge ICT Solution Inc|
+|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|4|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|103.75.84.237|8080|Indonesia|Klaten|MEGADATA|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|10|72.10.160.91|30581|Canada|Montreal|GloboTech Communications|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|67.43.227.228|28583|Canada|Montreal|GloboTech Communications|
+|9|103.54.218.202|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|10|121.37.253.203|3128|China|Guangzhou|Huawei Cloud Service data center|
+|11|51.159.75.249|3128|France|Paris|SCALEWAY|
+|12|103.247.23.72|7777|Indonesia|Cileungsir|PT wifian Solution|
 |13|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |14|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|15|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|16|72.10.164.178|11587|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|28583|Canada|Montreal|GloboTech Communications|
-|18|160.22.16.16|3128|Vietnam|Quận Ba|VNPT Corp|
-|19|67.43.227.227|11075|Canada|Montreal|GloboTech Communications|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|18|67.43.227.228|26903|Canada|Montreal|GloboTech Communications|
+|19|103.165.155.133|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|20|67.43.228.250|11537|Canada|Montreal|GloboTech Communications|
 
 
 
