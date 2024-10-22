@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|11|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|116.102.111.238|10001|Vietnam|Bà Rịa|Viettel Corporation|
-|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|20|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|186.96.50.113|999|Mexico|Aguascalientes|Total Play Telecomunicaciones SA De CV|
+|6|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|14|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
+|15|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
+|16|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|17|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|18|72.10.164.178|2981|Canada|Montreal|GloboTech Communications|
+|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|20|72.10.160.93|16455|Canada|Montreal|GloboTech Communications|
 
 
 
