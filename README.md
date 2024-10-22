@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|92.118.228.31|3128|United States|San Jose|Sriyaan Technologies|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|11|92.118.228.31|3128|United States|San Jose|Sriyaan Technologies|
-|12|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|134.209.113.148|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|223.206.57.107|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|15|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|16|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|17|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|20|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|8|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|11|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|14|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|15|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|18|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
 
 
 
