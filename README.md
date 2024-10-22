@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|8|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|9|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|10|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|11|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|12|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|15|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|16|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|19|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|3|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|4|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|5|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|8|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|9|103.67.237.212|3128|India|Hyderabad|OASISGSSERVICES|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|12|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|13|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|103.177.9.19|8181|Indonesia|Tumpang|PT Helium Sinergi Telekomunikasi|
+|19|155.138.226.105|9000|United States|Atlanta|The Constant Company|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
