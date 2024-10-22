@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|3|139.162.9.252|3129|Singapore|Singapore|LINODE|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|11|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|12|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|13|51.159.159.73|80|France|Paris|SCALEWAY|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|18|111.1.61.49|8888|China|Wenzhou|China Mobile communications corporation|
-|19|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|67.43.228.253|19213|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|17|156.200.123.170|8080|Egypt|Cairo|TE Data|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|67.43.227.227|31213|Canada|Montreal|GloboTech Communications|
 
 
 
