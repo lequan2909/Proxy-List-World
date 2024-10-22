@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|144.86.187.55|3129|United States|Malden|Charles River Operation|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|144.86.187.56|3129|United States|Malden|Charles River Operation|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|157.66.16.48|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |12|36.64.37.18|8081|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|15|72.10.164.178|7621|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
-|18|190.52.104.214|999|Venezuela|Caracas|Gold Data USA Inc|
-|19|72.10.160.90|29067|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.254|11605|Canada|Montreal|GloboTech Communications|
+|13|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|112.78.163.157|8080|Indonesia|Jakarta|Biznet Networks|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.160.90|33145|Canada|Montreal|GloboTech Communications|
 
 
 
