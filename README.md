@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4948** proxies at the latest update. Usable proxies are below.
+> Scraper found **4994** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|130|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|463|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|129|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|510|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|311|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3118|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
-|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|13|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|144.86.187.60|3129|United States|Malden|Charles River Operation|
+|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|7|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|8|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|27.72.141.201|10091|Vietnam|Hanoi|Newass2011xDSLHN|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.227.230|21195|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|2077|Canada|Montreal|GloboTech Communications|
 
 
 
