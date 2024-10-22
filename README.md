@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|8|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|9|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|83.54.13.108|3128|Spain|León|Telefonica de Espana SAU|
-|12|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|16|45.5.116.231|999|Guatemala|Guatemala City|Infinitum S.A.|
-|17|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|20|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|8|46.250.252.11|8000|Japan|Tokyo|Contabo Asia Private Limited|
+|9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|202.93.244.242|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|14|49.51.244.112|8888|United States|Phoenix|OPHL|
+|15|121.37.253.203|3128|China|Guangzhou|Huawei Cloud Service data center|
+|16|168.227.10.217|8080|Brazil|João Monlevade|Companhia Itabirana Telecomunicações Ltda|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|19|174.168.230.75|8118|United States|Portsmouth|Comcast Cable Communications, LLC|
+|20|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
