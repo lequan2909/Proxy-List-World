@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|160.22.134.5|1111|Indonesia|Pasarkemis|GSNET|
-|4|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|5|158.140.185.116|8080|Indonesia|South Tangerang|MYREPUBLIC|
-|6|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|103.180.123.15|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|103.169.186.151|3125|Indonesia|Situbondo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|10|118.99.68.133|8080|Indonesia|Sidoarjo|Biznet Metronet|
-|11|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
-|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|13|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|14|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|15|134.236.17.27|8080|Thailand|Bang Lamung|CAT-BB|
-|16|103.109.59.179|9080|Bangladesh|Feni|HelloTech Limited|
-|17|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|18|45.70.201.253|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
-|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|20|103.42.242.45|3125|Indonesia|Tangerang|PT. Jet Cyber Network Nusantara|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|43.153.25.122|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|8|103.39.70.248|8181|Indonesia|Sambas|PT Gateway media Zafira|
+|9|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|27.72.141.201|10089|Vietnam|Hanoi|Newass2011xDSLHN|
+|11|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|43.153.25.122|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|15|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|16|103.180.123.15|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|17|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|18|103.175.240.67|8080|Indonesia|Banyumas|LDP|
+|19|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|20|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
 
 
 
