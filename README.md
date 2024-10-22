@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|4|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|9|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|10|182.253.159.242|8080|Indonesia|Bandung|BIZNET|
-|11|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|13|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|103.242.106.3|8090|Indonesia|Krajan|PT Lintas Jaringan Nusantara|
-|19|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|12|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|200.229.228.108|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|15|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|19|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
 |20|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
