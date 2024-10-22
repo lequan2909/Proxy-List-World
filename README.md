@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|46.250.252.11|8000|Japan|Tokyo|Contabo Asia Private Limited|
-|6|103.125.174.13|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|7|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|202.93.244.242|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
-|10|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|11|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|12|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|192.145.205.110|8080|Brazil|Francisco Sá|Vianet Guaraciama Eireli ME|
-|15|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|16|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|17|182.52.137.27|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|67.43.228.253|12161|Canada|Montreal|GloboTech Communications|
-|20|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|4|35.197.150.32|8888|Singapore|Singapore|Google LLC|
+|5|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|6|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|7|103.158.27.88|1212|Indonesia|Sleman|PT Madina Solusi Indonesia|
+|8|103.114.52.72|8080|Indonesia|Boyolali|Proxy-registered|
+|9|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|10|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|11|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|12|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|14|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|121.37.253.203|3128|China|Guangzhou|Huawei Cloud Service data center|
+|17|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|20|72.10.164.178|16269|Canada|Montreal|GloboTech Communications|
 
 
 
