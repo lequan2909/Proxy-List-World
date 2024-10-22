@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|83.54.13.108|3128|Spain|León|Telefonica de Espana SAU|
-|8|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|144.86.187.56|3129|United States|Malden|Charles River Operation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|4|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|103.174.236.63|7777|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|103.67.237.211|3128|India|Hyderabad|OASISGSSERVICES|
+|14|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|67.43.228.250|1027|Canada|Montreal|GloboTech Communications|
-|17|144.86.187.42|3129|United States|Malden|Charles River Operation|
-|18|147.28.155.20|10075|United States|Dallas|Packet Host, Inc.|
-|19|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.227.227|16641|Canada|Montreal|GloboTech Communications|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|34.122.58.60|3128|United States|Council Bluffs|Google LLC|
+|19|116.104.89.186|8000|Vietnam|Hanoi|Viettel Corporation|
+|20|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
 
 
 
