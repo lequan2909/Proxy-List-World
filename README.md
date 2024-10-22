@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|3|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|4|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|7|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|103.220.206.138|59417|Bangladesh|Dhaka|KS Network|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|103.169.131.58|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|5|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|6|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|7|103.44.19.185|1111|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|8|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|11|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|12|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|13|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|18|72.10.160.92|28045|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
