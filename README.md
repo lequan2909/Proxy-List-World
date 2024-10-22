@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|8|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|9|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|18|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|19|103.163.231.142|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
-|20|162.240.154.26|3128|United States|Provo|Unified Layer|
+|2|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|6|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|13|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|14|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|18|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|19|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
