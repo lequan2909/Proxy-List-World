@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
+|7|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
 |8|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|9|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|10|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|67.43.227.228|2335|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.230|19723|Canada|Montreal|GloboTech Communications|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|37.210.165.14|8080|Qatar|Doha|Ooredoo-MBB|
-|20|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|109.109.166.176|8104|United Kingdom|Stockport|Vispa Limited|
+|11|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|103.88.239.118|84|India|Hyderabad|Mana Communications|
+|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|19|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|20|72.10.160.170|1291|Canada|Montreal|GloboTech Communications|
 
 
 
