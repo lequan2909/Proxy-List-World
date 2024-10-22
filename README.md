@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|190.242.181.59|999|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|7|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|8|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|9|134.209.144.177|80|India|Bengaluru|DigitalOcean, LLC|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|121.37.253.203|3128|China|Guangzhou|Huawei Cloud Service data center|
-|12|190.14.10.19|999|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|13|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.227.226|18947|Canada|Montreal|GloboTech Communications|
-|16|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|17|42.118.247.18|8080|Vietnam|Hanoi|FPT Telecom Company|
-|18|45.173.231.166|999|Ecuador|Quito|Jyxcem Cia.ltda|
-|19|72.10.160.170|25793|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|7|38.191.200.50|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|13|72.10.160.170|25793|Canada|Montreal|GloboTech Communications|
+|14|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
+|15|72.10.164.178|7121|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.236.20|25425|Canada|Montreal|GloboTech Communications|
+|18|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|67.43.227.226|16965|Canada|Montreal|GloboTech Communications|
+|20|36.95.155.74|3126|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
