@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
 |5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|11|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|210.247.253.205|3125|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|14|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|15|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|16|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|17|103.175.240.67|8080|Indonesia|Banyumas|LDP|
-|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|19|103.156.140.203|8080|Indonesia|Jember|PT Tekling Media Telematika|
-|20|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|10|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|11|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|12|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|13|103.168.254.218|1111|Indonesia|Kudus|PT Fahasa Tri Data|
+|14|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|20|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
 
 
 
