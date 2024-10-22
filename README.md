@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
 |5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|103.193.145.33|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|13|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|14|101.255.148.22|3127|Indonesia|Bekasi|PT Remala Abadi|
-|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|16|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|17|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|18|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|19|189.151.19.230|999|Mexico|Nogales|UNINET|
-|20|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|6|103.93.193.141|58080|India|Mira Road|Juweriyah Networks Private Limited|
+|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|8|103.173.138.240|1111|Indonesia|Pulaupanggung|PT Serayu Multi Connection|
+|9|103.191.251.34|8083|Indonesia|Batam|PT Mulia Batam Net|
+|10|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|11|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|12|38.7.0.40|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|13|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|14|124.158.184.153|8080|Indonesia|Bogor|PT Jala Lintas Media|
+|15|181.78.27.39|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|16|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|17|103.167.171.81|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|18|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
