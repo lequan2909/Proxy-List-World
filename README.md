@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|3|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|4|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|11|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|12|103.22.99.42|8080|Indonesia|Magetan|KHALISTAGROUP|
-|13|103.127.220.70|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|16|162.240.154.26|3128|United States|Provo|Unified Layer|
-|17|67.43.228.251|9127|Canada|Montreal|GloboTech Communications|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|6|171.6.151.220|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|7|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|8|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|13|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|16|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|17|72.10.160.171|29279|Canada|Montreal|GloboTech Communications|
 |18|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|19|72.10.160.171|15253|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|171.228.120.115|10089|Vietnam|Phúc Yên|Viettel Corporation|
 
 
 
