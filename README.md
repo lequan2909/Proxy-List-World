@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|3|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|4|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|5|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|6|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|7|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|2|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|3|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|6|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|7|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|8|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|9|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|10|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
 |11|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|147.182.166.192|8888|United States|North Bergen|DigitalOcean, LLC|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|103.145.149.36|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|16|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|18|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|144.86.187.39|3129|United States|Malden|Charles River Operation|
 
 
 
