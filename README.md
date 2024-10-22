@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|203.150.128.250|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|103.156.248.27|8085|Indonesia|Pinrang|Trans Media Telekomunikasi|
-|8|38.191.200.50|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|10|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|65.20.189.104|9090|Iraq|Karbala|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
-|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|171.224.88.80|10001|Vietnam|Hanoi|Viettel Corporation|
-|18|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|19|72.10.160.90|3193|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|33171|Canada|Montreal|GloboTech Communications|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|5|38.191.200.50|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|10|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|11|72.10.164.178|15627|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|15627|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|15627|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|27039|Canada|Montreal|GloboTech Communications|
+|15|45.174.79.95|999|Mexico|Delicias|Raul Duarte Urita|
+|16|72.10.164.178|15627|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|67.43.227.227|4879|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|19355|Canada|Montreal|GloboTech Communications|
+|20|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
