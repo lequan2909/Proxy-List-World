@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |7|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|8|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|9|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|91.185.56.158|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
-|12|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|103.146.184.101|8090|Indonesia|Sragen|YAMNET|
-|18|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|19|196.41.230.90|8080|Algeria|Cheraga|Icosnet SPA|
-|20|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|12|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|13|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|14|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|15|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
