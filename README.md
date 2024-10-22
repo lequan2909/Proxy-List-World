@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4816** proxies at the latest update. Usable proxies are below.
+> Scraper found **4939** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|440|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|281|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3037|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3160|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|2|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
 |6|121.37.253.203|3128|China|Guangzhou|Huawei Cloud Service data center|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|72.10.164.178|8039|Canada|Montreal|GloboTech Communications|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|103.133.27.247|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
 |10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|103.78.158.6|3125|Indonesia|Banjarmasin|PT Global Jaringan Borneo|
+|11|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |13|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|67.43.227.226|17561|Canada|Montreal|GloboTech Communications|
-|15|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|16|72.10.160.173|25207|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.93|30309|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|27817|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|8039|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|17561|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|25423|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
