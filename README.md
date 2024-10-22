@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|112.78.163.157|8080|Indonesia|Jakarta|Biznet Networks|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|103.166.159.142|7777|Indonesia|Serang|PT Timor Lintas Nusantara|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |8|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|27.76.202.224|8000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|72.10.160.170|5137|Canada|Montreal|GloboTech Communications|
-|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|36.64.37.18|8081|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|112.78.163.157|8080|Indonesia|Jakarta|Biznet Networks|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|19|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
