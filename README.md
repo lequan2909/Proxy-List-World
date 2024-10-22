@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|13|67.43.228.250|3775|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|10841|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|10031|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.254|20109|Canada|Montreal|GloboTech Communications|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|67.43.228.250|3775|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|21355|Canada|Montreal|GloboTech Communications|
-|20|103.81.64.75|8080|Indonesia|Bandar Lampung|QIUNET|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|12|38.45.44.109|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|13|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|14|38.97.215.145|8080|United States|Denver|Cogent Communications|
+|15|80.240.55.242|3128|Russia|Yeysk|inetnum UGTEL|
+|16|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|17|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|18|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
