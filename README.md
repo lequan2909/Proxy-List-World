@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
 |3|134.236.17.27|8080|Thailand|Bang Lamung|CAT-BB|
-|4|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|103.155.196.104|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|8|158.140.185.116|8080|Indonesia|South Tangerang|MYREPUBLIC|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|11|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|13|49.49.210.209|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|14|103.153.134.150|8080|Indonesia|Tangerang|WMINET|
-|15|157.66.50.41|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|16|223.205.113.145|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
-|17|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|18|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|102.129.33.33|8080|Gabon|Libreville|General Business Machines SA|
-|20|61.91.162.126|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|6|223.205.97.218|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|80.93.179.245|3128|Russia|Moscow|SELECTEL|
+|10|210.247.253.216|3125|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|12|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|13|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|103.42.242.45|3125|Indonesia|Tangerang|PT. Jet Cyber Network Nusantara|
+|18|103.153.134.150|8080|Indonesia|Tangerang|WMINET|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 
 
 
