@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|102.214.104.56|8080|Libya|Qaşr Khiyār|Rawafed|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|9|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |13|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|14|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|67.43.236.20|26395|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|14599|Canada|Montreal|GloboTech Communications|
-|18|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|16|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
 |19|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|20|72.10.164.178|17625|Canada|Montreal|GloboTech Communications|
+|20|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
