@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|121.37.253.203|3128|China|Guangzhou|Huawei Cloud Service data center|
-|11|203.190.44.251|8080|Indonesia|Jogonalan|PT Jaring Lintas Utara|
-|12|45.5.117.168|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|13|103.174.236.72|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
-|14|177.130.104.106|33333|Brazil|Presidente Prudente|FIT Telecom Eireli|
-|15|208.73.206.91|3128|United States|Secaucus|Interserver, Inc|
-|16|208.73.206.91|3128|United States|Secaucus|Interserver, Inc|
-|17|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|18|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|19|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|7|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|8|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|9|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|83.54.13.108|3128|Spain|León|Telefonica de Espana SAU|
+|12|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|16|45.5.116.231|999|Guatemala|Guatemala City|Infinitum S.A.|
+|17|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|20|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
 
 
 
