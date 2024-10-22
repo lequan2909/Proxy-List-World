@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|3|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
 |4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
 |8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|14|159.223.76.73|24151|Singapore|Singapore|DigitalOcean, LLC|
-|15|107.152.33.191|8888|United States|Chicago|tzulo, inc.|
-|16|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|67.43.227.227|24495|Canada|Montreal|GloboTech Communications|
-|18|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
-|19|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|20|67.43.227.226|6063|Canada|Montreal|GloboTech Communications|
+|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|12|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|157.15.51.18|8080|Indonesia|Aceh Tamiang Regency|Aceh Digital Fenam|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|20|185.122.165.187|3128|United States|New York|Massivegrid LTD|
 
 
 
