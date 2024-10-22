@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|2|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|144.86.187.60|3129|United States|Malden|Charles River Operation|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|8|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
-|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|27.72.141.201|10091|Vietnam|Hanoi|Newass2011xDSLHN|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.230|21195|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2077|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|144.86.187.38|3129|United States|Malden|Charles River Operation|
+|8|144.86.187.60|3129|United States|Malden|Charles River Operation|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|144.86.187.59|3129|United States|Malden|Charles River Operation|
+|17|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
+|18|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
