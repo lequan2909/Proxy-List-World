@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.150.113.189|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|2|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|8|103.173.231.18|3127|Indonesia|Serang|PT Jaringan Internet Banten|
-|9|67.43.227.226|11473|Canada|Montreal|GloboTech Communications|
-|10|163.172.33.137|4176|France|Vitry-sur-Seine|Online S.A.S.|
-|11|67.43.227.226|11473|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.93|22309|Canada|Montreal|GloboTech Communications|
-|13|66.211.155.34|8080|United States|Nashua|FirstLight Fiber|
-|14|72.10.160.170|32491|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|10627|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|14743|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|32491|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|30881|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|1529|Canada|Montreal|GloboTech Communications|
-|20|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|7|203.150.113.189|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|8|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|9|38.191.200.54|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|13|163.172.33.137|4176|France|Vitry-sur-Seine|Online S.A.S.|
+|14|222.127.242.123|8082|Philippines|Iloilo City|GLBB|
+|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|16|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|17|67.43.227.226|23471|Canada|Montreal|GloboTech Communications|
+|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|20|67.43.227.226|23471|Canada|Montreal|GloboTech Communications|
 
 
 
