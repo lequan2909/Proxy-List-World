@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|134.236.17.27|8080|Thailand|Bang Lamung|CAT-BB|
-|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|9|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|10|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|14|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|16|149.28.101.222|9000|United States|Miami|The Constant Company|
-|17|103.42.242.45|3125|Indonesia|Tangerang|PT. Jet Cyber Network Nusantara|
-|18|149.28.101.222|9000|United States|Miami|The Constant Company|
-|19|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|20|158.140.185.116|8080|Indonesia|South Tangerang|MYREPUBLIC|
+|1|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|6|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|14|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|15|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|16|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|103.242.105.193|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
