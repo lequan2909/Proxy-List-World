@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5911** proxies at the latest update. Usable proxies are below.
+> Scraper found **5907** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|134|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|985|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|133|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|982|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|577|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3289|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|8|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|11|103.154.92.234|8080|Indonesia|Depok|PT Mora Telematika Indonesia|
-|12|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|14|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|17|124.217.47.144|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
-|18|163.172.33.137|4176|France|Vitry-sur-Seine|Online S.A.S.|
-|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|20|103.81.64.52|8080|Indonesia|Bandar Lampung|QIUNET|
+|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|9|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|10|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|11|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|223.205.123.110|8888|Thailand|Nakhon Phanom|Triple T Broadband Public Company Limited|
+|14|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|15|27.147.195.170|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|101.255.148.22|3127|Indonesia|Bekasi|PT Remala Abadi|
+|17|103.76.151.114|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|18|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|19|163.172.33.137|4176|France|Vitry-sur-Seine|Online S.A.S.|
+|20|103.167.171.81|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
 
 
 
