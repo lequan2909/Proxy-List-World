@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|10|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|11|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|67.43.227.228|13965|Canada|Montreal|GloboTech Communications|
-|15|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
-|16|67.43.227.227|2785|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.230|9999|Canada|Montreal|GloboTech Communications|
-|18|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|19|72.10.160.90|6047|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|10713|Canada|Montreal|GloboTech Communications|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|203.150.113.81|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|14|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|188.132.222.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|19|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
+|20|34.123.78.185|3128|United States|Council Bluffs|Google LLC|
 
 
 
