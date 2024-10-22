@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|8|45.5.117.168|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|75.25.159.161|3128|United States|San Francisco|AT&T Services, Inc.|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|9|103.176.96.178|1111|Indonesia|Karawang|PT Global Sarana Elektronika|
+|10|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
 |11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|16|1.2.209.68|8080|Thailand|Bangkok|TOT Public Company Limited|
-|17|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
+|14|67.43.236.20|20661|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|17101|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.171|6605|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.251|21875|Canada|Montreal|GloboTech Communications|
+|18|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|19|185.122.165.187|3128|United States|New York|Massivegrid LTD|
+|20|67.43.228.251|21875|Canada|Montreal|GloboTech Communications|
 
 
 
