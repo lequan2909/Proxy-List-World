@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|82.200.80.118|8080|Russia|Novosibirsk|ZSTTK|
-|11|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|157.15.51.18|8080|Indonesia|Aceh Tamiang Regency|Aceh Digital Fenam|
+|8|200.24.157.120|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|9|38.191.200.59|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|38.191.200.52|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 |14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.162.63.198|8181|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|16|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|17|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
-|18|67.43.227.228|3651|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.228.252|1491|Canada|Montreal|GloboTech Communications|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|17|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|18|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
+|19|67.43.227.228|10043|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|12241|Canada|Montreal|GloboTech Communications|
 
 
 
