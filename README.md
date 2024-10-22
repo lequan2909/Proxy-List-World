@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
+|4|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|7|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|185.113.139.70|3128|Latvia|Riga|Baykov Ilya Sergeevich|
-|14|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|19|103.153.63.146|8080|Indonesia|Bekasi|IMEDIANET|
-|20|177.38.72.38|9292|Brazil|Jales|MELFINET - National Telecom SCM Ltda|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|103.164.214.122|8080|Indonesia|Surabaya|PT iForte Global Internet|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
+|15|51.159.159.73|80|France|Paris|SCALEWAY|
+|16|89.106.199.94|8880|Russia|Ryazan|MTS PJSC|
+|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|19|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|20|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
