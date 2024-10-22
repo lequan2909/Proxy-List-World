@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|103.167.171.81|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|9|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|10|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|11|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|15|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|16|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|18|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|19|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|103.156.141.130|1111|Indonesia|Jember|PT Tekling Media Telematika|
+|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|9|163.172.33.137|4176|France|Vitry-sur-Seine|Online S.A.S.|
+|10|118.179.84.218|8080|Bangladesh|Sylhet|Dhakacom Limited|
+|11|103.157.79.18|8080|Indonesia|Jakarta|EASTMEDIA|
+|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|13|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|14|103.217.216.183|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.191.251.34|8083|Indonesia|Batam|PT Mulia Batam Net|
+|17|38.137.203.10|999|Peru|Lima|Internet Services Perú|
+|18|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|19|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|20|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
