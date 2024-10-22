@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
-|4|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|174.168.230.75|8118|United States|Portsmouth|Comcast Cable Communications, LLC|
-|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|38.252.223.114|999|Peru|Huaura|Forza Bussines S.A.C.|
-|10|103.103.144.135|8080|Indonesia|Denpasar|ARTAMEDIANET|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|116.102.111.238|10001|Vietnam|Bà Rịa|Viettel Corporation|
 |12|38.191.200.56|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|193.233.84.49|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |15|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|16|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
-|17|67.43.227.227|1243|Canada|Montreal|GloboTech Communications|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|20|67.43.228.250|24215|Canada|Montreal|GloboTech Communications|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|177.200.80.6|11221|Brazil|Eusébio|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
 
 
 
