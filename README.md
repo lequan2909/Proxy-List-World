@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|103.133.63.61|8080|Indonesia|Bandar Lampung|TLINK|
-|4|103.137.67.177|8080|Bangladesh|Binodpur|SK Traders|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|7|210.45.77.218|7897|China|Hefei|USTC1|
-|8|72.10.160.90|31885|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.253|1119|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|29073|Canada|Montreal|GloboTech Communications|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|67.43.227.227|30589|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.250|18611|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|27827|Canada|Montreal|GloboTech Communications|
-|15|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|16|51.159.159.73|80|France|Paris|SCALEWAY|
-|17|72.10.160.173|9421|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|30589|Canada|Montreal|GloboTech Communications|
-|19|103.147.30.65|3128|Indonesia|Bandung|PT Semesta Teknologi Informatika|
-|20|157.100.57.180|999|Ecuador|Juan Montalvo|Ufinet Panama S.A.|
+|3|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
+|7|103.168.169.245|80|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|38.9.141.63|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|10|85.232.243.235|8080|Poland|Warsaw|ATMAN|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|210.45.77.218|7897|China|Hefei|USTC1|
+|13|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|14|180.211.186.158|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|15|181.143.126.74|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|16|103.189.250.89|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|17|72.10.160.93|31467|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|103.78.158.6|3125|Indonesia|Banjarmasin|PT Global Jaringan Borneo|
+|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 
 
 
