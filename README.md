@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|103.105.55.51|9090|Indonesia|Malang|PT. Mega Artha Lintas Data|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|11|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|103.69.20.89|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|13|103.42.120.31|8080|Indonesia|Jakarta|PT Transhybrid Communication|
-|14|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|15|223.205.57.177|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
-|16|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|180.56.154.198|8080|Japan|Roppongi|NTT Communications Corporation|
-|19|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|20|212.252.73.29|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|117.102.76.253|8080|Indonesia|Jakarta|Biznet Networks|
+|6|202.148.16.147|8080|Indonesia|Jakarta|PT. Core Mediatech|
+|7|41.216.186.183|8181|Indonesia|Purbalingga|FASTHOSTING|
+|8|188.132.221.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|203.192.217.6|8080|India|Nagpur|Entire In2Cable|
+|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|45.236.198.249|666|Brazil|Salvador|Claudinei Sousa Cerqueira|
+|13|92.246.136.39|18392|Germany|Frankfurt am Main|Aeza International LTD|
+|14|210.45.77.218|7897|China|Hefei|USTC1|
+|15|67.43.228.250|4565|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|32891|Canada|Montreal|GloboTech Communications|
+|17|182.253.42.148|8082|Indonesia|Jakarta Pusat|BIZNET|
+|18|72.10.164.178|4471|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|20435|Canada|Montreal|GloboTech Communications|
+|20|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
 
 
 
