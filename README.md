@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|38.57.232.10|999|Dominican Republic|San Pedro de Macorís|VALNET WIRELESS, S.R.L.|
-|4|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|6|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|7|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|67.43.228.254|11457|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|5433|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|5433|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|29255|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.251|31305|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|5433|Canada|Montreal|GloboTech Communications|
+|9|190.89.111.116|8080|Brazil|Águas Lindas de Goiás|Ceunet Telecom Eireli|
+|10|72.10.164.178|32461|Canada|Montreal|GloboTech Communications|
+|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|67.43.228.253|9749|Canada|Montreal|GloboTech Communications|
+|14|200.125.168.56|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
 |15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|67.43.236.21|21987|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|29255|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|25455|Canada|Montreal|GloboTech Communications|
-|19|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|67.43.236.18|27069|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|9749|Canada|Montreal|GloboTech Communications|
+|17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
