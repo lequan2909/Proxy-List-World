@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|4|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|6|186.96.96.134|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|8|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|58.64.12.11|8081|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|12|191.6.112.5|8086|Brazil|Macapá|Voce Telecomunicacoes Ltda|
-|13|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|67.43.236.20|31587|Canada|Montreal|GloboTech Communications|
-|16|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|103.174.238.98|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|20|103.247.23.72|7777|Indonesia|Cileungsir|PT wifian Solution|
+|1|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|103.80.231.130|8080|Indonesia|Medan|PT Dream Network Solusindo|
+|4|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|185.122.165.187|3128|United States|New York|Massivegrid LTD|
+|15|103.153.135.58|8083|Indonesia|Tangerang|WMINET|
+|16|67.43.236.20|12609|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|29857|Canada|Montreal|GloboTech Communications|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
