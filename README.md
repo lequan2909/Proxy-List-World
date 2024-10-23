@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|103.20.90.121|8581|Indonesia|Surabaya|Wowrack Indonesia|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|72.10.160.90|26977|Canada|Montreal|GloboTech Communications|
-|9|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
-|10|61.129.2.212|8080|China|Beijing|CHINANET|
-|11|67.43.227.228|28185|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|16505|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.91|10891|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|16505|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|18239|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.174|14309|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|18911|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|18911|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|26887|Canada|Montreal|GloboTech Communications|
-|20|103.107.84.191|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
+|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|4|191.102.107.238|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|6|67.43.227.227|7753|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.91|10891|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|22309|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|22309|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.170|15721|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.170|15721|Canada|Montreal|GloboTech Communications|
+|12|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|13|72.10.160.90|6389|Canada|Montreal|GloboTech Communications|
+|14|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|15|67.43.236.19|2865|Canada|Montreal|GloboTech Communications|
+|16|103.107.84.191|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
+|17|72.10.160.173|8081|Canada|Montreal|GloboTech Communications|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|67.43.228.253|1777|Canada|Montreal|GloboTech Communications|
 
 
 
