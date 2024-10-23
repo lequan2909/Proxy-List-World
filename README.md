@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|6|194.233.89.106|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|103.169.254.155|3127|Indonesia|Curahjati|PT Master Star Network|
-|10|124.120.108.176|8080|Thailand|Bangkok|TRUEBB|
-|11|66.206.15.147|8134|United States|Los Angeles|Primary|
-|12|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|13|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|45.182.191.58|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|103.160.184.155|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
-|17|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|8|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|10|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|11|186.225.108.43|3128|Brazil|São Paulo|America-NET Ltda|
+|12|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
