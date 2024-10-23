@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
 |6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|27.76.202.224|8000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|12|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|8|103.165.157.167|8080|Indonesia|Pemalang|MEGADATA-ISP|
+|9|103.208.102.6|8080|Indonesia|Wonosobo|PT Tidar Lintas Nusa|
+|10|61.129.2.212|8080|China|Beijing|CHINANET|
+|11|24.106.221.230|53281|United States|Wilmington|Spectrum|
+|12|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|14|191.97.6.150|999|Colombia|Líbano|TV AZTECA SUCURSAL COLOMBIA|
+|15|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
 |16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|181.188.238.148|999|Ecuador|Quito|Otecel S.A.|
-|18|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|81.12.40.250|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|20|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
 
 
 
