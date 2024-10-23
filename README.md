@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|223.205.57.177|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
-|5|103.175.238.174|8080|Indonesia|Subang|PT Uliz Netmedia Solusindo|
-|6|43.225.185.154|8080|Indonesia|Batam|SOLNET|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
+|7|131.196.219.128|8080|Brazil|Vila Velha|Giganetlink Telecomunicacoes Ltda ME - ME|
 |8|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|61.129.2.212|8080|China|Beijing|CHINANET|
-|12|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|179.255.219.182|8080|Brazil|São Paulo|V tal|
-|15|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|72.10.164.178|8613|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|7385|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|7385|Canada|Montreal|GloboTech Communications|
-|19|38.159.227.181|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|20|202.52.12.86|8080|Indonesia|Bandung|PT SKYLINE SEMESTA|
+|9|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|11|103.42.120.31|8080|Indonesia|Jakarta|PT Transhybrid Communication|
+|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|16|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|103.81.222.136|8080|Indonesia|Bandung|STARNET|
+|18|103.20.90.117|8581|Indonesia|Surabaya|Wowrack Indonesia|
+|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|67.43.236.20|27983|Canada|Montreal|GloboTech Communications|
 
 
 
