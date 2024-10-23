@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5092** proxies at the latest update. Usable proxies are below.
+> Scraper found **5118** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|139|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|165|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|851|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|410|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|103.67.237.211|3128|India|Hyderabad|OASISGSSERVICES|
-|12|103.39.51.73|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|13|41.57.35.210|6060|South Africa|Germiston|Screamer Telecommunications|
-|14|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|18|188.72.43.162|47193|Iraq|Darkar|Pirmam For Information Technology Ltd|
-|19|103.168.254.162|8086|Indonesia|Kudus|PT Fahasa Tri Data|
-|20|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|36.68.28.245|8080|Indonesia|Surakarta|PT. TELKOM INDONESIA|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|41.57.35.210|6060|South Africa|Germiston|Screamer Telecommunications|
+|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|11|113.160.214.209|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|190.110.98.203|999|Chile|Santa Cruz|Silica Networks Argentina S.A.|
+|14|72.10.164.178|21253|Canada|Montreal|GloboTech Communications|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|72.10.164.178|21253|Canada|Montreal|GloboTech Communications|
+|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|18|72.10.160.91|30625|Canada|Montreal|GloboTech Communications|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|72.10.160.173|7015|Canada|Montreal|GloboTech Communications|
 
 
 
