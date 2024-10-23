@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4956** proxies at the latest update. Usable proxies are below.
+> Scraper found **4957** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|193|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|194|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|734|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|429|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|223.205.57.177|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
-|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|5|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|77.41.146.22|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|8|72.10.164.178|16569|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|16569|Canada|Montreal|GloboTech Communications|
-|10|210.45.77.218|7897|China|Hefei|USTC1|
-|11|72.10.164.178|16569|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.228|6541|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.252|5497|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.93|15805|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|20479|Canada|Montreal|GloboTech Communications|
-|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.164.178|16569|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|19423|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|6027|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|15805|Canada|Montreal|GloboTech Communications|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|4|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|5|103.105.76.214|9090|Indonesia|Kediri|GARUDA|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|180.94.12.137|8080|Indonesia|Siak Sri Indrapura|TBKNET|
+|8|177.53.154.5|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
+|9|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
+|10|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|51.222.102.172|80|Canada|Montreal|OVH SAS|
+|13|186.125.218.148|999|Argentina|Molinos|Telecom Argentina S.A.|
+|14|41.65.160.174|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|15|45.225.89.145|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|103.242.104.199|8090|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|17|72.10.164.178|28071|Canada|Montreal|GloboTech Communications|
+|18|190.52.104.214|999|Venezuela|Caracas|Gold Data USA Inc|
+|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|103.133.27.247|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
 
 
 
