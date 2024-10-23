@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|203.150.128.13|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|43.153.42.147|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|103.189.248.2|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
-|9|43.153.42.147|8080|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|15|114.9.26.122|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|16|67.43.227.227|12883|Canada|Montreal|GloboTech Communications|
-|17|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|18|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|19|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|20|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
+|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|103.87.148.21|8080|Indonesia|Demak|Lintas Data Prima, PT|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|13|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|14|74.48.129.170|8443|United States|Los Angeles|Multacom Corporation|
+|15|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|18|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|19|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|20|72.10.164.178|23351|Canada|Montreal|GloboTech Communications|
 
 
 
