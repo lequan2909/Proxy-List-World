@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|6|64.64.231.84|3128|United States|Los Angeles|IT7 Networks Inc|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|64.64.231.84|3128|United States|Los Angeles|IT7 Networks Inc|
-|10|217.182.194.108|3128|France|Roubaix|OVH SAS|
-|11|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
-|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|45.175.239.8|999|Mexico|El Arenal|Hulux Telecomunicaciones|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|7|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|116.80.47.21|3128|Japan|Tokyo|InfoSphere|
+|9|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|72.10.164.178|2093|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.173|7965|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.170|23785|Canada|Montreal|GloboTech Communications|
+|13|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|72.10.164.178|2093|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|67.43.227.227|24553|Canada|Montreal|GloboTech Communications|
+|17|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
+|18|72.10.164.178|2093|Canada|Montreal|GloboTech Communications|
+|19|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
