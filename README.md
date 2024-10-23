@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6072** proxies at the latest update. Usable proxies are below.
+> Scraper found **6009** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -28,37 +28,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|135|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1027|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|134|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|888|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|625|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3359|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3436|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
 |8|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|9|180.254.153.165|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|10|210.247.253.240|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|11|210.247.253.214|3125|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
-|14|170.238.200.50|999|Chile|Paine|Bitred Group SPA|
-|15|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|16|210.247.253.213|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|9|210.247.253.240|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|10|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|14|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|15|180.254.153.165|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|16|210.247.253.218|3125|Indonesia|Jakarta|PT Cybertechtonic Pratama|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|103.110.10.69|3127|Indonesia|Bandung|PT Citra Jelajah Informatika|
-|19|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|20|203.192.199.158|53|India|Ponda|Entire In2Cable|
+|18|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|20|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
 
 
 
