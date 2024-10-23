@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5150** proxies at the latest update. Usable proxies are below.
+> Scraper found **5173** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|205|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|670|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|209|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|682|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|395|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|402|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2954|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|103.153.135.58|8083|Indonesia|Tangerang|WMINET|
-|6|45.224.149.178|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|7|103.163.102.70|8181|Indonesia|Wonogiri|PT Mamura Inter Media|
-|8|45.4.201.141|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|9|46.99.143.53|1339|Kosovo|Pristina|IPKO Telecommunications LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|202.154.36.181|8181|Indonesia|Surabaya|RADNET-BDG|
-|13|103.208.102.6|8080|Indonesia|Wonosobo|PT Tidar Lintas Nusa|
-|14|176.105.220.74|3129|Ukraine|Kremenchug|NPK Home-Net Ltd.|
-|15|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|16|190.89.111.116|8080|Brazil|Águas Lindas de Goiás|Ceunet Telecom Eireli|
-|17|213.168.221.155|8080|Germany|Bielefeld|EWE TEL GmbH|
-|18|190.52.104.214|999|Venezuela|Caracas|Gold Data USA Inc|
-|19|122.2.28.114|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|2|171.6.74.227|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|7|103.35.110.94|5020|Bangladesh|Dhaka|Ranks ITT|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|10|82.209.219.244|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|24.106.221.230|53281|United States|Wilmington|Spectrum|
+|13|103.76.151.93|8090|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|19|79.175.138.142|3128|Iran|Tehran|AFranet Co|
+|20|67.43.227.227|28763|Canada|Montreal|GloboTech Communications|
 
 
 
