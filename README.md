@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|9|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|12|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|13|119.18.146.171|5020|Bangladesh|Chittagong|BBTS Network|
-|14|196.15.176.2|8080|South Africa|Tshitereke|Telkom SA Ltd|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|67.43.227.228|3245|Canada|Montreal|GloboTech Communications|
-|18|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|19|72.10.160.91|7309|Canada|Montreal|GloboTech Communications|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|4|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|5|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|7|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|19|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|20|67.43.228.254|20509|Canada|Montreal|GloboTech Communications|
 
 
 
