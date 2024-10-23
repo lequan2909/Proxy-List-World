@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|540|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|540|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|540|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|461|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|461|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|461|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|3|119.18.154.30|8080|Indonesia|Jakarta|PT. Jala Lintas Media|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|171.6.90.50|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|7|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|8|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|11|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|110.141.237.221|5200|Australia|Melbourne|Telstra Internet|
-|13|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|196.41.230.90|8080|Algeria|Cheraga|Icosnet SPA|
-|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|36.89.16.186|8866|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|8|223.205.72.245|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|9|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|10|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|12|124.106.173.56|8082|Philippines|Calaocan District|Philippine Long Distance Telephone Co.|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|20|66.206.15.148|8138|United States|Los Angeles|Primary|
 
 
 
