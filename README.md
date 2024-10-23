@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|36.68.28.245|8080|Indonesia|Surakarta|PT. TELKOM INDONESIA|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|10|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|11|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
-|13|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|3|103.39.51.73|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|4|36.68.28.245|8080|Indonesia|Surakarta|PT. TELKOM INDONESIA|
+|5|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|6|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|9|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|10|113.192.31.5|1111|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|11|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|12|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|13|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|15|188.130.240.136|8080|Russia|Pskov|Pskovline Ltd.|
+|16|72.10.160.174|29185|Canada|Montreal|GloboTech Communications|
+|17|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|18|72.10.164.178|26931|Canada|Montreal|GloboTech Communications|
+|19|201.174.17.126|999|Mexico|Ciudad Juárez|Transtelco Inc|
+|20|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
