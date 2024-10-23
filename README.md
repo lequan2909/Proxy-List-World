@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.67.237.211|3128|India|Hyderabad|OASISGSSERVICES|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|11|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|72.10.160.90|12205|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|28523|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|27615|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|4507|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.93|31851|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.230|27565|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|12205|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|27559|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|28523|Canada|Montreal|GloboTech Communications|
+|1|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|7|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|13|72.10.160.171|27615|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|23179|Canada|Montreal|GloboTech Communications|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|67.43.228.253|2365|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|23179|Canada|Montreal|GloboTech Communications|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|182.44.114.80|8888|China|Jinan|Cloud Computing Corporation|
+|20|67.43.227.226|1127|Canada|Montreal|GloboTech Communications|
 
 
 
