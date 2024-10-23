@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|484|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|484|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|484|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |2|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|3|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|6|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
-|11|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|12|67.43.236.22|22991|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|27415|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.174|2549|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|124.106.173.56|8082|Philippines|Calaocan District|Philippine Long Distance Telephone Co.|
-|17|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|18|92.246.136.39|18392|Germany|Frankfurt am Main|Aeza International LTD|
-|19|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|20|67.43.236.18|13753|Canada|Montreal|GloboTech Communications|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|5|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|63.151.59.218|8080|United States|Ocala|CenturyLink|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|63.151.59.218|8080|United States|Ocala|CenturyLink|
+|15|154.12.18.155|8080|United States|Pasadena|High Family Technology Co., Limited|
+|16|140.186.151.104|8888|United States|Bismarck|Midcontinent Communications|
+|17|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|72.10.164.178|1837|Canada|Montreal|GloboTech Communications|
 
 
 
