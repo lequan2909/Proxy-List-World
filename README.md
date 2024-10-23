@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.108.30|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|210.247.253.248|3125|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|11|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|12|103.172.70.29|1111|Indonesia|Gemolong|AZNET|
-|13|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|210.247.253.218|3125|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|11|74.48.65.103|3128|United States|Los Angeles|Multacom Corporation|
+|12|74.48.65.103|3128|United States|Los Angeles|Multacom Corporation|
+|13|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|14|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|185.138.120.109|8080|Iraq|Baghdad|Horizon ISP|
-|17|103.122.1.26|8080|Indonesia|Palembang|PT. Java Digital Nusantara|
-|18|210.247.253.218|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|19|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|20|210.247.253.214|3125|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|16|210.247.253.240|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|17|78.108.108.9|8080|Czechia|Pilsen|Neutral Free eXchange members - FreeTel alternate|
+|18|103.172.70.29|1111|Indonesia|Gemolong|AZNET|
+|19|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|20|103.111.207.138|32650|Indonesia|Jakarta|PT Cyberindo Aditama|
 
 
 
