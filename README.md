@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|2|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|210.247.253.214|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|210.247.253.240|3125|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|13|210.247.253.213|3125|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|45.174.95.221|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|18|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.25.166.206|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
-|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|9|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|10|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|38.51.206.146|999|Venezuela|Maracaibo|Tecnoven Services CA|
+|12|34.122.58.60|3128|United States|Council Bluffs|Google LLC|
+|13|182.53.21.232|8080|Thailand|Chachoengsao|TOT Public Company Limited|
+|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|15|162.240.154.26|3128|United States|Provo|Unified Layer|
+|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|17|45.233.67.226|999|Guatemala|Guatemala City|Conectividad Y Tecnologia S.A.|
+|18|190.94.213.58|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 
 
 
