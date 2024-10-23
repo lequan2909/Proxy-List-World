@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|3|103.163.102.70|8181|Indonesia|Wonogiri|PT Mamura Inter Media|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|82.209.219.244|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|6|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|24.106.221.230|53281|United States|Wilmington|Spectrum|
-|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.164.178|1115|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|26359|Canada|Montreal|GloboTech Communications|
-|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|18|103.125.174.27|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|19|67.43.227.227|5733|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|1115|Canada|Montreal|GloboTech Communications|
+|2|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|180.56.154.198|8080|Japan|Roppongi|NTT Communications Corporation|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|116.104.128.78|5000|Vietnam|Hanoi|Viettel Corporation|
+|10|154.73.29.201|8080|Libya|Tripoli|Rawafed|
+|11|182.253.177.64|8080|Indonesia|Jakarta Pusat|BIZNET|
+|12|103.153.135.58|8083|Indonesia|Tangerang|WMINET|
+|13|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|45.238.118.156|27234|Brazil|Monte Mor|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
+|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|82.209.219.244|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 
 
 
