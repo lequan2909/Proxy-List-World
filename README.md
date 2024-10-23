@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|103.159.195.193|8080|Indonesia|Kudus|PT Giga Digital Nusantara|
-|5|63.151.59.218|8080|United States|Ocala|CenturyLink|
-|6|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|38.123.220.16|8080|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
-|11|63.151.59.218|8080|United States|Ocala|CenturyLink|
-|12|114.236.93.208|19088|China|Guangzhou|Chinanet|
-|13|67.43.236.21|1579|Canada|Montreal|GloboTech Communications|
-|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.160.171|23665|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|72.10.160.170|22113|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|22113|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|14571|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|14571|Canada|Montreal|GloboTech Communications|
+|2|115.178.49.195|1080|Indonesia|Bandung|NOC SIMAYA|
+|3|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|180.180.109.120|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|27.76.202.224|8000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|13|186.125.218.155|999|Argentina|Molinos|Telecom Argentina S.A.|
+|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.164.178|3763|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|72.10.164.178|3763|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|7349|Canada|Montreal|GloboTech Communications|
+|20|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
