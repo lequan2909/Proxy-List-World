@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|181.78.75.84|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|15|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|103.80.77.1|443|Indonesia|Jakarta|Dewan Ketahanan Nasional|
-|19|185.133.213.86|8074|Myanmar|Yangon|Global Technology Co|
-|20|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|66.206.15.147|8134|United States|Los Angeles|Primary|
+|13|103.105.76.100|8080|Indonesia|Kediri|GARUDA|
+|14|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|103.160.182.77|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|18|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|19|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
