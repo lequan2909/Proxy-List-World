@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6002** proxies at the latest update. Usable proxies are below.
+> Scraper found **6120** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|134|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|881|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|999|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|625|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3436|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|2|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|119.18.154.30|8080|Indonesia|Jakarta|PT. Jala Lintas Media|
 |4|171.6.90.50|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
 |6|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|9|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|207.246.121.0|9000|United States|Piscataway|Choopa|
-|12|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|13|213.199.44.90|8000|Germany|Düsseldorf|Contabo GmbH|
-|14|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
-|15|207.246.121.0|9000|United States|Piscataway|Choopa|
-|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|14|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|15|203.150.113.28|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|16|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|17|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|18|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
