@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|5|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|72.10.160.91|27735|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|29779|Canada|Montreal|GloboTech Communications|
-|9|210.45.77.218|7897|China|Hefei|USTC1|
-|10|72.10.164.178|30827|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.174|26285|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.19|27879|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|30827|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.254|14707|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|33125|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.93|19629|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.254|14707|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.19|27879|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.252|25255|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|3|202.62.62.29|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|77.41.146.22|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|6|103.180.122.52|8091|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|7|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|27.76.202.224|8000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|11|210.45.77.218|7897|China|Hefei|USTC1|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|14|67.43.236.20|8377|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|67.43.227.227|16889|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|8377|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|16889|Canada|Montreal|GloboTech Communications|
+|19|167.99.76.113|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.84.177.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 
 
 
