@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|148.72.140.24|30120|United States|St Louis|GoDaddy.com|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|103.75.85.100|1111|Indonesia|Pekalongan|MEGADATA|
-|13|148.72.140.24|30120|United States|St Louis|GoDaddy.com|
-|14|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|15|58.137.174.101|8080|Thailand|Bangkok|AGC|
-|16|152.32.67.107|65535|Philippines|Quezon City|Converge ICT Solution Inc|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|46.99.143.53|1339|Kosovo|Pristina|IPKO Telecommunications LLC|
-|19|177.234.236.134|8080|Ecuador|Machala|Ufinet Panama S.A.|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|45.148.251.1|8080|Iran|Bastak|Pooya Parto Qeshm Cooperative Company|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|67.43.236.18|17509|Canada|Montreal|GloboTech Communications|
+|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|67.43.227.227|7049|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.18|17509|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|17865|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|21313|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.226|14783|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|17865|Canada|Montreal|GloboTech Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
