@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|74.48.129.170|8443|United States|Los Angeles|Multacom Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
-|14|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|11|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|185.130.80.81|8080|Russia|Tomsk|CJSC "ER-Telecom Holding" Tomsk branch|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|36.68.28.245|8080|Indonesia|Surakarta|PT. TELKOM INDONESIA|
-|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
