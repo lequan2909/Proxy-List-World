@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|101.51.167.192|8080|Thailand|Pattaya|TOT Public Company Limited|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|14|181.78.82.214|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|186.225.108.43|3128|Brazil|São Paulo|America-NET Ltda|
-|17|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|18|103.160.184.155|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
-|19|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|20|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
+|9|211.222.177.119|3128|South Korea|Goyang-si|Korea Telecom|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|186.225.108.43|3128|Brazil|São Paulo|America-NET Ltda|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|103.169.254.155|3127|Indonesia|Curahjati|PT Master Star Network|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|103.231.177.120|5020|Bangladesh|Gazipur|Sayed Farhad Ahmed|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
