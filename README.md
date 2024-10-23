@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|36.68.28.245|8080|Indonesia|Surakarta|PT. TELKOM INDONESIA|
-|6|180.254.148.151|8080|Indonesia|Matangkuli|PT. TELKOM INDONESIA|
-|7|185.130.80.81|8080|Russia|Tomsk|CJSC "ER-Telecom Holding" Tomsk branch|
-|8|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.180.123.93|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|10|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
-|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|16|113.160.214.209|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
-|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|88.198.39.240|10018|Germany|Nuremberg|Hetzner Online GmbH|
-|20|72.10.164.178|22291|Canada|Montreal|GloboTech Communications|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|103.39.51.73|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|36.68.28.245|8080|Indonesia|Surakarta|PT. TELKOM INDONESIA|
+|9|103.184.167.26|8080|Indonesia|Getengan|PT Pricom Media Solusi|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|188.132.150.43|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|12|103.170.97.209|7777|Indonesia|Pasuruan|PT Global Data Akses Persada|
+|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|14|119.95.175.255|8081|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|15|186.65.106.90|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
+|16|154.73.28.129|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|17|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|18|103.143.168.58|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|19|192.99.182.243|3128|United States|Newark|OVH Hosting|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
