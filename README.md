@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.6.74.227|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.163.102.70|8181|Indonesia|Wonogiri|PT Mamura Inter Media|
-|7|82.209.219.244|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|8|103.88.237.91|84|India|Hyderabad|Mana Communications|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|49.51.244.112|8888|United States|Phoenix|OPHL|
-|11|193.233.84.56|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|103.51.205.20|8080|Indonesia|Sragen|Lintas Data Prima, PT|
-|14|49.51.244.112|8888|United States|Phoenix|OPHL|
-|15|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|16|45.225.120.36|40033|Brazil|Paripiranga|Centrosulnet Informatica Eireli|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|20|58.136.169.194|8080|Thailand|Udon Thani|AIS-Fibre|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|5|103.35.110.94|5020|Bangladesh|Dhaka|Ranks ITT|
+|6|58.136.169.194|8080|Thailand|Udon Thani|AIS-Fibre|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|186.180.79.22|999|Colombia|Cúcuta|Colombia Móvil|
+|9|188.132.150.200|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|10|58.147.186.31|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|13|203.150.172.151|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|14|82.209.219.244|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|15|212.252.73.29|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
