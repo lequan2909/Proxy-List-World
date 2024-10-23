@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|103.105.76.10|3125|Indonesia|Kediri|GARUDA|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|31215|Canada|Montreal|GloboTech Communications|
-|17|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|67.43.236.20|4311|Canada|Montreal|GloboTech Communications|
-|19|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|20|72.10.160.93|4499|Canada|Montreal|GloboTech Communications|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|5|171.238.237.111|5004|Vietnam|Tuyên Quang|Viettel Corporation|
+|6|200.24.136.44|999|Ecuador|Quito|Negocios Y Telefonia Nedetel S.A|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
+|14|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
