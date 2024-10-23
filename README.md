@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|45.175.239.8|999|Mexico|El Arenal|Hulux Telecomunicaciones|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|7|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|9|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|67.43.236.20|19239|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.174|26555|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|30139|Canada|Montreal|GloboTech Communications|
-|15|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
-|16|67.43.227.228|8485|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|23007|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|19239|Canada|Montreal|GloboTech Communications|
-|19|103.105.55.170|8085|Indonesia|Klaten|PT. Mega Artha Lintas Data|
-|20|67.43.236.20|19239|Canada|Montreal|GloboTech Communications|
+|12|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|13|103.242.105.193|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|14|38.9.59.45|8080|India|Chennai|Microsense Private Limited|
+|15|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|16|67.43.227.228|26591|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|2851|Canada|Montreal|GloboTech Communications|
+|18|163.172.33.137|4059|France|Vitry-sur-Seine|Online S.A.S.|
+|19|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|67.43.228.252|23109|Canada|Montreal|GloboTech Communications|
 
 
 
