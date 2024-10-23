@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|67.43.227.227|32221|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|19169|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|31947|Canada|Montreal|GloboTech Communications|
-|16|188.132.222.134|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|72.10.160.90|20381|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|32221|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|13833|Canada|Montreal|GloboTech Communications|
-|20|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|103.156.248.55|8080|Indonesia|Pinrang|Trans Media Telekomunikasi|
+|4|131.221.65.228|8090|Argentina|San Miguel de Tucumán|Level Seven SRL|
+|5|157.66.16.40|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
+|6|38.123.220.16|8080|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
+|7|180.180.109.120|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|8|38.183.184.34|999|Venezuela|Santa Teresa del Tuy|TRANSPORTE DE DATOS INTERKING, C.A.|
+|9|115.124.75.58|8080|Indonesia|Bekasi|PT Remala Abadi|
+|10|117.247.233.50|8080|India|Ghaziabad|BSNL Internet|
+|11|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|181.143.126.74|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|16|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|67.43.227.227|27505|Canada|Montreal|GloboTech Communications|
+|18|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|19|113.160.214.209|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 
 
 
