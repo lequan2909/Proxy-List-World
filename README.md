@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|555|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|555|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|555|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|103.83.0.2|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|6|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|7|15.235.12.19|3128|Canada|Montreal|OVH SAS|
-|8|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|9|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|210.247.253.218|3125|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|154.12.18.155|8080|United States|Pasadena|High Family Technology Co., Limited|
-|14|196.41.230.90|8080|Algeria|Cheraga|Icosnet SPA|
-|15|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|16|88.198.39.240|10009|Germany|Nuremberg|Hetzner Online GmbH|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|19|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|20|103.148.44.159|8080|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|103.171.244.47|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|103.168.44.191|8083|Indonesia|Jakarta|PT CYB Media Group|
+|9|190.52.97.27|999|Venezuela|Caracas|Gold Data USA Inc|
+|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|162.240.154.26|3128|United States|Provo|Unified Layer|
+|13|190.119.90.114|8080|Peru|La Victoria|America Movil Peru S.A.C.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|16|138.0.141.46|8080|Brazil|Mirandópolis|F.B. BABETO ME|
+|17|43.231.78.204|8080|Bangladesh|Azimpur|Gateway Online Access Limited|
+|18|119.235.209.55|1111|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|19|213.168.221.155|8080|Germany|Bielefeld|EWE TEL GmbH|
+|20|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
 
 
 
