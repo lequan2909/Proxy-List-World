@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|45.4.194.230|8080|Brazil|Brasília|Orbitel Telecomunicações e Informática Ltda|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|72.10.164.178|16231|Canada|Montreal|GloboTech Communications|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|103.137.218.233|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
-|13|44.211.254.233|3128|United States|Ashburn|Amazon.com|
-|14|72.10.164.178|16231|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|2231|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|9989|Canada|Montreal|GloboTech Communications|
-|17|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|18|72.10.164.178|16231|Canada|Montreal|GloboTech Communications|
-|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|72.10.160.90|9989|Canada|Montreal|GloboTech Communications|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|103.191.250.130|8083|Indonesia|Batam|PT Mulia Batam Net|
+|4|103.155.246.180|8081|Indonesia|Sukoharjo|AMANNA|
+|5|187.1.57.222|8080|Brazil|Vespasiano|Companhia Itabirana Telecomunicações Ltda|
+|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|9|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|10|120.50.18.146|58080|Bangladesh|Dhaka|TelNET Communication Ltd|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|103.26.108.254|84|India|Thoothukudi|Niss Networks|
+|13|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|44.211.254.233|3128|United States|Ashburn|Amazon.com|
+|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 
 
 
