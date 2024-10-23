@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4768** proxies at the latest update. Usable proxies are below.
+> Scraper found **4744** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|181|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|564|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|540|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|354|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2743|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|113.161.210.60|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.183.56.3|8080|Indonesia|Sukasari|PT Multi Karya Athira|
-|16|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|17|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|110.93.215.138|8080|Pakistan|Lahore|TRANSWORLD ASSOCIATES (PVT) LIMITED|
-|20|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|2|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|41.139.233.5|8080|Kenya|Nairobi|Converged services Coast|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|8|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|16|72.10.160.90|6655|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|6655|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.173|10747|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|13135|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|24597|Canada|Montreal|GloboTech Communications|
 
 
 
