@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|8|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|103.171.244.45|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.228.251|26907|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|27127|Canada|Montreal|GloboTech Communications|
-|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|19|106.110.182.151|1080|China|Shanghai|Chinanet|
-|20|72.10.164.178|12555|Canada|Montreal|GloboTech Communications|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|202.93.244.98|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|6|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|7|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|159.223.76.73|24151|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|67.43.228.251|26907|Canada|Montreal|GloboTech Communications|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|181.209.125.122|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|16|72.10.164.178|12555|Canada|Montreal|GloboTech Communications|
+|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 
 
 
