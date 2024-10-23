@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|103.144.18.78|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|11|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|14|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|15|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
-|16|41.65.160.174|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|17|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|18|66.206.15.147|8134|United States|Los Angeles|Primary|
-|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|7|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|193.233.84.99|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
