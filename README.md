@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|64.64.231.84|3128|United States|Los Angeles|IT7 Networks Inc|
-|5|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|103.81.222.136|8080|Indonesia|Bandung|STARNET|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|64.64.231.84|3128|United States|Los Angeles|IT7 Networks Inc|
-|15|67.43.227.226|7525|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|21005|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|28443|Canada|Montreal|GloboTech Communications|
-|18|177.37.217.45|8080|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
-|19|72.10.160.90|29205|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|64.64.231.84|3128|United States|Los Angeles|IT7 Networks Inc|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|125.24.61.90|8080|Thailand|Si Satchanalai|TOT Public Company Limited|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|18|210.45.77.218|7897|China|Hefei|USTC1|
+|19|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|20|64.64.231.84|3128|United States|Los Angeles|IT7 Networks Inc|
 
 
 
