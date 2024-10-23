@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|182.253.93.2|53281|Indonesia|Jakarta Pusat|BIZNET|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|190.89.111.116|8080|Brazil|Águas Lindas de Goiás|Ceunet Telecom Eireli|
-|5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|6|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|8|36.68.28.245|8080|Indonesia|Surakarta|PT. TELKOM INDONESIA|
-|9|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
-|10|103.147.134.253|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|11|66.206.15.148|8138|United States|Los Angeles|Primary|
-|12|45.249.122.198|8080|India|Coimbatore|Airconnect Services|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|15|67.43.236.20|1847|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|18|72.10.160.90|13897|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|25107|Canada|Montreal|GloboTech Communications|
-|20|190.89.111.116|8080|Brazil|Águas Lindas de Goiás|Ceunet Telecom Eireli|
+|2|190.89.111.116|8080|Brazil|Águas Lindas de Goiás|Ceunet Telecom Eireli|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|103.168.210.12|8080|India|Delhi|ATC INFOCOM SOLUTIONS|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|6|36.95.142.35|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
+|7|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|12|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|74.48.129.170|8443|United States|Los Angeles|Multacom Corporation|
+|14|72.10.160.90|30405|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|18|190.89.111.116|8080|Brazil|Águas Lindas de Goiás|Ceunet Telecom Eireli|
+|19|67.43.236.18|4491|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|18013|Canada|Montreal|GloboTech Communications|
 
 
 
