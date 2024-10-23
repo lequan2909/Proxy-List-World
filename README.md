@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|186.225.108.43|3128|Brazil|São Paulo|America-NET Ltda|
-|6|119.95.175.255|8081|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|72.10.160.91|13171|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|25725|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|23329|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|23329|Canada|Montreal|GloboTech Communications|
-|15|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|16|67.43.236.18|19451|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|8765|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|72.10.160.94|7821|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|25725|Canada|Montreal|GloboTech Communications|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|3|45.162.78.222|8080|Colombia|Armenia|InterNexa Global Network|
+|4|67.43.228.253|23329|Canada|Montreal|GloboTech Communications|
+|5|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|72.10.164.178|12035|Canada|Montreal|GloboTech Communications|
+|8|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|9|67.43.228.253|23329|Canada|Montreal|GloboTech Communications|
+|10|124.156.100.83|8118|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
+|11|72.10.160.90|17353|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|12035|Canada|Montreal|GloboTech Communications|
+|13|144.91.81.25|3128|Germany|Nuremberg|Contabo GmbH|
+|14|72.10.164.178|12035|Canada|Montreal|GloboTech Communications|
+|15|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|16|72.10.164.178|12035|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|23329|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|8689|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|17353|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|8689|Canada|Montreal|GloboTech Communications|
 
 
 
