@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|4|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|5|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
-|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|7|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|16|67.43.228.250|29573|Canada|Montreal|GloboTech Communications|
-|17|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|18|67.43.227.226|9747|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|1735|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|7473|Canada|Montreal|GloboTech Communications|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|7|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|13|67.43.228.250|29573|Canada|Montreal|GloboTech Communications|
+|14|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|15|67.43.227.226|9747|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.228|14991|Canada|Montreal|GloboTech Communications|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|67.43.227.227|9747|Canada|Montreal|GloboTech Communications|
+|20|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
 
 
 
