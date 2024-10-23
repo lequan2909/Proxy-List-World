@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|7|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|8|116.104.128.78|5000|Vietnam|Hanoi|Viettel Corporation|
-|9|192.145.228.211|8081|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|49.51.244.112|8888|United States|Phoenix|OPHL|
-|12|103.75.53.235|7788|Indonesia|Jakarta|PT Quantum Tera Network|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|61.129.2.212|8080|China|Beijing|CHINANET|
-|17|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|18|67.43.236.20|13067|Canada|Montreal|GloboTech Communications|
-|19|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|82.209.219.244|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.177.177.249|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
+|7|191.102.254.26|8084|Argentina|Rosario|IP·RED|
+|8|181.188.238.148|999|Ecuador|Quito|Otecel S.A.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|203.150.172.151|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.51.205.20|8080|Indonesia|Sragen|Lintas Data Prima, PT|
+|15|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|77.41.146.22|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|18|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|19|72.10.164.178|26189|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
