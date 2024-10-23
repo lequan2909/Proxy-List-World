@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|4|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|103.81.222.136|8080|Indonesia|Bandung|STARNET|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|58.147.186.214|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|9|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|125.24.61.90|8080|Thailand|Si Satchanalai|TOT Public Company Limited|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|190.89.111.116|8080|Brazil|Águas Lindas de Goiás|Ceunet Telecom Eireli|
-|15|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|16|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|19|67.43.228.250|20835|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|5307|Canada|Montreal|GloboTech Communications|
+|2|103.166.158.213|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|103.69.21.192|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|190.89.111.116|8080|Brazil|Águas Lindas de Goiás|Ceunet Telecom Eireli|
+|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|10|67.43.227.228|23585|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|24105|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|25675|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.250|20835|Canada|Montreal|GloboTech Communications|
+|14|103.54.218.202|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|196.15.176.2|8080|South Africa|Tshitereke|Telkom SA Ltd|
+|18|45.173.231.166|999|Ecuador|Quito|Jyxcem Cia.ltda|
+|19|72.10.160.171|15223|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|20835|Canada|Montreal|GloboTech Communications|
 
 
 
