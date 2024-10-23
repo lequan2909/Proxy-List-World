@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|181.209.82.197|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|5|190.89.111.116|8080|Brazil|Águas Lindas de Goiás|Ceunet Telecom Eireli|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|103.168.210.12|8080|India|Delhi|ATC INFOCOM SOLUTIONS|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
-|16|72.10.160.174|8891|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.21|32251|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|1725|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|1725|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|3889|Canada|Montreal|GloboTech Communications|
+|8|103.148.130.107|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|9|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|10|45.91.201.19|1080|The Netherlands|Oude Meer|Podaon SIA|
+|11|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|19|72.10.164.178|31307|Canada|Montreal|GloboTech Communications|
+|20|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
 
 
 
