@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|210.247.253.205|3125|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|15|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|18|177.234.250.58|999|Ecuador|Ambato|Ufinet Panama S.A.|
-|19|210.247.253.240|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
-|20|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|6|210.247.253.216|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|7|210.247.253.240|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|8|37.1.198.137|8888|Germany|Frankfurt am Main|Leaseweb Deutschland GmbH|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|103.171.83.7|8181|Indonesia|Karawang|PT Multi Network Indonesia|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|177.234.250.58|999|Ecuador|Ambato|Ufinet Panama S.A.|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|17|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|18|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|19|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 
 
 
