@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|45.175.239.8|999|Mexico|El Arenal|Hulux Telecomunicaciones|
-|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|6|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|4|64.64.231.84|3128|United States|Los Angeles|IT7 Networks Inc|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|67.43.227.227|5015|Canada|Montreal|GloboTech Communications|
-|15|88.198.39.240|10011|Germany|Nuremberg|Hetzner Online GmbH|
+|8|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|9|64.64.231.84|3128|United States|Los Angeles|IT7 Networks Inc|
+|10|45.175.239.8|999|Mexico|El Arenal|Hulux Telecomunicaciones|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 |16|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
-|17|181.78.95.217|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|18|67.43.227.227|5015|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|29463|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|25243|Canada|Montreal|GloboTech Communications|
+|17|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|92.246.136.39|18392|Germany|Frankfurt am Main|Aeza International LTD|
+|20|72.10.164.178|30817|Canada|Montreal|GloboTech Communications|
 
 
 
