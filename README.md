@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|77.41.146.22|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|5|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |8|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|12|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|67.43.228.254|6941|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|12015|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|13975|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|72.10.160.90|11301|Canada|Montreal|GloboTech Communications|
+|9|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|67.43.228.254|23901|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.250|12015|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|14781|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|223.25.110.225|1080|Indonesia|Surabaya|SinergiNet|
+|17|67.43.236.20|22283|Canada|Montreal|GloboTech Communications|
+|18|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|19|190.104.129.38|22800|Paraguay|Asunción|Núcleo S.A.|
+|20|72.10.164.178|9281|Canada|Montreal|GloboTech Communications|
 
 
 
