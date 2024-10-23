@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|4|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|63.151.59.218|8080|United States|Ocala|CenturyLink|
-|9|103.111.207.138|32650|Indonesia|Jakarta|PT Cyberindo Aditama|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|13|200.106.124.92|999|Peru|Tacna|Telefonica del Peru|
-|14|185.122.165.187|3128|United States|New York|Massivegrid LTD|
-|15|162.43.33.87|3127|Japan|Hiyoshi|XSERVER Inc.|
-|16|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
-|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|72.10.160.171|12453|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|13339|Canada|Montreal|GloboTech Communications|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|210.247.253.240|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|9|210.247.253.205|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
+|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|200.106.124.92|999|Peru|Tacna|Telefonica del Peru|
+|13|103.76.151.93|8090|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|103.245.17.75|8080|Indonesia|Depok|PT Quantum Tera Network|
+|16|165.154.134.114|3128|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|177.234.250.58|999|Ecuador|Ambato|Ufinet Panama S.A.|
+|18|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|19|165.154.134.114|3128|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|210.247.253.248|3127|Indonesia|Jakarta|PT Cybertechtonic Pratama|
 
 
 
