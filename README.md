@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|38.51.188.31|999|Dominican Republic|Santiago de los Caballeros|JEMNETWORKS, S.R.L.|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|10|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|103.191.250.130|8083|Indonesia|Batam|PT Mulia Batam Net|
-|13|120.50.18.146|58080|Bangladesh|Dhaka|TelNET Communication Ltd|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|72.10.164.178|13975|Canada|Montreal|GloboTech Communications|
-|16|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|17|67.43.228.253|1339|Canada|Montreal|GloboTech Communications|
-|18|66.27.58.70|8080|United States|Hawthorne|Spectrum|
-|19|72.10.160.94|6905|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|44.211.254.233|3128|United States|Ashburn|Amazon.com|
+|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|9|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
+|13|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|14|189.193.225.10|999|Mexico|Santo Domingo Tehuantepec|Mega Cable, S.A. de C.V.|
+|15|152.32.67.107|65535|Philippines|Quezon City|Converge ICT Solution Inc|
+|16|61.129.2.212|8080|China|Beijing|CHINANET|
+|17|72.10.164.178|11881|Canada|Montreal|GloboTech Communications|
+|18|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|19|27.76.202.224|8000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|20|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
 
 
 
