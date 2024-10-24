@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|11|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|7|92.118.228.31|3128|United States|San Jose|Sriyaan Technologies|
+|8|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|12|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 |13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.227.227|29977|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|29977|Canada|Montreal|GloboTech Communications|
-|16|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|17|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|18|67.43.227.227|29977|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|29999|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|15929|Canada|Montreal|GloboTech Communications|
+|14|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|177.37.217.45|8080|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
+|17|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|18|72.10.160.90|6057|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|20083|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|29977|Canada|Montreal|GloboTech Communications|
 
 
 
