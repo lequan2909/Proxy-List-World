@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|171.228.119.186|10089|Vietnam|Hợp Hòa|Viettel Corporation|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|10|111.1.61.52|1801|China|Wenzhou|China Mobile communications corporation|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|67.43.236.20|24749|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.171|18971|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|1079|Canada|Montreal|GloboTech Communications|
-|17|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|18|223.25.110.88|1080|Indonesia|Surabaya|SinergiNet|
-|19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|67.43.228.254|14947|Canada|Montreal|GloboTech Communications|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|202.154.36.103|8080|Indonesia|Surabaya|RADNET-BDG|
+|8|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|9|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|222.252.24.246|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|13|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|15|67.43.236.20|25663|Canada|Montreal|GloboTech Communications|
+|16|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|17|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|18|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|103.165.156.148|8090|Indonesia|Jember|MEGADATA-ISP|
+|20|67.43.236.20|25663|Canada|Montreal|GloboTech Communications|
 
 
 
