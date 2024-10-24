@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|167.71.222.229|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|12|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|212.110.188.216|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|167.71.222.229|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.174.250.16|999|Mexico|Morelia|Wifmax S.A de C.V.|
+|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|188.132.221.188|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|165.225.72.38|10001|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
