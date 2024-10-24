@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|4|162.229.228.112|8080|United States|Orange Park|AT&T Services, Inc.|
-|5|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|7|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|8|151.234.33.14|8080|Iran|Tehran|Iran Telecommunication Company PJS|
-|9|198.24.187.93|56276|United States|Ashburn|Secured Servers LLC|
-|10|162.229.228.112|8080|United States|Orange Park|AT&T Services, Inc.|
-|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|15|188.240.108.192|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|16|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|17|103.156.15.244|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|18|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|11|151.234.33.14|8080|Iran|Tehran|Iran Telecommunication Company PJS|
+|12|162.229.228.112|8080|United States|Orange Park|AT&T Services, Inc.|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|103.166.8.228|1080|Indonesia|Jakarta|PT Akses Bersama Sedaya|
+|15|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|18|143.255.85.180|999|Venezuela|Mérida|Viginet C.A|
+|19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|162.229.228.112|8080|United States|Orange Park|AT&T Services, Inc.|
 
 
 
