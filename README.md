@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|8|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|27.254.104.134|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|11|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|177.37.39.94|9080|Argentina|San Miguel de Tucumán|Medina Vargas Jose Alejandro|
-|14|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|16|103.189.197.64|8080|Indonesia|Serang|PT Graha Sumber Teknologi|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|19|165.227.126.211|3128|United States|Clifton|DigitalOcean, LLC|
-|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
+|5|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|6|14.224.181.172|8080|Vietnam|Ho Chi Minh City|VNPT|
+|7|222.127.55.155|8083|Philippines|Lahug|INNOVE|
+|8|171.7.104.63|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|9|45.70.202.71|999|Ecuador|Quito|Ufinet Panama S.A.|
+|10|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
+|11|190.119.76.150|8080|Peru|Lima|America Movil Peru S.A.C.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|223.25.110.88|1080|Indonesia|Surabaya|SinergiNet|
+|14|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|202.154.12.144|7777|Indonesia|Jakarta|MENAKSOPAL|
+|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|18|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|19|168.197.130.129|8878|Brazil|Piripiri|Fillnet Com. e Ser. LTDA|
+|20|103.153.247.70|8080|Indonesia|Jakarta|PRIMAHOME|
 
 
 
