@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
 |5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|8|103.127.220.106|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|7|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 |10|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|11|49.48.83.137|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|12|41.60.157.209|8080|South Africa|Johannesburg|Maintainer Liquid Telecommunications Operations Limited|
-|13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|170.78.144.41|8080|Brazil|Catanduvas|Orssatto Telecom Telecomunicacoes - Eireli|
-|16|72.10.164.178|14773|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|14773|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|14773|Canada|Montreal|GloboTech Communications|
-|19|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
-|20|67.43.227.227|3359|Canada|Montreal|GloboTech Communications|
+|11|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|12|103.82.126.202|8080|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
+|13|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|14|72.10.164.178|30193|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|30193|Canada|Montreal|GloboTech Communications|
+|16|202.154.36.103|8080|Indonesia|Surabaya|RADNET-BDG|
+|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|18|72.10.164.178|30193|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|3359|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|30193|Canada|Montreal|GloboTech Communications|
 
 
 
