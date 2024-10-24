@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|103.158.162.18|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
-|7|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|10|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|123.200.14.194|8080|Bangladesh|Khulna|Link3 Technologies Limited|
-|14|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|67.43.227.226|17735|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|20751|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|17735|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|4267|Canada|Montreal|GloboTech Communications|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|5|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|45.166.93.27|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|7|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|8|71.14.23.121|8080|United States|Auburn|Spectrum|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|13|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|16|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|72.10.160.90|28785|Canada|Montreal|GloboTech Communications|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|72.10.164.178|24851|Canada|Montreal|GloboTech Communications|
 
 
 
