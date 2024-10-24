@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|160.22.134.5|1111|Indonesia|Pasarkemis|GSNET|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|9|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
-|10|191.97.6.149|999|Colombia|Líbano|TV AZTECA SUCURSAL COLOMBIA|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|16|124.217.68.235|8181|Philippines|Magalang|Philippine Long Distance Telephone Co.|
-|17|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|18|103.81.222.136|8080|Indonesia|Bandung|STARNET|
-|19|72.10.160.90|3719|Canada|Montreal|GloboTech Communications|
-|20|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|187.63.156.92|999|Dominican Republic|Santo Domingo Este|Derivalnet Y Comunicaciones SRL|
+|11|160.22.134.5|1111|Indonesia|Pasarkemis|GSNET|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|14|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|16|177.136.85.113|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|19|72.10.164.178|14267|Canada|Montreal|GloboTech Communications|
+|20|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 
 
 
