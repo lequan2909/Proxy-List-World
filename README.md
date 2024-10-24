@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
 |3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|103.158.97.206|3125|Indonesia|Bandung|PT Dinar Wahana Gemilang|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|15|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|16|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|17|124.217.68.235|8181|Philippines|Magalang|Philippine Long Distance Telephone Co.|
-|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|5|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|196.41.230.90|8080|Algeria|Cheraga|Icosnet SPA|
+|13|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
+|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|16|67.43.236.18|17387|Canada|Montreal|GloboTech Communications|
+|17|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
+|18|180.56.154.198|8080|Japan|Roppongi|NTT Communications Corporation|
+|19|67.43.228.251|16085|Canada|Montreal|GloboTech Communications|
+|20|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
 
 
 
