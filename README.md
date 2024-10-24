@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|3|174.168.230.75|8118|United States|Portsmouth|Comcast Cable Communications, LLC|
-|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|7|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|202.154.36.103|8080|Indonesia|Surabaya|RADNET-BDG|
-|13|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.228.250|7241|Canada|Montreal|GloboTech Communications|
-|17|147.75.34.92|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|18|66.27.58.70|8080|United States|Hawthorne|Spectrum|
-|19|165.225.72.38|18080|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|20|165.225.72.38|18080|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|2|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|7|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|8|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|171.101.216.20|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|12|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|124.104.149.53|8081|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
+|14|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|15|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|16|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
+|17|103.106.240.18|96|Bangladesh|Dhaka|Md. Saddam Hossain|
+|18|38.199.30.235|999|Colombia|Ipiales|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
+|19|45.123.142.69|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|20|103.166.8.238|1080|Indonesia|Jakarta|PT Akses Bersama Sedaya|
 
 
 
