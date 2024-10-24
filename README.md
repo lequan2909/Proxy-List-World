@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|157.66.37.52|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
-|6|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|181.209.82.202|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|155.138.226.105|9000|United States|Atlanta|The Constant Company|
-|10|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|11|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|155.138.226.105|9000|United States|Atlanta|The Constant Company|
-|13|92.118.228.31|3128|United States|San Jose|Sriyaan Technologies|
-|14|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|72.10.160.171|12941|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|23827|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|10463|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|32375|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
+|12|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|103.133.26.72|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|15|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|16|149.129.214.214|9050|Indonesia|Jakarta|Alibaba.com Singapore E-Commerce Private Limited|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
+|19|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|20|187.245.214.7|999|Mexico|Comitán|Mega Cable, S.A. de C.V.|
 
 
 
