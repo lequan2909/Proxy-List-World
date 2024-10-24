@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|103.171.156.218|8080|Indonesia|Jakarta|MYREPUBLIC|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|75.128.125.149|8080|United States|Portage|Charter Communications|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|14|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|72.10.160.174|17239|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|14947|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|22335|Canada|Montreal|GloboTech Communications|
-|19|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|20|67.43.228.250|14947|Canada|Montreal|GloboTech Communications|
+|2|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|9|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
+|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|103.146.184.101|8090|Indonesia|Sragen|YAMNET|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|15|103.171.156.218|8080|Indonesia|Jakarta|MYREPUBLIC|
+|16|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|17|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|103.186.90.41|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|20|72.10.160.174|30273|Canada|Montreal|GloboTech Communications|
 
 
 
