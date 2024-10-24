@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|4|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
 |5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|6|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|8|49.48.83.137|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|9|27.72.16.232|5102|Vietnam|Hanoi|Newass2011xDSLHN|
-|10|177.234.250.58|999|Ecuador|Ambato|Ufinet Panama S.A.|
-|11|202.154.18.141|8088|Indonesia|Jombang|DIGITNET|
-|12|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|13|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|14|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|38.156.74.48|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|19|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|9|43.252.107.103|7777|Indonesia|Gamping Lor|PT Lintas Data Prima|
+|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|14|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|15|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|16|103.80.237.211|3888|Indonesia|Bogor|PT MITRA VISIONER PRATAMA|
+|17|67.43.227.230|10135|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|5105|Canada|Montreal|GloboTech Communications|
+|19|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|20|72.10.160.91|9937|Canada|Montreal|GloboTech Communications|
 
 
 
