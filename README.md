@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
-|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|6|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|7|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|5|103.28.114.157|66|Indonesia|Malang|PT Lintas Data Prima|
+|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|7|174.138.16.213|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 |9|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|11|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|13|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|11|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
 |14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |15|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|16|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
-|17|72.10.164.178|10387|Canada|Montreal|GloboTech Communications|
-|18|174.138.16.213|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
+|17|103.211.200.202|3128|Vietnam|Quận Hải Châu|Viet Digital Technology Liability Company|
+|18|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
 |19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|165.225.72.38|10800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
 
 
 
