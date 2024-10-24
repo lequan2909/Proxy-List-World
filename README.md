@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|101.109.60.196|8080|Thailand|Pattaya|TOT Public Company Limited|
 |2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
 |4|212.46.210.236|8080|Russia|Moscow|VympelKom broadband internet|
-|5|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|67.43.227.227|22709|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|2853|Canada|Montreal|GloboTech Communications|
+|5|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|6|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|9|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|13|72.10.160.91|2975|Canada|Montreal|GloboTech Communications|
 |14|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|15|72.10.160.91|2975|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|1757|Canada|Montreal|GloboTech Communications|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|103.78.158.6|3125|Indonesia|Banjarmasin|PT Global Jaringan Borneo|
-|19|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|72.10.160.94|2935|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|20025|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.164.178|30965|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|30965|Canada|Montreal|GloboTech Communications|
 
 
 
