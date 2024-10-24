@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|5|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|6|181.205.74.98|21901|Colombia|Medellín|Colombia Móvil|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|5|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|6|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|67.43.236.20|1089|Canada|Montreal|GloboTech Communications|
-|14|140.238.217.70|3128|Switzerland|Zurich|Oracle Corporation|
-|15|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|67.43.227.230|10747|Canada|Montreal|GloboTech Communications|
-|17|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|103.42.120.31|8080|Indonesia|Jakarta|PT Transhybrid Communication|
-|19|72.10.164.178|3493|Canada|Montreal|GloboTech Communications|
-|20|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|39.62.3.7|3127|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|14|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|15|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
+|16|103.99.136.42|8080|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
+|17|38.9.59.45|8080|India|Chennai|Microsense Private Limited|
+|18|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 
 
 
