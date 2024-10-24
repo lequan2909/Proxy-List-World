@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|7|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|9|49.48.83.137|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|19|72.10.164.178|10573|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|9267|Canada|Montreal|GloboTech Communications|
+|1|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|103.82.126.202|8080|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|9|122.2.28.114|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|147.28.155.20|55555|United States|Dallas|Packet Host, Inc.|
+|11|72.10.160.90|2035|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|9893|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.93|23333|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|9893|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|124.105.99.230|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.164.178|9893|Canada|Montreal|GloboTech Communications|
+|19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|103.122.0.134|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
 
 
 
