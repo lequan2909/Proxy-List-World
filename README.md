@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|103.156.140.203|8080|Indonesia|Jember|PT Tekling Media Telematika|
-|7|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|49.49.210.209|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|9|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|7|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|96.9.74.91|8080|Cambodia|Phnom Penh|S.I Group|
 |10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|157.66.50.41|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|11|103.172.197.9|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|14|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|41.65.71.151|1976|Egypt|Kirdāsah|Etisalat Misr|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|19|67.43.236.20|33205|Canada|Montreal|GloboTech Communications|
-|20|103.54.218.202|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|13|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|16|67.43.227.230|10807|Canada|Montreal|GloboTech Communications|
+|17|157.66.50.41|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|18|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|67.43.236.20|6889|Canada|Montreal|GloboTech Communications|
 
 
 
