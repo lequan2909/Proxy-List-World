@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|3|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |5|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
 |8|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|11|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|14|103.124.139.212|1080|Indonesia|Kartasura|Global Media Data Prima|
-|15|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
-|19|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|14|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|18|181.78.94.158|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|95.216.218.146|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
