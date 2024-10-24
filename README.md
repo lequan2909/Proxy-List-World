@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5330** proxies at the latest update. Usable proxies are below.
+> Scraper found **5063** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|220|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|914|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|647|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|362|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2908|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|185.49.96.36|8080|Iran|Tehran|Rayaneh Pardazan Baran Co. Ltd.|
-|16|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|17|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|20|38.183.146.214|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|103.178.42.29|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|9|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|11|171.4.17.242|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|12|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|13|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|212.110.188.195|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|16|170.81.77.132|2222|Brazil|João Pessoa|Sigtel Servicos De Telecomunicacoes Ltda|
+|17|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|19|103.189.250.89|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|20|202.154.36.103|8080|Indonesia|Surabaya|RADNET-BDG|
 
 
 
