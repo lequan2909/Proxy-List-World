@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|5|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|6|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|182.253.177.64|8080|Indonesia|Jakarta Pusat|BIZNET|
-|11|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|12|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|14|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|15|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|18|103.78.158.6|3125|Indonesia|Banjarmasin|PT Global Jaringan Borneo|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.228.253|29877|Canada|Montreal|GloboTech Communications|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|9|103.153.136.10|8080|Indonesia|Gorontalo|PT Andalas Global Network|
+|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|182.253.177.64|8080|Indonesia|Jakarta Pusat|BIZNET|
+|13|94.140.224.134|65056|Russia|Petrozavodsk|CityLink Ltd|
+|14|103.141.20.210|8585|Indonesia|Balikpapan|ADIZKA|
+|15|103.159.195.29|8080|Indonesia|Kudus|PT Giga Digital Nusantara|
+|16|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|17|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|18|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|102.38.31.8|80|Libya|Tripoli|GZA|
 
 
 
