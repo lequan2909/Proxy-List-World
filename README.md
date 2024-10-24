@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|11|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|67.43.228.253|8533|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|19933|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|28585|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|11483|Canada|Montreal|GloboTech Communications|
-|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|1|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
+|2|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
+|3|154.12.18.155|8080|United States|Pasadena|High Family Technology Co., Limited|
+|4|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|5|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|8|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|113.160.214.209|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|67.43.236.20|13845|Canada|Montreal|GloboTech Communications|
+|12|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|13|72.10.160.170|7435|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|13845|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|28287|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|72.10.160.94|3817|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|1767|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.254|1949|Canada|Montreal|GloboTech Communications|
 
 
 
