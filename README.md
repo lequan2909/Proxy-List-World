@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5344** proxies at the latest update. Usable proxies are below.
+> Scraper found **5243** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|210|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|762|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|661|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|492|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2954|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|103.180.123.15|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|5|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|200.116.198.222|9812|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|181.143.126.74|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|11|114.9.26.122|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|12|67.43.236.18|27707|Canada|Montreal|GloboTech Communications|
-|13|182.253.42.148|8082|Indonesia|Jakarta Pusat|BIZNET|
-|14|67.43.228.253|22521|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|6239|Canada|Montreal|GloboTech Communications|
-|16|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|17|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|18|67.43.236.20|14033|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|26611|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|5835|Canada|Montreal|GloboTech Communications|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|120.28.212.79|8080|Philippines|Davao City|Globe Telecom|
+|6|103.160.207.53|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|7|202.47.188.94|5566|Indonesia|Kediri|PT.CITRA BERDIKARI NUSANTARA|
+|8|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|149.54.3.219|8080|Afghanistan|Kabul|Government Communications Network|
+|10|5.143.79.169|8181|Russia|Vladivostok|Rostelecom networks|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|62.3.30.70|8080|Georgia||Enbinet Ltd.|
+|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.228.251|32261|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|27363|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|29075|Canada|Montreal|GloboTech Communications|
 
 
 
