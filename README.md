@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.155.196.104|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|5|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
+|1|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
 |6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|38.252.223.114|999|Peru|Huaura|Forza Bussines S.A.C.|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|182.253.39.242|8080|Indonesia|Jakarta Pusat|BIZNET|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|17|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|182.253.121.253|8080|Indonesia|Bandung|BIZNET|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|11|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|12|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|17|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|72.10.164.178|11085|Canada|Montreal|GloboTech Communications|
 
 
 
