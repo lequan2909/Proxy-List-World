@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5537** proxies at the latest update. Usable proxies are below.
+> Scraper found **5360** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|228|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|708|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|227|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|532|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|333|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3342|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|103.174.238.233|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|7|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|15|103.247.23.72|7777|Indonesia|Cileungsir|PT wifian Solution|
-|16|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|17|165.225.72.38|11143|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|20|165.225.72.38|11143|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|2|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|3|120.50.18.146|58080|Bangladesh|Dhaka|TelNET Communication Ltd|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|7|196.41.230.90|8080|Algeria|Cheraga|Icosnet SPA|
+|8|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|72.10.160.90|5063|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.91|23351|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|27609|Canada|Montreal|GloboTech Communications|
+|17|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|67.43.228.250|17201|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
