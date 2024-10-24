@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|120.28.212.79|8080|Philippines|Davao City|Globe Telecom|
-|6|103.160.207.53|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|3|38.191.200.94|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|4|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
 |7|202.47.188.94|5566|Indonesia|Kediri|PT.CITRA BERDIKARI NUSANTARA|
-|8|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|149.54.3.219|8080|Afghanistan|Kabul|Government Communications Network|
-|10|5.143.79.169|8181|Russia|Vladivostok|Rostelecom networks|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|62.3.30.70|8080|Georgia||Enbinet Ltd.|
-|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|103.187.86.10|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.228.251|32261|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|27363|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|29075|Canada|Montreal|GloboTech Communications|
+|15|103.69.20.36|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|16|72.10.160.90|24319|Canada|Montreal|GloboTech Communications|
+|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|18|103.245.16.133|8080|Indonesia|Depok|PT Quantum Tera Network|
+|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|20|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
