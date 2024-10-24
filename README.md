@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|171.101.216.20|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
-|8|119.76.142.237|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|9|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|4|171.101.216.20|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|5|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|114.79.146.166|8080|India|Mumbai|D-VoiS Broadband Private Limited|
+|11|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
 |12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|94.228.240.240|8080|Russia|Moscow|TZ-Telecom Address|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|14|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
 |15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|103.106.240.18|96|Bangladesh|Dhaka|Md. Saddam Hossain|
+|16|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
 |17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|103.154.179.52|8080|Indonesia|Jambi City|PT Aneka Teguh Jaya|
-|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|103.25.166.206|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
 
 
 
