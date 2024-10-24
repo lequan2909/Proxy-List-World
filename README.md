@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
 |4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|103.172.42.235|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|7|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|9|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|10|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|12|157.15.51.18|8080|Indonesia|Aceh Tamiang Regency|Aceh Digital Fenam|
+|5|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|6|157.15.51.18|8080|Indonesia|Aceh Tamiang Regency|Aceh Digital Fenam|
+|7|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|8|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|202.154.12.144|7777|Indonesia|Jakarta|MENAKSOPAL|
+|10|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|12|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
 |13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |14|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|15|157.66.16.48|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|18|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|20|72.10.160.91|26361|Canada|Montreal|GloboTech Communications|
+|17|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|18|38.156.72.200|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|20|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
 
 
 
