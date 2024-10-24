@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|8|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|170.150.209.40|8080|Brazil|Garrafão do Norte|Imunidade Digital Servicos EM Comunicacao Ltda|
 |9|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|151.234.33.14|8080|Iran|Tehran|Iran Telecommunication Company PJS|
-|13|179.1.142.129|8080|Colombia|Bogotá|InterNexa Global Network|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|16|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
-|17|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|177.93.16.66|8080|Costa Rica|Tres Ríos|Telecable Economico S.A|
-|19|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|20|27.76.202.224|8000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|10|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|11|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|162.229.228.112|8080|United States|Orange Park|AT&T Services, Inc.|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|18|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
 
 
 
