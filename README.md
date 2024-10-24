@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
-|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|67.43.227.226|6539|Canada|Montreal|GloboTech Communications|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|103.166.8.228|1080|Indonesia|Jakarta|PT Akses Bersama Sedaya|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|61.247.185.50|8080|Bangladesh|Dhaka|OptiMax Communication Ltd|
+|7|103.78.158.6|3125|Indonesia|Banjarmasin|PT Global Jaringan Borneo|
+|8|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|120.50.18.146|58080|Bangladesh|Dhaka|TelNET Communication Ltd|
 |14|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|14643|Canada|Montreal|GloboTech Communications|
-|17|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|18|72.10.160.94|23471|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|23351|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|31091|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|18|72.10.160.91|12841|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|5835|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|5835|Canada|Montreal|GloboTech Communications|
 
 
 
