@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
 |5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|11|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|15|27.76.202.224|8000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|6|179.228.17.8|8080|Brazil|São Paulo|Vivo|
+|7|193.227.240.69|8080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|8|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|15|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
 |16|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
-|17|111.1.61.52|3128|China|Wenzhou|China Mobile communications corporation|
-|18|67.43.227.227|10621|Canada|Montreal|GloboTech Communications|
-|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|67.43.228.253|4483|Canada|Montreal|GloboTech Communications|
+|17|103.81.222.136|8080|Indonesia|Bandung|STARNET|
+|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|103.231.12.66|3128|Hong Kong|San Po Kong|Converged Communications Limited|
+|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
