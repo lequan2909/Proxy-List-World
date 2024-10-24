@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|9|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|10|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 |11|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|12|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|171.228.148.17|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
-|17|72.10.160.90|32713|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.252|17447|Canada|Montreal|GloboTech Communications|
-|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|20|185.55.70.230|80|Germany|Cologne|PlusServer GmbH|
+|15|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
+|16|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|125.209.110.83|39617|Pakistan|Islamabad|Multinet 125-110/24|
+|18|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|19|27.76.202.224|8000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|20|171.228.148.17|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
 
 
 
