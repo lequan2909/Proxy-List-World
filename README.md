@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|103.68.214.123|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|9|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
-|10|45.70.202.71|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|196.41.230.90|8080|Algeria|Cheraga|Icosnet SPA|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|15|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|16|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|17|181.129.1.229|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|18|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|19|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|20|49.48.89.155|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|201.77.108.160|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|10|103.175.46.222|3125|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
+|11|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|12|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|14|27.254.104.134|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|15|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|157.66.16.48|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
