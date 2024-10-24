@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|157.20.157.5|8080|Indonesia|Madiun|PT Ismaya Djati Nuswantara|
-|7|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|8|185.236.233.251|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|9|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|10|101.109.60.196|8080|Thailand|Pattaya|TOT Public Company Limited|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|15|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|16|49.13.1.139|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|103.165.155.163|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|185.236.233.251|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|5|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|10|139.185.35.122|3128|United Arab Emirates|Dubai|Oracle Corporation|
+|11|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|12|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|13|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|14|72.10.164.178|26977|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|18845|Canada|Montreal|GloboTech Communications|
+|16|192.145.206.192|8080|Brazil|São João da Ponte|Vianet Guaraciama Eireli ME|
+|17|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
+|18|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|19|72.10.164.178|26977|Canada|Montreal|GloboTech Communications|
+|20|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
 
 
 
