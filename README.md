@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|112.198.179.42|8082|Philippines|Carmona|Globe Telecom|
-|4|103.69.20.36|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|5|120.28.212.79|8080|Philippines|Davao City|Globe Telecom|
-|6|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|7|103.187.86.10|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|8|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|9|202.47.188.94|5566|Indonesia|Kediri|PT.CITRA BERDIKARI NUSANTARA|
-|10|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
-|11|116.104.128.49|5020|Vietnam|Hanoi|Viettel Corporation|
-|12|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
-|13|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|14|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|15|103.48.68.138|82|India|Hyderabad|Country Online Services PVT LTD|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|103.133.27.247|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|103.239.255.36|58080|Bangladesh|Dhaka|Carnival Internet|
+|7|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|8|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|9|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|103.48.68.138|82|India|Hyderabad|Country Online Services PVT LTD|
+|11|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|5.143.79.169|8181|Russia|Vladivostok|Rostelecom networks|
+|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|18|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|19|72.10.160.171|10313|Canada|Montreal|GloboTech Communications|
+|20|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
 
 
 
