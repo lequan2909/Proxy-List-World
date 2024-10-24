@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.155.196.104|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
 |3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|6|103.156.75.36|8181|Indonesia|Gianyar|PT Trika Global Media|
-|7|186.225.108.43|3128|Brazil|São Paulo|America-NET Ltda|
-|8|103.137.111.231|8080|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
-|9|124.158.184.153|8080|Indonesia|Bogor|PT Jala Lintas Media|
-|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
-|14|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|15|103.175.202.182|8090|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
-|16|103.109.59.179|9080|Bangladesh|Feni|HelloTech Limited|
-|17|213.147.222.193|8424|Russia|Saratov|MTS PJSC|
-|18|67.43.227.226|27841|Canada|Montreal|GloboTech Communications|
-|19|103.159.96.141|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
-|20|165.225.72.38|10800|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|6|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
+|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|8|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|181.78.95.49|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|196.15.176.2|8080|South Africa|Tshitereke|Telkom SA Ltd|
+|14|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|18|209.14.119.198|999|Colombia|Bogotá|AGIS|
+|19|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|20|203.150.128.168|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 
 
 
