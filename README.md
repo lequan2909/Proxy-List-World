@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|201.71.3.45|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|4|103.163.102.70|8181|Indonesia|Wonogiri|PT Mamura Inter Media|
-|5|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|6|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|7|185.49.170.20|43626|Spain|Madrid|OLIVE|
-|8|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|9|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|112.78.131.6|8080|Indonesia|Pamulang|Biznet Networks|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|13|27.147.145.185|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|188.132.222.4|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|79.175.138.142|3128|Iran|Tehran|AFranet Co|
-|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|82.209.219.244|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|38.9.59.45|8080|India|Chennai|Microsense Private Limited|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|24.106.221.230|53281|United States|Wilmington|Spectrum|
+|11|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|12|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|13|114.9.26.122|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|14|36.67.8.169|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|72.10.160.91|4011|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|12897|Canada|Montreal|GloboTech Communications|
+|17|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|18|67.43.228.253|14235|Canada|Montreal|GloboTech Communications|
+|19|103.171.240.142|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|20|67.43.227.226|8757|Canada|Montreal|GloboTech Communications|
 
 
 
