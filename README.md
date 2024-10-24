@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|103.146.185.139|1111|Indonesia|Wonogiri|YAMNET|
-|5|181.129.147.162|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|6|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|9|103.125.174.27|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|13|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|14|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|15|67.43.228.253|30423|Canada|Montreal|GloboTech Communications|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|67.43.236.21|4951|Canada|Montreal|GloboTech Communications|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|84.255.35.210|9898|Malta|Msida|Melita plc|
+|4|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|5|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|103.144.102.230|8085|Indonesia|Bandung|PANDAWANET|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|186.125.218.172|999|Argentina|Molinos|Telecom Argentina S.A.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|13|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|14|191.102.107.237|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|38.159.229.73|999|Ecuador|Vinces|Turbonet S.A.|
+|17|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
 |18|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|19|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|20|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
