@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|167.71.222.229|8888|Singapore|Singapore|DigitalOcean, LLC|
 |4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|196.41.230.90|8080|Algeria|Cheraga|Icosnet SPA|
+|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|9|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|12|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 |13|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|17|41.33.174.100|3128|Egypt|Cairo|TE Data|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|46.161.194.65|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
 |19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|45.123.142.46|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|20|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
 
 
 
