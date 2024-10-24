@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|7|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|182.253.42.148|8082|Indonesia|Jakarta Pusat|BIZNET|
-|13|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|14|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.164.178|4527|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|6413|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|4527|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|30211|Canada|Montreal|GloboTech Communications|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|9|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|181.143.126.74|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|20|72.10.164.178|27011|Canada|Montreal|GloboTech Communications|
 
 
 
