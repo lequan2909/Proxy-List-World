@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|103.159.194.249|8080|Indonesia|Kendal|PT Giga Digital Nusantara|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|38.191.200.94|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|6|103.211.107.110|7777|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
-|7|202.47.188.94|5566|Indonesia|Kediri|PT.CITRA BERDIKARI NUSANTARA|
-|8|36.66.111.81|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|181.209.82.206|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|11|112.198.179.42|8082|Philippines|Carmona|Globe Telecom|
-|12|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|13|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|16|103.78.158.6|3125|Indonesia|Banjarmasin|PT Global Jaringan Borneo|
-|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|20|67.43.236.19|27977|Canada|Montreal|GloboTech Communications|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|103.39.70.248|8181|Indonesia|Sambas|PT Gateway media Zafira|
+|5|103.158.121.66|1080|Indonesia|Indramayu|CDN|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|10|103.187.86.10|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|11|103.48.68.138|82|India|Hyderabad|Country Online Services PVT LTD|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|20|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
 
 
 
