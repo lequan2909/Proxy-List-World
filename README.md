@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
 |3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|6|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|6|212.46.210.236|8080|Russia|Moscow|VympelKom broadband internet|
+|7|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|8|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|124.105.99.230|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|67.43.228.251|16445|Canada|Montreal|GloboTech Communications|
-|18|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
-|19|72.10.160.170|1827|Canada|Montreal|GloboTech Communications|
-|20|181.143.126.74|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|13|103.247.23.72|7777|Indonesia|Cileungsir|PT wifian Solution|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|16|190.94.213.109|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|103.182.212.201|6969|Bangladesh|Gazipur|Md Ibrahim|
+|19|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|20|72.10.164.178|24621|Canada|Montreal|GloboTech Communications|
 
 
 
