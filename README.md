@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5431** proxies at the latest update. Usable proxies are below.
+> Scraper found **5480** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|224|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|606|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|226|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|653|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|333|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3342|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|6|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
-|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|8|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|10|181.78.95.49|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|196.15.176.2|8080|South Africa|Tshitereke|Telkom SA Ltd|
+|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|5|103.156.75.36|8181|Indonesia|Gianyar|PT Trika Global Media|
+|6|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|9|65.108.159.129|3128|Finland|Helsinki|Hetzner Online GmbH|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|182.253.121.253|8080|Indonesia|Bandung|BIZNET|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|95.216.218.146|3128|Finland|Helsinki|Hetzner Online GmbH|
 |14|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|209.14.119.198|999|Colombia|Bogotá|AGIS|
-|19|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|20|203.150.128.168|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|103.211.200.202|3128|Vietnam|Quận Hải Châu|Viet Digital Technology Liability Company|
+|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 
 
 
