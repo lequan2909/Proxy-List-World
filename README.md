@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
 |4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|10|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|171.245.119.255|5000|Vietnam|Thái Bình|Viettel Corporation|
-|17|67.43.228.251|14751|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|10581|Canada|Montreal|GloboTech Communications|
-|19|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|20|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|5|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|8|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|38.9.59.45|8080|India|Chennai|Microsense Private Limited|
+|17|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|20|67.43.228.251|14751|Canada|Montreal|GloboTech Communications|
 
 
 
