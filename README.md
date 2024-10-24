@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|8|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|103.105.78.137|8080|Indonesia|Kediri|GARUDA|
-|12|190.8.164.55|999|Venezuela|Maiquetía|CORPORACION FIBEX TELECOM, C.A.|
-|13|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
-|14|36.88.13.186|3129|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|72.10.160.93|2919|Canada|Montreal|GloboTech Communications|
-|16|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|17|67.43.228.253|1805|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|5755|Canada|Montreal|GloboTech Communications|
-|19|200.125.171.78|9991|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|20|72.10.160.174|7309|Canada|Montreal|GloboTech Communications|
+|1|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|3|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|7|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|11|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|12|49.48.83.137|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|14|103.127.220.106|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|15|72.10.160.93|30171|Canada|Montreal|GloboTech Communications|
+|16|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|187.102.36.15|3128|Brazil|Braço do Norte|MKM Internet Solution Provider Ltda|
+|20|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
