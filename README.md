@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.171.83.7|8181|Indonesia|Karawang|PT Multi Network Indonesia|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|7|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|8|49.48.83.137|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|12|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|13|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|17|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|19|67.43.227.227|3359|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|30193|Canada|Montreal|GloboTech Communications|
+|1|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|5|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|103.82.126.202|8080|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
+|11|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|38.191.200.73|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|15|18.183.170.28|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|16|103.125.174.27|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|17|177.93.39.75|999|Colombia|Fresno|TV AZTECA SUCURSAL COLOMBIA|
+|18|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|19|114.9.26.122|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|20|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
 
 
 
