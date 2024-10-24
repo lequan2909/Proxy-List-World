@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|5|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|213.199.44.86|8000|Germany|Düsseldorf|Contabo GmbH|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|4|103.191.251.34|8083|Indonesia|Batam|PT Mulia Batam Net|
+|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|6|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|7|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|72.10.164.178|3335|Canada|Montreal|GloboTech Communications|
-|12|103.54.218.202|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|13|37.211.17.145|8080|Qatar|Doha|Ooredoo|
-|14|67.43.227.226|26629|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|14917|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|72.10.164.178|3335|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|4163|Canada|Montreal|GloboTech Communications|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|11|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|12|41.86.252.90|443|Benin|Cotonou|ISOCEL SA|
+|13|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|14|113.160.214.209|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|17|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|18|188.125.169.100|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|20|165.225.72.38|10000|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
 
 
 
