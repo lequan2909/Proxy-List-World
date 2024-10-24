@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 |2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|5|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|6|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
-|10|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|67.43.236.20|13363|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|7451|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|11837|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|17055|Canada|Montreal|GloboTech Communications|
+|3|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
+|4|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|8|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|13|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |16|72.10.164.178|17055|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17055|Canada|Montreal|GloboTech Communications|
-|18|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
-|19|67.43.228.253|11837|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|103.69.20.41|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|18|67.43.227.229|4533|Canada|Montreal|GloboTech Communications|
+|19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|20|67.43.227.227|6223|Canada|Montreal|GloboTech Communications|
 
 
 
