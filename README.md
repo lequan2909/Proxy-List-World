@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|203.150.113.202|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|203.150.113.202|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
 |4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
-|11|103.76.150.74|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|12|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|14|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|15|181.78.22.109|999|Colombia|Astrea|IFX Networks Argentina S.R.L|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|38.7.31.229|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|18|124.217.68.235|8181|Philippines|Magalang|Philippine Long Distance Telephone Co.|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|64.64.231.84|3128|United States|Los Angeles|IT7 Networks Inc|
+|5|103.93.93.146|8082|Indonesia|Wedoro|MYRISE|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|203.150.128.20|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|12|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|16|189.89.188.14|2020|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
+|17|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.211.200.202|3128|Vietnam|Quận Hải Châu|Viet Digital Technology Liability Company|
+|19|72.10.164.178|24035|Canada|Montreal|GloboTech Communications|
+|20|115.127.190.42|6979|Bangladesh|Dhaka|BRACNet Limited|
 
 
 
