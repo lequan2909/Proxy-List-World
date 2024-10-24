@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|2|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|138.204.20.160|8080|Brazil|Camocim|FONTNET ME|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|181.188.238.148|999|Ecuador|Quito|Otecel S.A.|
-|8|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|45.225.120.36|40033|Brazil|Paripiranga|Centrosulnet Informatica Eireli|
-|11|103.153.135.58|8083|Indonesia|Tangerang|WMINET|
-|12|67.43.236.20|26083|Canada|Montreal|GloboTech Communications|
-|13|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|14|67.43.228.252|9043|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|16501|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|9933|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|30981|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|9933|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|30981|Canada|Montreal|GloboTech Communications|
-|20|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|5|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|6|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|103.153.135.58|8083|Indonesia|Tangerang|WMINET|
+|17|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|18|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|19|82.209.219.244|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|20|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
 
 
 
