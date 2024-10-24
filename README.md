@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|116.104.129.15|5000|Vietnam|Hanoi|Viettel Corporation|
-|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|6|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|11|185.82.98.249|8092|Lebanon|Tripoli|Protected|
-|12|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
-|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.228.250|32301|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|8243|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|27905|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|8543|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|72.10.160.174|1885|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|8243|Canada|Montreal|GloboTech Communications|
+|10|54.176.84.246|3128|United States|San Jose|Amazon.com, Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|116.104.129.15|5000|Vietnam|Hanoi|Viettel Corporation|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|213.199.44.86|8000|Germany|Düsseldorf|Contabo GmbH|
+|19|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
+|20|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
 
 
 
