@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|7|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|11|103.76.151.93|8090|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|12|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
-|13|182.253.109.118|8080|Indonesia|Semarang|Biznet Metronet|
-|14|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|202.154.36.103|8080|Indonesia|Surabaya|RADNET-BDG|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|182.253.109.118|8080|Indonesia|Semarang|Biznet Metronet|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|202.154.36.103|8080|Indonesia|Surabaya|RADNET-BDG|
+|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|15|170.238.200.50|999|Chile|Paine|Bitred Group SPA|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
+|18|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|19|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
