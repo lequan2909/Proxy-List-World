@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|1|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|54.147.3.216|3128|United States|Ashburn|Amazon Technologies Inc.|
 |4|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|95.140.203.231|3128|Armenia|Yerevan|ADC Network|
-|7|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|10|103.242.104.199|8090|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|16|154.73.109.201|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
-|17|67.43.227.228|16123|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|32693|Canada|Montreal|GloboTech Communications|
-|19|103.242.105.193|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|20|165.225.72.38|10006|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|5|116.104.171.145|5000|Vietnam|Hanoi|Viettel Corporation|
+|6|223.205.97.218|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|7|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|54.175.3.107|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|54.175.3.107|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|200.125.171.77|9991|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|17|147.75.34.93|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
+|18|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 
 
 
