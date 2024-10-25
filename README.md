@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|98.81.221.94|3128|United States|Ashburn|BellSouth.net Inc.|
-|3|54.147.3.216|3128|United States|Ashburn|Amazon Technologies Inc.|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|98.81.221.94|3128|United States|Ashburn|BellSouth.net Inc.|
+|4|54.147.3.216|3128|United States|Ashburn|Amazon Technologies Inc.|
 |5|54.175.3.107|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|203.111.253.105|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|10|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|15|44.210.243.104|3128|United States|Ashburn|Amazon.com|
-|16|3.82.162.8|3128|United States|Ashburn|Amazon Technologies Inc.|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|7|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|54.147.3.216|3128|United States|Ashburn|Amazon Technologies Inc.|
+|13|98.81.221.94|3128|United States|Ashburn|BellSouth.net Inc.|
+|14|54.175.3.107|3128|United States|Ashburn|Amazon.com, Inc.|
+|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|16|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|17|190.82.105.122|43949|Chile|Santiago|Telefonica Empresas|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|147.75.34.93|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
