@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|8|27.79.21.62|5106|Vietnam|Tam Kỳ|Viettel Corporation|
-|9|125.26.230.71|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|7|27.54.117.88|8080|Indonesia|Legian|Indonesia Network Information Center|
+|8|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |11|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|12|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|27.124.83.229|8080|Indonesia|Kebon Gunung|PT.Global Media Data Prima|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|191.241.39.162|3130|Brazil|Fortaleza|Tecnet Provedor De Acesso AS Redes De Com. Ltda|
-|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|19|103.155.65.58|8080|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|20|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|12|171.228.139.151|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|13|191.241.39.162|3130|Brazil|Fortaleza|Tecnet Provedor De Acesso AS Redes De Com. Ltda|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|58.147.186.31|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
+|18|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|103.177.235.132|83|India|Bengaluru|Coastal Live Channel|
 
 
 
