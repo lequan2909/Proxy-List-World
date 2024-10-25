@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|98.81.221.94|3128|United States|Ashburn|BellSouth.net Inc.|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|54.147.3.216|3128|United States|Ashburn|Amazon Technologies Inc.|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|44.210.243.104|3128|United States|Ashburn|Amazon.com|
-|6|3.82.241.45|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|203.111.253.105|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|8|54.147.3.216|3128|United States|Ashburn|Amazon Technologies Inc.|
-|9|54.175.3.107|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|11|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|13|54.147.3.216|3128|United States|Ashburn|Amazon Technologies Inc.|
-|14|44.210.243.104|3128|United States|Ashburn|Amazon.com|
-|15|3.82.241.45|3128|United States|Ashburn|Amazon Technologies Inc.|
-|16|98.81.221.94|3128|United States|Ashburn|BellSouth.net Inc.|
-|17|54.175.3.107|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|177.234.227.215|999|Ecuador|Manta|Ufinet Panama S.A.|
-|19|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|103.186.8.138|8080|Indonesia|Kediri|PRISMA|
+|7|98.81.221.94|3128|United States|Ashburn|BellSouth.net Inc.|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|11|177.234.227.215|999|Ecuador|Manta|Ufinet Panama S.A.|
+|12|217.182.194.108|3128|France|Roubaix|OVH SAS|
+|13|3.82.241.45|3128|United States|Ashburn|Amazon Technologies Inc.|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|103.149.238.170|3128|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
+|16|54.175.3.107|3128|United States|Ashburn|Amazon.com, Inc.|
+|17|38.255.84.82|999|Venezuela|Caracas|Galanet Solution C.A.|
+|18|98.81.221.94|3128|United States|Ashburn|BellSouth.net Inc.|
+|19|3.82.241.45|3128|United States|Ashburn|Amazon Technologies Inc.|
+|20|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
 
 
 
