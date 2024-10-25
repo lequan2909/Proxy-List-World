@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|91.203.179.72|65056|Russia|Smolensk|MAN net Ltd.|
-|5|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
 |6|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
 |9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|14.224.183.185|8080|Vietnam|Ho Chi Minh City|VNPT|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|13|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|16|72.10.164.178|17007|Canada|Montreal|GloboTech Communications|
-|17|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|72.10.160.90|2697|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|17007|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|9363|Canada|Montreal|GloboTech Communications|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|16|72.10.164.178|6255|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|14313|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|6255|Canada|Montreal|GloboTech Communications|
+|19|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|20|72.10.160.90|17691|Canada|Montreal|GloboTech Communications|
 
 
 
