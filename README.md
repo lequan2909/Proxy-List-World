@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|7|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|116.104.134.163|5020|Vietnam|Hanoi|Viettel Corporation|
-|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|12|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
-|15|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|103.184.54.3|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|18|103.133.27.237|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|103.105.54.99|7777|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
+|5|74.48.129.170|8443|United States|Los Angeles|Multacom Corporation|
+|6|95.216.205.32|8118|Finland|Helsinki|Hetzner Online GmbH|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|103.25.166.206|8080|Indonesia|Bandung|PT Citra Jelajah Informatika|
+|10|103.156.233.157|3456|Indonesia|Bogor|MULTIMEDIALINKTECH|
+|11|103.125.19.30|8080|Indonesia|Tangerang|JAVAMEDIA|
+|12|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|13|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|16|170.83.82.10|3128|Brazil|Marabá|IBL Banda Larga Internet Informatica LTDA|
+|17|103.247.22.148|8080|Indonesia|Bekasi|PT wifian Solution|
+|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
+|20|161.132.125.244|8080|Peru|Lima|Optical Technologies S.A.C.|
 
 
 
