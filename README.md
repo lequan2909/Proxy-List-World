@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5489** proxies at the latest update. Usable proxies are below.
+> Scraper found **5490** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|229|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|230|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|579|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|355|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|7|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|8|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|9|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|103.125.174.27|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|15|72.10.164.178|27165|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|27165|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|27165|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|27165|Canada|Montreal|GloboTech Communications|
-|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|67.43.227.228|17117|Canada|Montreal|GloboTech Communications|
+|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|143.0.243.80|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|4|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|5|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|9|147.75.34.93|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
+|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|11|72.10.164.178|18093|Canada|Montreal|GloboTech Communications|
+|12|165.225.72.38|10919|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|13|157.10.97.11|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
+|14|165.225.72.38|10919|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|15|165.225.72.38|10919|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|16|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|17|72.10.160.172|25009|Canada|Montreal|GloboTech Communications|
+|18|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|19|165.225.72.38|10919|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
