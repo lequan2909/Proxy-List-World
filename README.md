@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|4|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|3.87.183.250|3128|United States|Ashburn|Amazon Technologies Inc.|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|3.82.162.8|3128|United States|Ashburn|Amazon Technologies Inc.|
-|11|52.91.227.3|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|190.94.212.82|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|203.150.128.149|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|10|101.109.176.182|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|12|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|13|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|155.138.218.57|8118|United States|Atlanta|The Constant Company|
+|15|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|3.82.162.8|3128|United States|Ashburn|Amazon Technologies Inc.|
+|17|52.91.227.3|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
