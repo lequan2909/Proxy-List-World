@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|116.104.135.14|5000|Vietnam|Hanoi|Viettel Corporation|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
 |12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|17|72.10.164.178|16159|Canada|Montreal|GloboTech Communications|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|18.231.170.154|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|19|72.10.164.178|2249|Canada|Montreal|GloboTech Communications|
+|20|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
 
 
 
