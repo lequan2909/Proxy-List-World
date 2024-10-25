@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|4|171.240.71.19|12001|Vietnam|Bắc Ninh|Viettel Corporation|
-|5|27.145.54.184|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
 |7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|10|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|11|182.253.109.118|8080|Indonesia|Semarang|Biznet Metronet|
-|12|52.91.227.3|3128|United States|Ashburn|Amazon.com, Inc.|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|103.160.15.230|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|34.122.58.60|3128|United States|Council Bluffs|Google LLC|
-|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|160.19.178.21|8080|Indonesia|Sepatan|PT Jaringan Cyber Evo|
-|20|103.156.15.111|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|8|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|9|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|182.253.109.118|8080|Indonesia|Semarang|Biznet Metronet|
+|11|52.91.227.3|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|15|103.42.242.45|3125|Indonesia|Tangerang|PT. Jet Cyber Network Nusantara|
+|16|52.91.227.3|3128|United States|Ashburn|Amazon.com, Inc.|
+|17|27.145.54.184|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|18|3.82.162.8|3128|United States|Ashburn|Amazon Technologies Inc.|
+|19|116.104.131.153|5000|Vietnam|Hanoi|Viettel Corporation|
+|20|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
