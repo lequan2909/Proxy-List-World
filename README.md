@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|103.13.204.24|8082|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
-|6|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|13|103.247.22.148|8080|Indonesia|Bekasi|PT wifian Solution|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|16|45.5.119.222|999|Guatemala|Guatemala City|Infinitum S.A.|
-|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|20|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|10|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|14|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|15|36.92.28.34|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|19|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|72.10.164.178|16237|Canada|Montreal|GloboTech Communications|
 
 
 
