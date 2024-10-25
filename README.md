@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|40.90.177.99|8888|Singapore|Singapore|Microsoft Corporation|
-|8|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|9|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|116.104.246.100|5014|Vietnam|Hanoi|Viettel Corporation|
-|15|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|43.134.118.223|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|18|116.104.133.0|5008|Vietnam|Hanoi|Viettel Corporation|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|11|180.191.255.147|8081|Philippines|General Trias|Globe Telecom|
+|12|185.64.208.134|53281|Russia|Kstovo|Svyazist LLC|
+|13|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|191.241.39.162|3130|Brazil|Fortaleza|Tecnet Provedor De Acesso AS Redes De Com. Ltda|
+|15|171.240.71.19|12001|Vietnam|Bắc Ninh|Viettel Corporation|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|103.156.15.119|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
 |19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
 
 
 
