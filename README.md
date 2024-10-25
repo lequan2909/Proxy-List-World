@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
+|2|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
+|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|5|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
 |8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
-|15|124.104.145.185|3128|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
-|16|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|18|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|19|103.171.83.67|1111|Indonesia|Karawang|PT Multi Network Indonesia|
-|20|103.156.15.91|1111|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|9|103.175.157.72|8090|Indonesia|Bojonggede 1|MYARSYILA|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|38.156.72.45|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
+|13|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|193.233.84.94|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
+|18|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|19|202.154.36.103|8080|Indonesia|Surabaya|RADNET-BDG|
+|20|149.14.76.99|8080|Mexico|Fuentes del Valle|Cogent Communications|
 
 
 
