@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.113.8|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
-|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|147.75.34.93|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|203.150.113.8|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|182.253.109.118|8080|Indonesia|Semarang|Biznet Metronet|
-|14|72.10.160.93|14587|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|28781|Canada|Montreal|GloboTech Communications|
-|16|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|17|72.10.160.90|19899|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|30917|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|26287|Canada|Montreal|GloboTech Communications|
-|20|165.225.72.38|10001|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|41.65.160.174|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|13|180.56.154.198|8080|Japan|Roppongi|NTT Communications Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|16|189.193.254.98|8080|Mexico|Jilotepec de Molina Enríquez|Tele Go, Inc|
+|17|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|19|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|20|182.253.109.118|8080|Indonesia|Semarang|Biznet Metronet|
 
 
 
