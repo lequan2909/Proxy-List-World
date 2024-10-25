@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
 |5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|8|116.101.94.160|5106|Vietnam|Hanoi|Viettel Corporation|
 |9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|12|3.87.183.250|3128|United States|Ashburn|Amazon Technologies Inc.|
-|13|147.28.155.20|9401|United States|Dallas|Packet Host, Inc.|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|16|34.122.58.60|3128|United States|Council Bluffs|Google LLC|
-|17|74.208.75.233|3128|United States|Washington|IONOS SE|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|3.87.183.250|3128|United States|Ashburn|Amazon Technologies Inc.|
+|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|15|196.41.230.90|8080|Algeria|Cheraga|Icosnet SPA|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
+|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
