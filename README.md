@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|5|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|6|116.104.135.14|5000|Vietnam|Hanoi|Viettel Corporation|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|116.104.168.99|5006|Vietnam|Hanoi|Viettel Corporation|
-|9|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|10|116.104.128.49|5020|Vietnam|Hanoi|Viettel Corporation|
-|11|45.224.149.15|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|12|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|72.10.160.90|10421|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|17461|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|17461|Canada|Montreal|GloboTech Communications|
-|20|103.162.62.250|8181|Indonesia|Yogyakarta|PT Ring Media Nusantara|
+|1|116.104.168.99|5006|Vietnam|Hanoi|Viettel Corporation|
+|2|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|8|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|9|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|72.10.164.178|1153|Canada|Montreal|GloboTech Communications|
+|13|78.108.108.9|8080|Czechia|Pilsen|Neutral Free eXchange members - FreeTel alternate|
+|14|72.10.164.178|1153|Canada|Montreal|GloboTech Communications|
+|15|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|16|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|193.38.244.17|3128|The Netherlands|Amsterdam|Istqrar for Servers Services Ltd|
+|18|72.10.160.90|10421|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|72.10.164.178|1153|Canada|Montreal|GloboTech Communications|
 
 
 
