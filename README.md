@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|103.165.155.105|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|3|136.37.112.236|8118|United States|Olathe|Google Fiber Inc.|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|6|181.225.224.251|3128|Cuba|Havana|Empresa de Telecomunicaciones de Cuba|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|95.140.203.231|3128|Armenia|Yerevan|ADC Network|
-|10|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|9|95.214.123.199|8080|Hungary|Kecskemét|Deltakon Kft.|
+|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
 |12|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|67.43.227.226|11971|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|15623|Canada|Montreal|GloboTech Communications|
-|19|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|20|72.10.164.178|15623|Canada|Montreal|GloboTech Communications|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|188.125.169.237|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|19|72.10.164.178|29047|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|10231|Canada|Montreal|GloboTech Communications|
 
 
 
