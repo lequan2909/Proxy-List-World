@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|4|182.253.109.118|8080|Indonesia|Semarang|Biznet Metronet|
-|5|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|6|203.190.44.251|8080|Indonesia|Jogonalan|PT Jaring Lintas Utara|
-|7|103.193.144.5|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
-|10|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|103.147.246.185|3127|Indonesia|Tangerang|PLBNET|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|17|202.154.36.103|8080|Indonesia|Surabaya|RADNET-BDG|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|49.48.90.226|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|20|188.132.222.14|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|182.253.109.118|8080|Indonesia|Semarang|Biznet Metronet|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|49.48.90.226|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|177.234.217.235|999|Ecuador|Quito|Ufinet Panama S.A.|
+|13|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|16|223.25.110.225|1080|Indonesia|Surabaya|SinergiNet|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|101.255.210.50|8080|Indonesia|Jakarta|PT Remala Abadi|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
