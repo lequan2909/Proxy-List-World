@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|103.155.65.58|8080|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
 |8|125.26.230.71|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
-|9|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|103.152.238.181|8085|Indonesia|Bekasi|APRIN|
-|11|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|191.241.39.162|3130|Brazil|Fortaleza|Tecnet Provedor De Acesso AS Redes De Com. Ltda|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|171.228.139.151|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|10|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|13|3.15.144.5|8888|United States|Dublin|Amazon.com, Inc.|
+|14|27.54.117.88|8080|Indonesia|Legian|Indonesia Network Information Center|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|191.241.39.162|3130|Brazil|Fortaleza|Tecnet Provedor De Acesso AS Redes De Com. Ltda|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|103.211.107.62|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|20|38.97.215.145|8080|United States|Denver|Cogent Communications|
 
 
 
