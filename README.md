@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|201.134.169.214|8205|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|95.216.57.120|8292|Finland|Helsinki|Hetzner Online GmbH|
-|7|45.123.142.17|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|8|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|9|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|12|167.99.76.113|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|72.10.164.178|7125|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|7125|Canada|Montreal|GloboTech Communications|
-|15|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|16|72.10.164.178|7125|Canada|Montreal|GloboTech Communications|
-|17|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|67.43.227.227|30069|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|25983|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|11991|Canada|Montreal|GloboTech Communications|
+|1|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|5|196.251.195.146|8084|South Africa|Brits|Info-Gro (PTY) Ltd|
+|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|7|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|14|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|15|165.225.72.38|10727|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|72.10.164.178|7125|Canada|Montreal|GloboTech Communications|
+|18|182.253.17.173|8080|Indonesia|Jakarta|Biznet Networks|
+|19|72.10.164.178|7125|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|14979|Canada|Montreal|GloboTech Communications|
 
 
 
