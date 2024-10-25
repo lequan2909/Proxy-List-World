@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
-|5|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|12|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|13|103.125.51.25|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|63.151.59.218|8080|United States|Ocala|CenturyLink|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|205.164.84.247|8591|Brazil|Buritis|AGIS|
-|20|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|2|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|11|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|14|139.255.89.82|8080|Indonesia|Jakarta|PT. LINKNET|
+|15|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
+|16|103.159.195.193|8080|Indonesia|Kudus|PT Giga Digital Nusantara|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|19|196.41.230.90|8080|Algeria|Cheraga|Icosnet SPA|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
