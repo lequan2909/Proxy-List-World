@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|203.150.113.8|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
-|6|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|202.93.244.98|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 |11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|13|147.75.34.93|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
-|14|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|16|188.125.169.100|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|18|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|19|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|20|67.43.236.20|14725|Canada|Montreal|GloboTech Communications|
+|12|190.94.213.109|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|103.54.36.90|8674|Bangladesh|Khulna|Earth Telecommunication (Pvt.) Ltd|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|16|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|17|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|18|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|72.10.164.178|2083|Canada|Montreal|GloboTech Communications|
 
 
 
