@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|5|171.228.139.151|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|10|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|11|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|116.104.129.202|5010|Vietnam|Hanoi|Viettel Corporation|
-|14|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|3.87.183.250|3128|United States|Ashburn|Amazon Technologies Inc.|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|3.82.162.8|3128|United States|Ashburn|Amazon Technologies Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
-|20|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|4|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|3.87.183.250|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
+|11|3.82.162.8|3128|United States|Ashburn|Amazon Technologies Inc.|
+|12|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|13|202.29.215.78|8080|Thailand|Ratchathewi|Office of Info.Tech. Admin. for Educational Development|
+|14|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|16|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|19|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|101.109.176.182|8080|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
