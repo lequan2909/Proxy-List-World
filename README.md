@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|103.247.22.148|8080|Indonesia|Bekasi|PT wifian Solution|
-|8|67.43.236.20|10195|Canada|Montreal|GloboTech Communications|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|11|103.153.135.58|8083|Indonesia|Tangerang|WMINET|
-|12|171.238.237.111|5004|Vietnam|Tuyên Quang|Viettel Corporation|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|103.242.105.193|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|20|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|154.12.18.155|8080|United States|Pasadena|High Family Technology Co., Limited|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|10|182.253.176.24|8080|Indonesia|Jakarta|BIZNET|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|165.225.72.38|10000|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|18|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|19|165.225.72.38|10000|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|20|72.10.164.178|7125|Canada|Montreal|GloboTech Communications|
 
 
 
