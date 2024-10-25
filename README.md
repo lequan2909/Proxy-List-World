@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|5|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|7|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
 |8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|10|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|14|3.87.183.250|3128|United States|Ashburn|Amazon Technologies Inc.|
-|15|3.82.162.8|3128|United States|Ashburn|Amazon Technologies Inc.|
-|16|131.241.33.214|8888|United States|Franklin|Cincinnati Bell Telephone Company LLC|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|3.87.183.250|3128|United States|Ashburn|Amazon Technologies Inc.|
+|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |20|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
 
