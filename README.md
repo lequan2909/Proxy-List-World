@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |5|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
 |6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|7|3.87.183.250|3128|United States|Ashburn|Amazon Technologies Inc.|
-|8|147.28.155.20|10002|United States|Dallas|Packet Host, Inc.|
-|9|52.91.227.3|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|3.82.162.8|3128|United States|Ashburn|Amazon Technologies Inc.|
-|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|154.12.18.155|8080|United States|Pasadena|High Family Technology Co., Limited|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|3.87.183.250|3128|United States|Ashburn|Amazon Technologies Inc.|
+|13|3.82.162.8|3128|United States|Ashburn|Amazon Technologies Inc.|
+|14|52.91.227.3|3128|United States|Ashburn|Amazon.com, Inc.|
+|15|58.137.174.101|8080|Thailand|Bangkok|AGC|
+|16|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|17|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|20|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
