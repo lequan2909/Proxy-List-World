@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|4|52.91.227.3|3128|United States|Ashburn|Amazon.com, Inc.|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|182.253.109.118|8080|Indonesia|Semarang|Biznet Metronet|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|52.91.227.3|3128|United States|Ashburn|Amazon.com, Inc.|
-|13|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|157.66.50.41|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|15|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|103.172.120.178|1111|Indonesia|Semarang|PT Digital Akses Nusantara|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|182.253.232.70|8080|Indonesia|Jakarta|BIZNET|
-|20|147.75.34.92|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|52.91.227.3|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|10|52.91.227.3|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|103.133.25.57|3125|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|54.251.42.198|3128|Singapore|Singapore|Amazon.com, Inc.|
+|16|157.66.50.41|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|17|103.17.213.100|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|18|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
