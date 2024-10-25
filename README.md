@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
-|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|103.87.148.21|8080|Indonesia|Demak|Lintas Data Prima, PT|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|103.126.86.17|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|19|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|61.7.191.138|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|202.137.8.147|8080|Indonesia|Bekasi|LINKNET|
+|13|183.88.214.44|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
+|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|45.182.191.58|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|103.191.254.2|8085|Indonesia|Jadi|PT Ayodya Data Internusa|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|154.12.18.155|8080|United States|Pasadena|High Family Technology Co., Limited|
+|20|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
 
 
 
