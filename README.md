@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|2|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|45.224.149.15|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|6|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|8|116.104.128.49|5020|Vietnam|Hanoi|Viettel Corporation|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|103.162.62.250|8181|Indonesia|Yogyakarta|PT Ring Media Nusantara|
-|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|12|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|17|67.43.228.250|8759|Canada|Montreal|GloboTech Communications|
-|18|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|113.160.214.209|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|10|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|14|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|15|103.125.174.27|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|16|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|17|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|18|165.225.72.38|10919|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|19|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|20|103.133.27.247|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
 
 
 
