@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|101.109.176.182|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|76.244.23.201|8118|United States|Charlotte|AT&T Services, Inc.|
-|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|147.28.155.20|10002|United States|Dallas|Packet Host, Inc.|
-|20|131.241.33.214|8888|United States|Franklin|Cincinnati Bell Telephone Company LLC|
+|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|7|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|8|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|3.87.183.250|3128|United States|Ashburn|Amazon Technologies Inc.|
+|17|3.82.162.8|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|103.248.9.162|8181|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
