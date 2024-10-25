@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|12|67.43.227.227|8959|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|20363|Canada|Montreal|GloboTech Communications|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|72.10.160.90|20363|Canada|Montreal|GloboTech Communications|
-|16|65.108.159.129|999|Finland|Helsinki|Hetzner Online GmbH|
-|17|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|18|72.10.164.178|22657|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|29347|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|20363|Canada|Montreal|GloboTech Communications|
+|1|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|103.172.42.89|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|165.225.72.38|10514|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|11|72.10.160.93|29347|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|22657|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|26027|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.18|9041|Canada|Montreal|GloboTech Communications|
+|15|165.225.72.38|10514|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|16|67.43.227.227|8959|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|22657|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.250|30867|Canada|Montreal|GloboTech Communications|
+|19|165.225.72.38|10514|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|20|67.43.227.227|8959|Canada|Montreal|GloboTech Communications|
 
 
 
