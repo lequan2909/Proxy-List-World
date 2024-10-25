@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |8|61.7.191.138|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|103.54.218.202|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|12|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|13|177.234.236.134|8080|Ecuador|Machala|Ufinet Panama S.A.|
-|14|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|20|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|9|202.137.8.147|8080|Indonesia|Bekasi|LINKNET|
+|10|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|11|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|12|14.241.205.40|8080|Vietnam|Ho Chi Minh City|VNPT|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|202.154.36.103|8080|Indonesia|Surabaya|RADNET-BDG|
+|20|101.255.167.174|8080|Indonesia|Bekasi|PT Remala Abadi|
 
 
 
