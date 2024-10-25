@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|3.82.162.8|3128|United States|Ashburn|Amazon Technologies Inc.|
+|4|3.82.162.8|3128|United States|Ashburn|Amazon Technologies Inc.|
+|5|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
 |6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|54.251.42.198|3128|Singapore|Singapore|Amazon.com, Inc.|
-|8|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|67.43.236.21|5199|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.19|31281|Canada|Montreal|GloboTech Communications|
-|15|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
-|16|72.10.160.170|10527|Canada|Montreal|GloboTech Communications|
-|17|165.225.72.38|11267|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|18|67.43.227.227|24589|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.21|5199|Canada|Montreal|GloboTech Communications|
-|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|103.76.149.67|8080|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|10|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|13|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|15|103.122.1.26|8080|Indonesia|Palembang|PT. Java Digital Nusantara|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|20|165.225.72.38|10280|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
 
 
 
