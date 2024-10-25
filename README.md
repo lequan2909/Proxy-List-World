@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
-|3|203.150.113.8|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|7|103.125.174.27|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|10|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|11|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|14|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.160.90|10319|Canada|Montreal|GloboTech Communications|
-|17|103.167.170.210|7777|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|18|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|19|192.99.169.19|8449|Canada|Beauharnois|OVH SAS|
-|20|72.10.164.178|23343|Canada|Montreal|GloboTech Communications|
+|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|9|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
+|10|188.132.221.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|103.48.68.218|83|India|Hyderabad|Country Online Services PVT LTD|
+|12|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|13|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|16|72.10.160.90|24321|Canada|Montreal|GloboTech Communications|
+|17|165.225.72.38|10001|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|18|119.18.146.171|5020|Bangladesh|Chittagong|BBTS Network|
+|19|147.75.34.93|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|103.242.105.193|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
