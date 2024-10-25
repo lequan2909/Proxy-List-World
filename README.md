@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|10|45.71.195.141|8080|Brazil|Macaé|T. TELES LEITE TELECOMUNICACOES LTDA ME|
-|11|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|12|103.17.213.100|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|13|182.253.109.118|8080|Indonesia|Semarang|Biznet Metronet|
-|14|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|3.87.183.250|3128|United States|Ashburn|Amazon Technologies Inc.|
-|17|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|116.104.128.182|5020|Vietnam|Hanoi|Viettel Corporation|
-|20|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|3.82.162.8|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|182.253.109.118|8080|Indonesia|Semarang|Biznet Metronet|
+|11|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|12|186.96.67.97|999|Venezuela|Caracas|Gold Data USA Inc|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|166.159.90.56|53281|United States|Doylestown|Verizon Business|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
