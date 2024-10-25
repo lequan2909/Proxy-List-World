@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
-|4|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|5|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|6|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|9|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|10|61.7.191.138|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|11|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|7|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|196.41.230.90|8080|Algeria|Cheraga|Icosnet SPA|
+|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|103.126.86.17|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|20|165.225.72.38|18080|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|54.211.55.240|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|103.242.105.193|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|20|103.97.203.23|8443|India|Mumbai|BrainStorm Network, Inc|
 
 
 
