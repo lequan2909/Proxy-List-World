@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|171.228.114.239|10089|Vietnam|Phong Châu|Viettel Corporation|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|103.199.117.162|771|Indonesia|Ungaran|PT Hepra Teknologi Indonesia|
 |6|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|13|63.151.59.218|8080|United States|Ocala|CenturyLink|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|91.205.69.126|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|103.179.46.49|6789|India|Dombivali|Jeebr Cloud Solution PVT LTD|
-|18|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|103.76.149.67|8080|Indonesia|Jakarta|PT. Java Digital Nusantara|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|10|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|11|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|88.255.185.254|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|47.245.60.83|8888|Japan|Tokyo|Alibaba Cloud LLC|
+|17|103.172.0.13|8181|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|20|188.132.222.131|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
