@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
-|5|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|8|8.215.41.90|8080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|103.239.254.72|58080|Bangladesh|Dhaka|Carnival Internet|
-|15|116.104.129.233|5022|Vietnam|Hanoi|Viettel Corporation|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|18|67.43.236.20|25067|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|5279|Canada|Montreal|GloboTech Communications|
-|20|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|1|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|124.107.204.61|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|16|116.104.129.233|5022|Vietnam|Hanoi|Viettel Corporation|
+|17|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|18|67.43.236.20|4637|Canada|Montreal|GloboTech Communications|
+|19|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|20|72.10.164.178|2573|Canada|Montreal|GloboTech Communications|
 
 
 
