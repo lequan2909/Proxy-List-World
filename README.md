@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|3|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|5|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|116.104.132.0|5000|Vietnam|Hanoi|Viettel Corporation|
-|9|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|10|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|11|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|131.241.33.214|8888|United States|Franklin|Cincinnati Bell Telephone Company LLC|
-|13|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|17|103.125.173.26|8080|Indonesia|Deli Serdang|PT Trinity Teknologi Nusantara|
-|18|134.236.29.147|8080|Thailand|Bang Lamung|CAT-BB|
-|19|202.179.93.132|58080|India|Mumbai|Ankhnet|
-|20|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|116.102.104.66|10001|Vietnam|Bà Rịa|Viettel Corporation|
+|8|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|131.241.33.214|8888|United States|Franklin|Cincinnati Bell Telephone Company LLC|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|38.52.208.3|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|16|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|17|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|72.10.160.170|22227|Canada|Montreal|GloboTech Communications|
+|19|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|124.156.100.83|8118|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
 
 
 
