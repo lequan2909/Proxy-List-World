@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|7|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|191.241.39.162|3130|Brazil|Fortaleza|Tecnet Provedor De Acesso AS Redes De Com. Ltda|
-|11|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|89.116.33.72|3128|India|Mumbai|Hostinger International Limited|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|3.82.162.8|3128|United States|Ashburn|Amazon Technologies Inc.|
-|20|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
+|1|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|179.104.67.4|9090|Brazil|Nova Serrana|ALGAR TELECOM S/A|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|223.25.110.88|1080|Indonesia|Surabaya|SinergiNet|
+|8|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|15|191.241.39.162|3130|Brazil|Fortaleza|Tecnet Provedor De Acesso AS Redes De Com. Ltda|
+|16|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|17|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.247.22.82|8080|Indonesia|Bekasi|PT wifian Solution|
+|19|40.90.177.99|8888|Singapore|Singapore|Microsoft Corporation|
+|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
