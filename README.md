@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
-|13|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|103.242.105.193|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|15|72.10.160.172|18267|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|72.10.164.178|10603|Canada|Montreal|GloboTech Communications|
-|18|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|67.43.236.18|18937|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|2147|Canada|Montreal|GloboTech Communications|
+|2|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|14|116.96.144.118|5012|Vietnam|Bắc Ninh|Viettel Corporation|
+|15|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|222.252.24.246|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|20|72.10.160.172|18267|Canada|Montreal|GloboTech Communications|
 
 
 
