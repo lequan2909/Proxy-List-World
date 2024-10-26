@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|2|203.150.128.109|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|6|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|103.156.141.151|3127|Indonesia|Jember|PT Tekling Media Telematika|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|15|103.189.197.75|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|101.109.55.74|8080|Thailand|Pattaya|TOT Public Company Limited|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
-|20|103.78.36.116|8080|Indonesia|Jakarta|MORATELINDO|
+|2|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|3|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|11|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|125.209.110.83|39617|Pakistan|Islamabad|Multinet 125-110/24|
+|14|103.247.22.82|8080|Indonesia|Bekasi|PT wifian Solution|
+|15|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|16|186.225.108.43|8080|Brazil|São Paulo|America-NET Ltda|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
