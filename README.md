@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.19.231.226|8080|Indonesia|Jakarta|PT TELSAR JAYA NETWORK TEKNOLOGY|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|131.241.33.214|8888|United States|Franklin|Cincinnati Bell Telephone Company LLC|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|13|168.138.174.78|3128|Singapore|Singapore|Oracle Corporation|
-|14|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|15|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|16|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|17|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|18|67.43.236.20|6967|Canada|Montreal|GloboTech Communications|
+|1|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|2|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|103.147.247.38|8181|Indonesia|Tangerang|PLBNET|
+|4|168.138.174.78|3128|Singapore|Singapore|Oracle Corporation|
+|5|202.154.19.197|8080|Indonesia|Jombang|DIGITNET|
+|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|7|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|9|103.217.216.183|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|67.43.236.20|32909|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|147.28.155.20|10092|United States|Dallas|Packet Host, Inc.|
+|16|72.10.160.174|8093|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|32909|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
 |19|147.28.155.20|10092|United States|Dallas|Packet Host, Inc.|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.236.20|32909|Canada|Montreal|GloboTech Communications|
 
 
 
