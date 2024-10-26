@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|2|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|2|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|66.27.58.70|8080|United States|Hawthorne|Spectrum|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|203.190.46.57|3128|Indonesia|Sleman|PT Jaring Lintas Utara|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|67.43.227.226|14643|Canada|Montreal|GloboTech Communications|
-|13|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|72.10.160.170|3845|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.229|6631|Canada|Montreal|GloboTech Communications|
-|17|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|67.43.227.227|11531|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|19007|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|30045|Canada|Montreal|GloboTech Communications|
+|4|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|5|202.93.244.242|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|6|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|72.10.160.90|25113|Canada|Montreal|GloboTech Communications|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|72.10.160.90|25113|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|2135|Canada|Montreal|GloboTech Communications|
+|12|213.153.63.119|8080|Austria|Salzburg|SALZBURG-AG|
+|13|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|72.10.160.170|2315|Canada|Montreal|GloboTech Communications|
+|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|38.156.72.201|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|72.10.160.170|2315|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|2135|Canada|Montreal|GloboTech Communications|
 
 
 
