@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|40.90.177.99|8888|Singapore|Singapore|Microsoft Corporation|
-|7|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|11|121.101.133.220|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|12|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|18|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|190.61.45.76|999|Colombia|Tangua|Ufinet Panama S.A.|
-|20|103.189.250.67|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|40.90.177.99|8888|Singapore|Singapore|Microsoft Corporation|
+|13|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
