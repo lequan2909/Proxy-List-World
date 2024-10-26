@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5751** proxies at the latest update. Usable proxies are below.
+> Scraper found **5750** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|290|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|785|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|784|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|432|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3318|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|3|190.89.111.116|8080|Brazil|Águas Lindas de Goiás|Ceunet Telecom Eireli|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|103.160.207.53|32650|India|Morādābād|Moradabad Internet Services Private Limited|
-|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|12|168.197.130.129|8878|Brazil|Piripiri|Fillnet Com. e Ser. LTDA|
-|13|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|16|181.192.21.237|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|19|102.135.157.33|12354|South Africa|Durban|Session Telecoms(PTY) Ltd|
-|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|1|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|2|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|3|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|6|200.37.187.60|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
+|7|190.89.111.116|8080|Brazil|Águas Lindas de Goiás|Ceunet Telecom Eireli|
+|8|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|9|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|12|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|13|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
+|14|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|185.236.233.251|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|17|116.104.133.0|5008|Vietnam|Hanoi|Viettel Corporation|
+|18|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|19|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
