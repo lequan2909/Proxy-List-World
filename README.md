@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|168.138.174.78|3128|Singapore|Singapore|Oracle Corporation|
-|4|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|17|168.138.174.78|3128|Singapore|Singapore|Oracle Corporation|
-|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|19|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|20|67.43.227.226|27379|Canada|Montreal|GloboTech Communications|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|168.138.174.78|3128|Singapore|Singapore|Oracle Corporation|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|6|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|192.121.102.132|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
+|14|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|168.138.174.78|3128|Singapore|Singapore|Oracle Corporation|
+|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
