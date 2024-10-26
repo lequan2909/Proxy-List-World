@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|6|14.161.49.235|22222|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|2|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|125.234.158.157|39202|Vietnam|Vinh|Viettel Corporation|
 |7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|177.37.96.136|8088|Brazil|Dores do Indaiá|Indagraf Ltda|
+|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |11|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|12|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|16|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|209.45.90.174|999|Peru|Lima|Econocable Media SAC|
-|19|103.88.239.178|84|India|Hyderabad|Mana Communications|
-|20|72.10.164.178|30407|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|18|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|19|209.45.90.174|999|Peru|Lima|Econocable Media SAC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
