@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|9|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|10|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|13|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|15|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|16|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|17|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|5|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|103.242.105.193|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
+|15|40.90.177.99|8888|Singapore|Singapore|Microsoft Corporation|
+|16|191.97.68.42|8080|Argentina|Corrientes|Enlace Soluciones Informaticas SRL|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|165.225.72.38|10089|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|19|67.43.227.226|1803|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|13937|Canada|Montreal|GloboTech Communications|
 
 
 
