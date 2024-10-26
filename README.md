@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|203.150.128.109|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|157.20.244.77|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|9|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|10|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|13|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|14|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|15|105.174.40.54|8080|Angola|Luanda|UNITEL SA|
-|16|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|17|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
-|18|46.161.194.65|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|2|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|203.150.128.109|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|157.20.244.77|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|101.109.55.74|8080|Thailand|Pattaya|TOT Public Company Limited|
+|7|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|8|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|11|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|16|103.156.141.151|3127|Indonesia|Jember|PT Tekling Media Telematika|
+|17|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.160.170|11837|Canada|Montreal|GloboTech Communications|
 
 
 
