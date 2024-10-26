@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|103.169.131.62|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|15|63.151.59.218|8080|United States|Ocala|CenturyLink|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|103.169.131.62|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|6|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|7|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|103.137.111.67|8080|Indonesia|Mojokerto|PT. Capoeng Digital Nusantara|
+|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|54.251.42.198|3128|Singapore|Singapore|Amazon.com, Inc.|
+|16|72.10.164.178|30147|Canada|Montreal|GloboTech Communications|
+|17|203.138.198.55|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|72.10.164.178|30147|Canada|Montreal|GloboTech Communications|
+|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|20|67.43.228.253|10761|Canada|Montreal|GloboTech Communications|
 
 
 
