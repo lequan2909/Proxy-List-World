@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|125.27.107.123|8080|Thailand|Pattaya|TOT Public Company Limited|
 |3|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|4|134.122.61.163|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|7|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|12|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|15|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|16|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|190.89.111.116|8080|Brazil|Águas Lindas de Goiás|Ceunet Telecom Eireli|
+|12|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|40.90.177.99|8888|Singapore|Singapore|Microsoft Corporation|
+|16|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
 |17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|18|200.37.187.60|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
+|19|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
