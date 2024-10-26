@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|2|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
 |3|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|8|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|103.54.36.90|8674|Bangladesh|Khulna|Earth Telecommunication (Pvt.) Ltd|
-|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|16|72.10.164.178|27011|Canada|Montreal|GloboTech Communications|
-|17|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|18|67.43.228.254|8977|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.91|23497|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|72.10.164.178|22729|Canada|Montreal|GloboTech Communications|
+|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|72.10.160.91|14265|Canada|Montreal|GloboTech Communications|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|72.10.164.178|22729|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|22579|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|16125|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.254|8977|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.174|1347|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|16125|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|16125|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.254|8977|Canada|Montreal|GloboTech Communications|
+|18|186.225.108.43|8080|Brazil|São Paulo|America-NET Ltda|
+|19|67.43.236.19|21123|Canada|Montreal|GloboTech Communications|
+|20|103.247.22.82|8080|Indonesia|Bekasi|PT wifian Solution|
 
 
 
