@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
 |2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|4|103.153.62.155|8080|Indonesia|Weleri|IMEDIANET|
-|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|103.189.249.196|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|103.163.175.28|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
-|15|190.85.141.170|9090|Colombia|Bogotá|Telmex Colombia S.A.|
-|16|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|19|190.94.213.109|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|103.215.187.68|8080|Indonesia|Mungkid|PT Jaringan Inti Exadata|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|13|203.150.113.87|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|14|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|15|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|16|88.198.39.240|10008|Germany|Nuremberg|Hetzner Online GmbH|
+|17|124.83.74.218|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|18|45.133.107.10|81|Russia|Tul'skiy|Art-net LLC|
+|19|38.9.59.45|8080|India|Chennai|Microsense Private Limited|
+|20|103.81.222.136|8080|Indonesia|Bandung|STARNET|
 
 
 
