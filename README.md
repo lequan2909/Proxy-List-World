@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
 |3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|27.76.202.224|8000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|40.90.177.99|8888|Singapore|Singapore|Microsoft Corporation|
-|18|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|19|72.10.160.171|20505|Canada|Montreal|GloboTech Communications|
-|20|125.229.149.169|65110|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|103.165.157.79|8090|Indonesia|Pemalang|MEGADATA-ISP|
+|14|103.154.178.106|8080|Indonesia|Jambi City|PT Aneka Teguh Jaya|
+|15|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|17|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|19|191.102.107.238|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|20|43.252.107.119|7777|Indonesia|Gamping Lor|PT Lintas Data Prima|
 
 
 
