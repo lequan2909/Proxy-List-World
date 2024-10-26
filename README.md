@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|10|103.162.141.146|3128|Indonesia|Batam|PT Filltech Antar Nusa|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|103.239.254.72|58080|Bangladesh|Dhaka|Carnival Internet|
-|16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|17|67.43.227.226|3257|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|6661|Canada|Montreal|GloboTech Communications|
-|19|88.198.39.240|10006|Germany|Nuremberg|Hetzner Online GmbH|
-|20|67.43.227.227|4077|Canada|Montreal|GloboTech Communications|
+|1|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|45.189.252.242|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|11|202.93.244.242|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|14|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|15|59.89.148.104|8080|India|Jaipur|Bharat Sanchar Nigam Ltd|
+|16|72.10.160.93|24269|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|12321|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|7375|Canada|Montreal|GloboTech Communications|
+|19|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|20|103.112.212.57|83|India|Bijapur|Supersonic Isp Connectivity India Pvt Ltd|
 
 
 
