@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|2|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|3|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|8|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|1|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|2|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|11|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
 |12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|157.10.3.10|8080|Indonesia|Pekanbaru|PT Parsaoran Global Datatrans|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|19|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|20|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|13|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|177.93.40.56|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|157.10.3.10|8080|Indonesia|Pekanbaru|PT Parsaoran Global Datatrans|
+|18|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|47.88.85.102|443|United States|Minkler|Alibaba.com LLC|
+|20|114.9.26.122|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
 
 
 
