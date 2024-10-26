@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|203.150.128.27|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|168.138.174.78|3128|Singapore|Singapore|Oracle Corporation|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|11|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|12|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|18.231.167.10|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|15|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|131.241.33.214|8888|United States|Franklin|Cincinnati Bell Telephone Company LLC|
-|17|103.147.247.38|8181|Indonesia|Tangerang|PLBNET|
-|18|38.9.59.45|8080|India|Chennai|Microsense Private Limited|
-|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|20|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|168.138.174.78|3128|Singapore|Singapore|Oracle Corporation|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|89.39.104.191|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|16|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|119.47.90.230|1111|Indonesia|Kudus|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|20|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 
 
 
