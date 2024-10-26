@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.109.58.65|8080|Thailand|Pattaya|TOT Public Company Limited|
-|2|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|4|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|2|101.109.58.65|8080|Thailand|Pattaya|TOT Public Company Limited|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.252.107.119|7777|Indonesia|Gamping Lor|PT Lintas Data Prima|
+|9|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
 |10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|17|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.160.174|6925|Canada|Montreal|GloboTech Communications|
-|19|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|150.239.111.249|3128|United States|Washington|SoftLayer|
+|12|103.78.36.116|8080|Indonesia|Jakarta|MORATELINDO|
+|13|103.154.178.106|8080|Indonesia|Jambi City|PT Aneka Teguh Jaya|
+|14|103.162.54.117|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|15|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|37.211.17.145|8080|Qatar|Doha|Ooredoo|
 
 
 
