@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|45.76.226.242|9000|United States|Elk Grove Village|The Constant Company|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|45.76.226.242|9000|United States|Elk Grove Village|The Constant Company|
-|13|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|14|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|186.96.50.113|999|Mexico|Aguascalientes|Total Play Telecomunicaciones SA De CV|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|103.99.27.3|8181|Indonesia|Tangerang|PT Lintas Network Solusi|
-|18|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
-|19|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|185.64.208.134|53281|Russia|Kstovo|Svyazist LLC|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|9|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|10|200.10.28.185|8083|Colombia|Manizales|Super Redes S.A.S|
+|11|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|12|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
+|13|103.190.171.197|8080|Indonesia|Jakarta|WMS|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|203.113.114.94|33107|Thailand|Pathum Thani|TOT Public Company Limited|
+|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 
 
 
