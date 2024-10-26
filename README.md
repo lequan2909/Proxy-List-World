@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|7|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|213.153.63.119|8080|Austria|Salzburg|SALZBURG-AG|
 |8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
-|13|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|103.189.249.217|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
 |14|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|27.69.17.92|12024|Vietnam|Hanoi|Viettel Group|
-|16|27.69.17.92|12024|Vietnam|Hanoi|Viettel Group|
-|17|72.10.160.90|9147|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.92|5775|Canada|Montreal|GloboTech Communications|
-|19|46.161.194.65|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|20|27.69.17.92|12024|Vietnam|Hanoi|Viettel Group|
+|15|72.10.164.178|26023|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.229|5523|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|26023|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|26023|Canada|Montreal|GloboTech Communications|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|66.27.58.70|8080|United States|Hawthorne|Spectrum|
 
 
 
