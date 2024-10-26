@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|157.15.63.164|8085|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|7|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|72.10.164.178|21911|Canada|Montreal|GloboTech Communications|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|36.88.170.170|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|67.43.236.20|16375|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|18521|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.229|29777|Canada|Montreal|GloboTech Communications|
-|17|119.40.98.29|20|Mongolia|Ulan Bator|Topica Co., Ltd|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.226|18521|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|7457|Canada|Montreal|GloboTech Communications|
+|10|181.78.75.84|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|11|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
+|12|103.48.68.29|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|67.43.227.227|11977|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|1563|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|18|72.10.164.178|19829|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|72.10.164.178|19829|Canada|Montreal|GloboTech Communications|
 
 
 
