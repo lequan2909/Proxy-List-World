@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|8.217.29.205|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|9|202.138.247.146|8009|Indonesia|Bandung|Melsa-i-net|
-|10|49.49.210.209|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|131.241.33.214|8888|United States|Franklin|Cincinnati Bell Telephone Company LLC|
-|14|181.214.140.70|8989|The Netherlands|Amsterdam|Iomart Cloud Services Limited|
-|15|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|187.85.82.222|55676|Brazil|Barbacena|Vero S.A|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|20|147.28.155.20|55555|United States|Dallas|Packet Host, Inc.|
+|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|10|8.217.29.205|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|119.76.142.212|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|15|203.150.128.210|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|16|186.148.181.69|999|Colombia|Cogua|TV AZTECA SUCURSAL COLOMBIA|
+|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|18|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|20|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
