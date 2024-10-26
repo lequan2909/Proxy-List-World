@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|125.27.107.123|8080|Thailand|Pattaya|TOT Public Company Limited|
-|3|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|7|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|8|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|9|84.247.152.41|8000|Japan|Tokyo|Contabo GmbH|
-|10|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|11|190.89.111.116|8080|Brazil|Águas Lindas de Goiás|Ceunet Telecom Eireli|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|18|202.47.88.38|3127|Indonesia|Jombang|PT. Java Digital Nusantara|
-|19|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
+|10|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|103.160.207.53|32650|India|Morādābād|Moradabad Internet Services Private Limited|
+|14|181.10.200.154|3128|Argentina|Los Hornillos|Telecom Argentina S.A.|
+|15|103.166.158.213|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|18|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|19|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|20|103.48.68.218|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
