@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
 |4|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|5|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|8|188.125.169.237|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|5|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|7|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|8|103.242.105.193|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 |9|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|11|67.43.236.20|8111|Canada|Montreal|GloboTech Communications|
-|12|213.153.63.119|8080|Austria|Salzburg|SALZBURG-AG|
-|13|124.105.99.230|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|67.43.236.18|6075|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.93|17895|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|72.10.164.178|9213|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|8111|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|3987|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|9213|Canada|Montreal|GloboTech Communications|
+|10|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|67.43.236.20|8111|Canada|Montreal|GloboTech Communications|
+|14|213.153.63.119|8080|Austria|Salzburg|SALZBURG-AG|
+|15|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|16|67.43.227.228|11715|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.21|18653|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|1689|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|25803|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.92|25459|Canada|Montreal|GloboTech Communications|
 
 
 
