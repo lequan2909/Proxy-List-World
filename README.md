@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|6|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|16|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|17|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|181.115.66.238|999|Honduras|Nueva Ocotepeque|Telgua|
-|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|88.198.39.240|10008|Germany|Nuremberg|Hetzner Online GmbH|
+|5|61.7.191.48|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|46.252.35.91|8080|Albania|Tirana|Vodafone Albania Sh.A.|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|14|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|15|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|20|103.159.194.249|8080|Indonesia|Kendal|PT Giga Digital Nusantara|
 
 
 
