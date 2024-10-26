@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|2|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|9|103.20.90.121|8581|Indonesia|Surabaya|Wowrack Indonesia|
-|10|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|11|181.10.123.156|999|Argentina|Salta|Telecom Argentina S.A.|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|14|37.211.17.145|8080|Qatar|Doha|Ooredoo|
+|1|38.6.182.13|8080|United States|Los Angeles|Cnservers LLC|
+|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|6|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|103.84.177.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|45.87.208.37|8080|United Kingdom|Edinburgh|WiFi Scotland LLP|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|196.251.195.157|8084|South Africa|Brits|Info-Gro (PTY) Ltd|
-|17|67.43.228.252|2489|Canada|Montreal|GloboTech Communications|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|16|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|18|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|72.10.160.90|29241|Canada|Montreal|GloboTech Communications|
+|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
