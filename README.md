@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|2|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|3|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|200.37.187.60|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
-|7|190.89.111.116|8080|Brazil|Águas Lindas de Goiás|Ceunet Telecom Eireli|
-|8|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|9|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|12|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|13|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
-|14|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|185.236.233.251|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|17|116.104.133.0|5008|Vietnam|Hanoi|Viettel Corporation|
-|18|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|19|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|9|190.89.111.116|8080|Brazil|Águas Lindas de Goiás|Ceunet Telecom Eireli|
+|10|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|13|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|15|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
+|16|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|17|103.78.158.6|3125|Indonesia|Banjarmasin|PT Global Jaringan Borneo|
+|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|19|103.137.111.231|8080|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
 |20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
