@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|7|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|202.148.16.147|8080|Indonesia|Jakarta|PT. Core Mediatech|
-|9|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|10|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|11|125.229.149.169|65110|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|12|43.252.237.70|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|13|112.198.150.11|8082|Philippines|Carmona|Globe Telecom|
-|14|88.198.39.240|10008|Germany|Nuremberg|Hetzner Online GmbH|
-|15|188.125.169.237|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|44.210.243.104|3128|United States|Ashburn|Amazon.com|
-|17|124.105.198.250|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|18|38.159.227.181|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|19|67.43.236.20|15061|Canada|Montreal|GloboTech Communications|
-|20|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|7|45.123.142.6|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|18|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|19|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|20|67.43.236.20|1793|Canada|Montreal|GloboTech Communications|
 
 
 
