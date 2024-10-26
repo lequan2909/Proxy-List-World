@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.138.174.78|3128|Singapore|Singapore|Oracle Corporation|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|4|116.104.134.163|5020|Vietnam|Hanoi|Viettel Corporation|
+|3|116.104.134.163|5020|Vietnam|Hanoi|Viettel Corporation|
+|4|168.138.174.78|3128|Singapore|Singapore|Oracle Corporation|
 |5|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|9|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|10|103.217.216.183|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|13|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|14|72.10.160.93|11721|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|12119|Canada|Montreal|GloboTech Communications|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|72.10.164.178|13859|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|31041|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|4289|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|13859|Canada|Montreal|GloboTech Communications|
+|6|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|200.106.124.27|999|Peru|Tacna|Telefonica del Peru|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|193.227.240.69|8080|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|17|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|18|23.237.145.36|31288|United States|Miami|FDCservers.net|
+|19|72.10.160.174|29151|Canada|Montreal|GloboTech Communications|
+|20|103.242.105.193|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
