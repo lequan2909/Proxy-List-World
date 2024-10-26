@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|6|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|45.76.126.190|80|Australia|Sydney|The Constant Company|
+|2|46.250.252.11|8000|Japan|Tokyo|Contabo Asia Private Limited|
+|3|192.9.229.126|3128|United States|San Jose|Oracle Corporation|
+|4|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|203.150.113.36|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|7|103.255.132.213|1111|Indonesia|Banjarnegara|PT Sarana Kawan Setia|
+|8|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|103.137.111.67|8080|Indonesia|Mojokerto|PT. Capoeng Digital Nusantara|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|17|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|18|63.151.59.218|8080|United States|Ocala|CenturyLink|
-|19|203.190.46.159|3127|Indonesia|Sleman|PT Jaring Lintas Utara|
-|20|109.165.197.255|8181|Bosnia and Herzegovina|Bijeljina|TEOL-ADSL|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|103.163.226.253|3125|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
+|14|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|15|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|16|103.155.196.104|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|17|180.180.109.72|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|19|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
