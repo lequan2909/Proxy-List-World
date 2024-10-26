@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|185.236.233.251|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|202.47.88.38|3127|Indonesia|Jombang|PT. Java Digital Nusantara|
-|11|23.237.145.36|31288|United States|Miami|FDCservers.net|
-|12|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|13|190.89.111.116|8080|Brazil|Águas Lindas de Goiás|Ceunet Telecom Eireli|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|6|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|8|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|9|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|185.236.233.251|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|13|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
 |14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|103.186.90.41|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|17|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|18|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|19|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
