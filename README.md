@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|2|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|1|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |3|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|5|8.217.29.205|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|203.150.128.210|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|12|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|15|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
-|16|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|88.119.139.237|53281|Lithuania|Vilnius|Telia Lietuva|
-|18|72.10.160.90|24057|Canada|Montreal|GloboTech Communications|
-|19|131.241.33.214|8888|United States|Franklin|Cincinnati Bell Telephone Company LLC|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|8.217.29.205|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|103.125.173.26|8080|Indonesia|Deli Serdang|PT Trinity Teknologi Nusantara|
+|9|188.132.221.170|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|72.10.160.90|4583|Canada|Montreal|GloboTech Communications|
+|12|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|13|113.160.214.209|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
+|17|67.43.227.226|33113|Canada|Montreal|GloboTech Communications|
+|18|119.18.146.171|5020|Bangladesh|Chittagong|BBTS Network|
+|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
 
 
 
