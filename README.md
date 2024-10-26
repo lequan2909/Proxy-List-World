@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|171.228.154.103|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
 |2|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|3|203.150.128.210|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|8.217.29.205|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|6|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|191.97.68.42|8080|Argentina|Corrientes|Enlace Soluciones Informaticas SRL|
-|17|45.229.32.244|999|Dominican Republic|Santo Domingo Este|Gold Data USA Inc|
-|18|67.43.227.227|14681|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|4583|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|14681|Canada|Montreal|GloboTech Communications|
+|3|8.217.29.205|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|11|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|18|147.28.155.20|10092|United States|Dallas|Packet Host, Inc.|
+|19|147.28.155.20|10092|United States|Dallas|Packet Host, Inc.|
+|20|147.28.155.20|10092|United States|Dallas|Packet Host, Inc.|
 
 
 
