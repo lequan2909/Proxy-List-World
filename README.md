@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|12|38.52.208.3|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|139.185.35.122|3128|United Arab Emirates|Dubai|Oracle Corporation|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|188.132.221.170|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|103.115.31.161|8090|Indonesia|Curug|HSPNET|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|194.104.136.243|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|1|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|2|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|5|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|119.47.90.221|8080|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|103.189.250.69|7777|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|16|72.10.164.178|14023|Canada|Montreal|GloboTech Communications|
+|17|116.104.130.70|5020|Vietnam|Hanoi|Viettel Corporation|
+|18|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
+|19|131.241.33.214|8888|United States|Franklin|Cincinnati Bell Telephone Company LLC|
+|20|72.10.164.178|14023|Canada|Montreal|GloboTech Communications|
 
 
 
