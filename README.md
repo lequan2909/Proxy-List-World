@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.128.49.89|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|10|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|11|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|13|206.84.104.126|8080|Indonesia|Jakarta|AGIS|
-|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|103.156.86.76|8080|Indonesia|Palopo|PT Chacha Networking System|
+|12|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |16|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|103.242.105.193|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|18|72.10.164.178|16993|Canada|Montreal|GloboTech Communications|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|44.210.243.104|3128|United States|Ashburn|Amazon.com|
 
 
 
