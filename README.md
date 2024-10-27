@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5608** proxies at the latest update. Usable proxies are below.
+> Scraper found **5637** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|269|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|749|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|778|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|367|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3297|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|49.49.195.97|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
 |2|171.6.77.105|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|3|49.49.195.97|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|4|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|3|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
+|8|3.15.144.5|8888|United States|Dublin|Amazon.com, Inc.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|3.15.144.5|8888|United States|Dublin|Amazon.com, Inc.|
-|13|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
-|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|16|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|49.12.230.86|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|47.236.203.42|8888|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|45.166.93.27|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|17|38.180.190.65|8888|Singapore|Singapore|M247 Europe SRL|
+|18|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|19|177.93.48.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
