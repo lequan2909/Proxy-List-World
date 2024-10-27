@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|2|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.133.27.239|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|15.229.7.8|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|6|190.225.148.49|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|103.165.155.107|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|9|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|103.169.254.155|3127|Indonesia|Curahjati|PT Master Star Network|
-|11|103.152.238.181|8085|Indonesia|Bekasi|APRIN|
-|12|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|13|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|5.158.124.152|5555|Russia|Nizhnevartovsk|Pride Limited company|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|200.94.102.12|999|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|18|213.153.63.119|8080|Austria|Salzburg|SALZBURG-AG|
-|19|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.133.63.61|8080|Indonesia|Bandar Lampung|TLINK|
+|7|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
+|12|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|13|3.15.144.5|8888|United States|Dublin|Amazon.com, Inc.|
+|14|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
+|15|62.171.161.88|2018|Germany|Nuremberg|Contabo GmbH|
+|16|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|17|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|18|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|19|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|20|213.153.63.119|8080|Austria|Salzburg|SALZBURG-AG|
 
 
 
