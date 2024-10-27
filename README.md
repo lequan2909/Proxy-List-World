@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|3|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|190.181.24.34|999|Bolivia|La Paz|AXS Bolivia S. A.|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|113.160.155.121|19132|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|5.158.124.152|5555|Russia|Nizhnevartovsk|Pride Limited company|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|119.82.240.58|6060|Indonesia|Surabaya|Indonesia Network Information Center|
-|10|103.247.22.82|8080|Indonesia|Bekasi|PT wifian Solution|
-|11|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|67.43.227.228|24803|Canada|Montreal|GloboTech Communications|
-|14|45.229.32.244|999|Dominican Republic|Santo Domingo Este|Gold Data USA Inc|
-|15|72.10.160.171|25767|Canada|Montreal|GloboTech Communications|
-|16|103.124.198.110|1080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|18|72.10.164.178|21659|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|21679|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|25245|Canada|Montreal|GloboTech Communications|
+|5|3.15.144.5|8888|United States|Dublin|Amazon.com, Inc.|
+|6|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|113.160.155.121|19132|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|8|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
+|9|190.94.212.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|72.10.160.171|25767|Canada|Montreal|GloboTech Communications|
+|13|103.54.36.90|8674|Bangladesh|Khulna|Earth Telecommunication (Pvt.) Ltd|
+|14|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|15|72.10.160.90|16107|Canada|Montreal|GloboTech Communications|
+|16|103.239.254.72|58080|Bangladesh|Dhaka|Carnival Internet|
+|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|62.193.118.57|1981|Egypt|Ḩadā’iq al Qubbah|Etisalat|
+|19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|20|185.65.254.161|8081|Iraq|Abu Ghraib|IZONE|
 
 
 
