@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.128.211.17|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|4|14.241.80.61|8080|Vietnam|Thái Nguyên|VNPT|
-|5|3.15.144.5|8888|United States|Dublin|Amazon.com, Inc.|
-|6|113.160.133.85|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|124.120.108.176|8080|Thailand|Bangkok|TRUEBB|
-|8|190.181.24.34|999|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|67.43.228.250|20179|Canada|Montreal|GloboTech Communications|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|213.153.63.119|8080|Austria|Salzburg|SALZBURG-AG|
-|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|117.2.228.249|5400|Vietnam|Hanoi|Viettel Corporation|
-|17|67.43.227.227|14841|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|13921|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|21679|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19149|Canada|Montreal|GloboTech Communications|
+|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|103.172.70.29|1111|Indonesia|Gemolong|AZNET|
+|4|67.43.227.228|2981|Canada|Montreal|GloboTech Communications|
+|5|118.99.68.133|8080|Indonesia|Sidoarjo|Biznet Metronet|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|67.43.228.250|10055|Canada|Montreal|GloboTech Communications|
+|9|213.153.63.119|8080|Austria|Salzburg|SALZBURG-AG|
+|10|103.239.254.72|58080|Bangladesh|Dhaka|Carnival Internet|
+|11|103.211.107.114|7777|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|12|67.43.227.227|1329|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.170|14251|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|72.10.160.90|13921|Canada|Montreal|GloboTech Communications|
+|16|51.222.102.172|8080|Canada|Montreal|OVH SAS|
+|17|67.43.227.228|2981|Canada|Montreal|GloboTech Communications|
+|18|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|19|67.43.236.18|26907|Canada|Montreal|GloboTech Communications|
+|20|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
 
 
 
