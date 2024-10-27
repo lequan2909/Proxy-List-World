@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|101.51.169.179|8080|Thailand|Pattaya|TOT Public Company Limited|
-|3|203.150.113.195|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|51.159.159.73|80|France|Paris|SCALEWAY|
-|11|213.153.63.119|8080|Austria|Salzburg|SALZBURG-AG|
-|12|205.164.84.247|8591|Brazil|Buritis|AGIS|
-|13|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
-|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|40.90.177.99|8888|Singapore|Singapore|Microsoft Corporation|
-|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|45.133.107.10|81|Russia|Tul'skiy|Art-net LLC|
-|18|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|154.12.18.155|8080|United States|Pasadena|High Family Technology Co., Limited|
+|1|101.51.169.179|8080|Thailand|Pattaya|TOT Public Company Limited|
+|2|203.150.113.195|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|68.183.189.168|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|8|190.52.104.197|999|Venezuela|Caracas|Gold Data USA Inc|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|177.37.217.45|8080|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|40.90.177.99|8888|Singapore|Singapore|Microsoft Corporation|
+|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|16|182.253.42.148|8082|Indonesia|Jakarta Pusat|BIZNET|
+|17|103.242.105.193|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|18|67.43.227.227|17811|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|17811|Canada|Montreal|GloboTech Communications|
 |20|72.10.164.178|2429|Canada|Montreal|GloboTech Communications|
 
 
